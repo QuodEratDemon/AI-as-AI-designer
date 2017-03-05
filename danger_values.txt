@@ -1,0 +1,2266 @@
+Danger: 2961 Norm: 0.987 Curve Score: 0.74372406301541 Score: 26
+Final Score: 21 
+Danger: 2961 Norm: 0.987 Curve Score: 0.74372406301541 Score: 26
+Final Score: 26 
+Danger: 2961 Norm: 0.987 Curve Score: 0.74372406301541 Score: 26
+Final Score: 26 
+Danger: 2918 Norm: 0.9726666666666667 Curve Score: 0.74692880150215 Score: 26
+Final Score: 21 
+Danger: 2918 Norm: 0.9726666666666667 Curve Score: 0.74692880150215 Score: 26
+Final Score: 26 
+Danger: 2918 Norm: 0.9726666666666667 Curve Score: 0.74692880150215 Score: 26
+Final Score: 26 
+Danger: 2873 Norm: 0.9576666666666667 Curve Score: 0.7502973863141028 Score: 25
+Final Score: 25 
+Danger: 2873 Norm: 0.9576666666666667 Curve Score: 0.7502973863141028 Score: 25
+Final Score: 20 
+Danger: 2829 Norm: 0.943 Curve Score: 0.7536058025742921 Score: 25
+Final Score: 25 
+Danger: 2829 Norm: 0.943 Curve Score: 0.7536058025742921 Score: 25
+Final Score: 20 
+Danger: 2786 Norm: 0.9286666666666666 Curve Score: 0.7568531218953161 Score: 25
+Final Score: 25 
+Danger: 2786 Norm: 0.9286666666666666 Curve Score: 0.7568531218953161 Score: 25
+Final Score: 20 
+Danger: 2741 Norm: 0.9136666666666666 Curve Score: 0.7602664645407841 Score: 24
+Final Score: 24 
+Danger: 2741 Norm: 0.9136666666666666 Curve Score: 0.7602664645407841 Score: 24
+Final Score: 19 
+Danger: 2697 Norm: 0.899 Curve Score: 0.7636188391848167 Score: 24
+Final Score: 24 
+Danger: 2697 Norm: 0.899 Curve Score: 0.7636188391848167 Score: 24
+Final Score: 24 
+Danger: 2654 Norm: 0.8846666666666667 Curve Score: 0.766909305104681 Score: 24
+Final Score: 24 
+Danger: 2654 Norm: 0.8846666666666667 Curve Score: 0.766909305104681 Score: 24
+Final Score: 24 
+Danger: 2954 Norm: 0.9846666666666667 Curve Score: 0.7442448260676071 Score: 26
+Final Score: 21 
+Danger: 2954 Norm: 0.9846666666666667 Curve Score: 0.7442448260676071 Score: 26
+Final Score: 26 
+Danger: 2954 Norm: 0.9846666666666667 Curve Score: 0.7442448260676071 Score: 26
+Final Score: 26 
+Danger: 2608 Norm: 0.8693333333333333 Curve Score: 0.7704450370736795 Score: 23
+Final Score: 23 
+Danger: 2608 Norm: 0.8693333333333333 Curve Score: 0.7704450370736795 Score: 23
+Final Score: 23 
+Danger: 2904 Norm: 0.968 Curve Score: 0.7479751818014194 Score: 26
+Final Score: 21 
+Danger: 2904 Norm: 0.968 Curve Score: 0.7479751818014194 Score: 26
+Final Score: 26 
+Danger: 2904 Norm: 0.968 Curve Score: 0.7479751818014194 Score: 26
+Final Score: 26 
+Danger: 2558 Norm: 0.8526666666666667 Curve Score: 0.7743067153292351 Score: 23
+Final Score: 23 
+Danger: 2558 Norm: 0.8526666666666667 Curve Score: 0.7743067153292351 Score: 23
+Final Score: 23 
+Danger: 2853 Norm: 0.951 Curve Score: 0.751799407507468 Score: 25
+Final Score: 25 
+Danger: 2853 Norm: 0.951 Curve Score: 0.751799407507468 Score: 25
+Final Score: 20 
+Danger: 2507 Norm: 0.8356666666666667 Curve Score: 0.7782655681323408 Score: 23
+Final Score: 23 
+Danger: 2507 Norm: 0.8356666666666667 Curve Score: 0.7782655681323408 Score: 23
+Final Score: 23 
+Danger: 2804 Norm: 0.9346666666666666 Curve Score: 0.7554920796323829 Score: 25
+Final Score: 25 
+Danger: 2804 Norm: 0.9346666666666666 Curve Score: 0.7554920796323829 Score: 25
+Final Score: 25 
+Danger: 2458 Norm: 0.8193333333333334 Curve Score: 0.7820882361745405 Score: 22
+Final Score: 22 
+Danger: 2458 Norm: 0.8193333333333334 Curve Score: 0.7820882361745405 Score: 22
+Final Score: 22 
+Danger: 2951 Norm: 0.9836666666666667 Curve Score: 0.7444681218435165 Score: 26
+Final Score: 21 
+Danger: 2951 Norm: 0.9836666666666667 Curve Score: 0.7444681218435165 Score: 26
+Final Score: 26 
+Danger: 2951 Norm: 0.9836666666666667 Curve Score: 0.7444681218435165 Score: 26
+Final Score: 26 
+Danger: 2752 Norm: 0.9173333333333333 Curve Score: 0.7594306729882956 Score: 25
+Final Score: 25 
+Danger: 2752 Norm: 0.9173333333333333 Curve Score: 0.7594306729882956 Score: 25
+Final Score: 25 
+Danger: 2406 Norm: 0.802 Curve Score: 0.7861654827980038 Score: 22
+Final Score: 22 
+Danger: 2406 Norm: 0.802 Curve Score: 0.7861654827980038 Score: 22
+Final Score: 22 
+Danger: 2899 Norm: 0.9663333333333334 Curve Score: 0.7483492441973185 Score: 26
+Final Score: 21 
+Danger: 2899 Norm: 0.9663333333333334 Curve Score: 0.7483492441973185 Score: 26
+Final Score: 26 
+Danger: 2899 Norm: 0.9663333333333334 Curve Score: 0.7483492441973185 Score: 26
+Final Score: 26 
+Danger: 2698 Norm: 0.8993333333333333 Curve Score: 0.763542484936323 Score: 24
+Final Score: 24 
+Danger: 2698 Norm: 0.8993333333333333 Curve Score: 0.763542484936323 Score: 24
+Final Score: 24 
+Danger: 2352 Norm: 0.784 Curve Score: 0.7904220459581087 Score: 21
+Final Score: 21 
+Danger: 2352 Norm: 0.784 Curve Score: 0.7904220459581087 Score: 21
+Final Score: 21 
+Danger: 2845 Norm: 0.9483333333333334 Curve Score: 0.7524010575794141 Score: 25
+Final Score: 25 
+Danger: 2845 Norm: 0.9483333333333334 Curve Score: 0.7524010575794141 Score: 25
+Final Score: 20 
+Danger: 2643 Norm: 0.881 Curve Score: 0.7677533272669794 Score: 24
+Final Score: 24 
+Danger: 2643 Norm: 0.881 Curve Score: 0.7677533272669794 Score: 24
+Final Score: 24 
+Danger: 2297 Norm: 0.7656666666666667 Curve Score: 0.7947811257419691 Score: 21
+Final Score: 21 
+Danger: 2297 Norm: 0.7656666666666667 Curve Score: 0.7947811257419691 Score: 21
+Final Score: 21 
+Danger: 2790 Norm: 0.93 Curve Score: 0.7565504563167357 Score: 25
+Final Score: 25 
+Danger: 2790 Norm: 0.93 Curve Score: 0.7565504563167357 Score: 25
+Final Score: 25 
+Danger: 2590 Norm: 0.8633333333333333 Curve Score: 0.7718330175502381 Score: 23
+Final Score: 23 
+Danger: 2590 Norm: 0.8633333333333333 Curve Score: 0.7718330175502381 Score: 23
+Final Score: 23 
+Danger: 2244 Norm: 0.748 Curve Score: 0.7990044364341536 Score: 21
+Final Score: 21 
+Danger: 2244 Norm: 0.748 Curve Score: 0.7990044364341536 Score: 21
+Final Score: 21 
+Danger: 2737 Norm: 0.9123333333333333 Curve Score: 0.7605706167456294 Score: 24
+Final Score: 24 
+Danger: 2737 Norm: 0.9123333333333333 Curve Score: 0.7605706167456294 Score: 24
+Final Score: 24 
+Danger: 2537 Norm: 0.8456666666666667 Curve Score: 0.7759343865058205 Score: 23
+Final Score: 23 
+Danger: 2537 Norm: 0.8456666666666667 Curve Score: 0.7759343865058205 Score: 23
+Final Score: 23 
+Danger: 2191 Norm: 0.7303333333333333 Curve Score: 0.8032501889692871 Score: 20
+Final Score: 20 
+Danger: 2191 Norm: 0.7303333333333333 Curve Score: 0.8032501889692871 Score: 20
+Final Score: 20 
+Danger: 2684 Norm: 0.8946666666666667 Curve Score: 0.7646121395169012 Score: 24
+Final Score: 24 
+Danger: 2684 Norm: 0.8946666666666667 Curve Score: 0.7646121395169012 Score: 24
+Final Score: 24 
+Danger: 2482 Norm: 0.8273333333333334 Curve Score: 0.7802135686403722 Score: 22
+Final Score: 22 
+Danger: 2482 Norm: 0.8273333333333334 Curve Score: 0.7802135686403722 Score: 22
+Final Score: 22 
+Danger: 2136 Norm: 0.712 Curve Score: 0.8076800143746171 Score: 20
+Final Score: 20 
+Danger: 2136 Norm: 0.712 Curve Score: 0.8076800143746171 Score: 20
+Final Score: 20 
+Danger: 2629 Norm: 0.8763333333333333 Curve Score: 0.7688288808602203 Score: 24
+Final Score: 24 
+Danger: 2629 Norm: 0.8763333333333333 Curve Score: 0.7688288808602203 Score: 24
+Final Score: 24 
+Danger: 2428 Norm: 0.8093333333333333 Curve Score: 0.7844379061443145 Score: 22
+Final Score: 22 
+Danger: 2428 Norm: 0.8093333333333333 Curve Score: 0.7844379061443145 Score: 22
+Final Score: 22 
+Danger: 2082 Norm: 0.694 Curve Score: 0.81205306441251 Score: 19
+Final Score: 19 
+Danger: 2082 Norm: 0.694 Curve Score: 0.81205306441251 Score: 19
+Final Score: 19 
+Danger: 2575 Norm: 0.8583333333333333 Curve Score: 0.7729915778525215 Score: 23
+Final Score: 23 
+Danger: 2575 Norm: 0.8583333333333333 Curve Score: 0.7729915778525215 Score: 23
+Final Score: 23 
+Danger: 2373 Norm: 0.791 Curve Score: 0.7887639841375246 Score: 22
+Final Score: 22 
+Danger: 2373 Norm: 0.791 Curve Score: 0.7887639841375246 Score: 22
+Final Score: 22 
+Danger: 2027 Norm: 0.6756666666666666 Curve Score: 0.816531436586722 Score: 19
+Final Score: 19 
+Danger: 2027 Norm: 0.6756666666666666 Curve Score: 0.816531436586722 Score: 19
+Final Score: 19 
+Danger: 2520 Norm: 0.84 Curve Score: 0.7772545307614664 Score: 23
+Final Score: 23 
+Danger: 2520 Norm: 0.84 Curve Score: 0.7772545307614664 Score: 23
+Final Score: 23 
+Danger: 2320 Norm: 0.7733333333333333 Curve Score: 0.7929553209218603 Score: 21
+Final Score: 21 
+Danger: 2320 Norm: 0.7733333333333333 Curve Score: 0.7929553209218603 Score: 21
+Final Score: 21 
+Danger: 1974 Norm: 0.658 Curve Score: 0.8208703241558275 Score: 18
+Final Score: 18 
+Danger: 1974 Norm: 0.658 Curve Score: 0.8208703241558275 Score: 18
+Final Score: 18 
+Danger: 2467 Norm: 0.8223333333333334 Curve Score: 0.7813847085726836 Score: 22
+Final Score: 22 
+Danger: 2467 Norm: 0.8223333333333334 Curve Score: 0.7813847085726836 Score: 22
+Final Score: 22 
+Danger: 2266 Norm: 0.7553333333333333 Curve Score: 0.7972486465390476 Score: 21
+Final Score: 21 
+Danger: 2266 Norm: 0.7553333333333333 Curve Score: 0.7972486465390476 Score: 21
+Final Score: 21 
+Danger: 1920 Norm: 0.64 Curve Score: 0.825314790947462 Score: 18
+Final Score: 18 
+Danger: 1920 Norm: 0.64 Curve Score: 0.825314790947462 Score: 18
+Final Score: 18 
+Danger: 2413 Norm: 0.8043333333333333 Curve Score: 0.7856153870203589 Score: 22
+Final Score: 22 
+Danger: 2413 Norm: 0.8043333333333333 Curve Score: 0.7856153870203589 Score: 22
+Final Score: 22 
+Danger: 2210 Norm: 0.7366666666666667 Curve Score: 0.8017255387178689 Score: 20
+Final Score: 20 
+Danger: 2210 Norm: 0.7366666666666667 Curve Score: 0.8017255387178689 Score: 20
+Final Score: 20 
+Danger: 1864 Norm: 0.6213333333333333 Curve Score: 0.8299492865326197 Score: 18
+Final Score: 18 
+Danger: 1864 Norm: 0.6213333333333333 Curve Score: 0.8299492865326197 Score: 18
+Final Score: 18 
+Danger: 2357 Norm: 0.7856666666666666 Curve Score: 0.7900269534707772 Score: 21
+Final Score: 21 
+Danger: 2357 Norm: 0.7856666666666666 Curve Score: 0.7900269534707772 Score: 21
+Final Score: 21 
+Danger: 2157 Norm: 0.719 Curve Score: 0.8059857506557199 Score: 20
+Final Score: 20 
+Danger: 2157 Norm: 0.719 Curve Score: 0.8059857506557199 Score: 20
+Final Score: 20 
+Danger: 1811 Norm: 0.6036666666666667 Curve Score: 0.8343594739191306 Score: 17
+Final Score: 17 
+Danger: 1811 Norm: 0.6036666666666667 Curve Score: 0.8343594739191306 Score: 17
+Final Score: 17 
+Danger: 2304 Norm: 0.768 Curve Score: 0.7942250014259199 Score: 21
+Final Score: 21 
+Danger: 2304 Norm: 0.768 Curve Score: 0.7942250014259199 Score: 21
+Final Score: 21 
+Danger: 2103 Norm: 0.701 Curve Score: 0.8103496273825388 Score: 19
+Final Score: 19 
+Danger: 2103 Norm: 0.701 Curve Score: 0.8103496273825388 Score: 19
+Final Score: 19 
+Danger: 1757 Norm: 0.5856666666666667 Curve Score: 0.8388769754842319 Score: 17
+Final Score: 17 
+Danger: 1757 Norm: 0.5856666666666667 Curve Score: 0.8388769754842319 Score: 17
+Final Score: 17 
+Danger: 2250 Norm: 0.75 Curve Score: 0.7985252015184906 Score: 21
+Final Score: 21 
+Danger: 2250 Norm: 0.75 Curve Score: 0.7985252015184906 Score: 21
+Final Score: 21 
+Danger: 2048 Norm: 0.6826666666666666 Curve Score: 0.8148186053122982 Score: 19
+Final Score: 19 
+Danger: 2048 Norm: 0.6826666666666666 Curve Score: 0.8148186053122982 Score: 19
+Final Score: 19 
+Danger: 1702 Norm: 0.5673333333333334 Curve Score: 0.8435032782090588 Score: 16
+Final Score: 16 
+Danger: 1702 Norm: 0.5673333333333334 Curve Score: 0.8435032782090588 Score: 16
+Final Score: 16 
+Danger: 2195 Norm: 0.7316666666666667 Curve Score: 0.8029289692026561 Score: 20
+Final Score: 20 
+Danger: 2195 Norm: 0.7316666666666667 Curve Score: 0.8029289692026561 Score: 20
+Final Score: 20 
+Danger: 1994 Norm: 0.6646666666666666 Curve Score: 0.8192303060717825 Score: 19
+Final Score: 19 
+Danger: 1994 Norm: 0.6646666666666666 Curve Score: 0.8192303060717825 Score: 19
+Final Score: 19 
+Danger: 1648 Norm: 0.5493333333333333 Curve Score: 0.8480702873922575 Score: 16
+Final Score: 16 
+Danger: 1648 Norm: 0.5493333333333333 Curve Score: 0.8480702873922575 Score: 16
+Final Score: 16 
+Danger: 2141 Norm: 0.7136666666666667 Curve Score: 0.8072762954911687 Score: 20
+Final Score: 20 
+Danger: 2141 Norm: 0.7136666666666667 Curve Score: 0.8072762954911687 Score: 20
+Final Score: 20 
+Danger: 1940 Norm: 0.6466666666666666 Curve Score: 0.8236658932563735 Score: 18
+Final Score: 18 
+Danger: 1940 Norm: 0.6466666666666666 Curve Score: 0.8236658932563735 Score: 18
+Final Score: 18 
+Danger: 1594 Norm: 0.5313333333333333 Curve Score: 0.8526620238923717 Score: 15
+Final Score: 15 
+Danger: 1594 Norm: 0.5313333333333333 Curve Score: 0.8526620238923717 Score: 15
+Final Score: 15 
+Danger: 2087 Norm: 0.6956666666666667 Curve Score: 0.8116471596598472 Score: 19
+Final Score: 19 
+Danger: 2087 Norm: 0.6956666666666667 Curve Score: 0.8116471596598472 Score: 19
+Final Score: 19 
+Danger: 1888 Norm: 0.6293333333333333 Curve Score: 0.8279598959363883 Score: 18
+Final Score: 18 
+Danger: 1888 Norm: 0.6293333333333333 Curve Score: 0.8279598959363883 Score: 18
+Final Score: 18 
+Danger: 1542 Norm: 0.514 Curve Score: 0.8571071915819861 Score: 15
+Final Score: 15 
+Danger: 1542 Norm: 0.514 Curve Score: 0.8571071915819861 Score: 15
+Final Score: 15 
+Danger: 2035 Norm: 0.6783333333333333 Curve Score: 0.8158785052908128 Score: 19
+Final Score: 19 
+Danger: 2035 Norm: 0.6783333333333333 Curve Score: 0.8158785052908128 Score: 19
+Final Score: 19 
+Danger: 1835 Norm: 0.6116666666666667 Curve Score: 0.8323595120922749 Score: 17
+Final Score: 17 
+Danger: 1835 Norm: 0.6116666666666667 Curve Score: 0.8323595120922749 Score: 17
+Final Score: 17 
+Danger: 1489 Norm: 0.49633333333333335 Curve Score: 0.8616616907381873 Score: 14
+Final Score: 14 
+Danger: 1489 Norm: 0.49633333333333335 Curve Score: 0.8616616907381873 Score: 14
+Final Score: 14 
+Danger: 1982 Norm: 0.6606666666666666 Curve Score: 0.8202139233113421 Score: 18
+Final Score: 18 
+Danger: 1982 Norm: 0.6606666666666666 Curve Score: 0.8202139233113421 Score: 18
+Final Score: 18 
+Danger: 1781 Norm: 0.5936666666666667 Curve Score: 0.8368661851943872 Score: 17
+Final Score: 17 
+Danger: 1781 Norm: 0.5936666666666667 Curve Score: 0.8368661851943872 Score: 17
+Final Score: 17 
+Danger: 1435 Norm: 0.47833333333333333 Curve Score: 0.8663270156469028 Score: 14
+Final Score: 14 
+Danger: 1435 Norm: 0.47833333333333333 Curve Score: 0.8663270156469028 Score: 14
+Final Score: 14 
+Danger: 1928 Norm: 0.6426666666666667 Curve Score: 0.8246548361290181 Score: 18
+Final Score: 18 
+Danger: 1928 Norm: 0.6426666666666667 Curve Score: 0.8246548361290181 Score: 18
+Final Score: 18 
+Danger: 1728 Norm: 0.576 Curve Score: 0.8413131276209069 Score: 16
+Final Score: 16 
+Danger: 1728 Norm: 0.576 Curve Score: 0.8413131276209069 Score: 16
+Final Score: 16 
+Danger: 1382 Norm: 0.46066666666666667 Curve Score: 0.8709305071360776 Score: 13
+Final Score: 13 
+Danger: 1382 Norm: 0.46066666666666667 Curve Score: 0.8709305071360776 Score: 13
+Final Score: 13 
+Danger: 1875 Norm: 0.625 Curve Score: 0.8290368898466803 Score: 18
+Final Score: 18 
+Danger: 1875 Norm: 0.625 Curve Score: 0.8290368898466803 Score: 18
+Final Score: 18 
+Danger: 1675 Norm: 0.5583333333333333 Curve Score: 0.8457837002254583 Score: 16
+Final Score: 16 
+Danger: 1675 Norm: 0.5583333333333333 Curve Score: 0.8457837002254583 Score: 16
+Final Score: 16 
+Danger: 1329 Norm: 0.443 Curve Score: 0.8755584606742339 Score: 13
+Final Score: 13 
+Danger: 1329 Norm: 0.443 Curve Score: 0.8755584606742339 Score: 13
+Final Score: 13 
+Danger: 1822 Norm: 0.6073333333333333 Curve Score: 0.8334422289365289 Score: 17
+Final Score: 17 
+Danger: 1822 Norm: 0.6073333333333333 Curve Score: 0.8334422289365289 Score: 17
+Final Score: 17 
+Danger: 1622 Norm: 0.5406666666666666 Curve Score: 0.850278028574163 Score: 15
+Final Score: 15 
+Danger: 1622 Norm: 0.5406666666666666 Curve Score: 0.850278028574163 Score: 15
+Final Score: 15 
+Danger: 1276 Norm: 0.42533333333333334 Curve Score: 0.8802110062478925 Score: 12
+Final Score: 12 
+Danger: 1276 Norm: 0.42533333333333334 Curve Score: 0.8802110062478925 Score: 12
+Final Score: 12 
+Danger: 1769 Norm: 0.5896666666666667 Curve Score: 0.8378709771324547 Score: 17
+Final Score: 17 
+Danger: 1769 Norm: 0.5896666666666667 Curve Score: 0.8378709771324547 Score: 17
+Final Score: 17 
+Danger: 1568 Norm: 0.5226666666666666 Curve Score: 0.8548817185242664 Score: 15
+Final Score: 15 
+Danger: 1568 Norm: 0.5226666666666666 Curve Score: 0.8548817185242664 Score: 15
+Final Score: 15 
+Danger: 1222 Norm: 0.4073333333333333 Curve Score: 0.8849767633617497 Score: 12
+Final Score: 12 
+Danger: 1222 Norm: 0.4073333333333333 Curve Score: 0.8849767633617497 Score: 12
+Final Score: 12 
+Danger: 1715 Norm: 0.5716666666666667 Curve Score: 0.8424074911517295 Score: 16
+Final Score: 16 
+Danger: 1715 Norm: 0.5716666666666667 Curve Score: 0.8424074911517295 Score: 16
+Final Score: 16 
+Danger: 1515 Norm: 0.505 Curve Score: 0.8594243919540439 Score: 15
+Final Score: 15 
+Danger: 1515 Norm: 0.505 Curve Score: 0.8594243919540439 Score: 15
+Final Score: 15 
+Danger: 1169 Norm: 0.38966666666666666 Curve Score: 0.8896793559447723 Score: 12
+Final Score: 12 
+Danger: 1169 Norm: 0.38966666666666666 Curve Score: 0.8896793559447723 Score: 12
+Final Score: 12 
+Danger: 1662 Norm: 0.554 Curve Score: 0.8468838789889924 Score: 16
+Final Score: 16 
+Danger: 1662 Norm: 0.554 Curve Score: 0.8468838789889924 Score: 16
+Final Score: 16 
+Danger: 1461 Norm: 0.487 Curve Score: 0.8640776033780145 Score: 14
+Final Score: 14 
+Danger: 1461 Norm: 0.487 Curve Score: 0.8640776033780145 Score: 14
+Final Score: 14 
+Danger: 1115 Norm: 0.37166666666666665 Curve Score: 0.8944963778742295 Score: 11
+Final Score: 11 
+Danger: 1115 Norm: 0.37166666666666665 Curve Score: 0.8944963778742295 Score: 11
+Final Score: 11 
+Danger: 1608 Norm: 0.536 Curve Score: 0.8514691918767594 Score: 15
+Final Score: 15 
+Danger: 1608 Norm: 0.536 Curve Score: 0.8514691918767594 Score: 15
+Final Score: 15 
+Danger: 1407 Norm: 0.469 Curve Score: 0.8687560088466957 Score: 14
+Final Score: 14 
+Danger: 1407 Norm: 0.469 Curve Score: 0.8687560088466957 Score: 14
+Final Score: 14 
+Danger: 1061 Norm: 0.3536666666666667 Curve Score: 0.8993394807733236 Score: 11
+Final Score: 11 
+Danger: 1061 Norm: 0.3536666666666667 Curve Score: 0.8993394807733236 Score: 11
+Final Score: 11 
+Danger: 1554 Norm: 0.518 Curve Score: 0.856079331183827 Score: 15
+Final Score: 15 
+Danger: 1554 Norm: 0.518 Curve Score: 0.856079331183827 Score: 15
+Final Score: 15 
+Danger: 1354 Norm: 0.4513333333333333 Curve Score: 0.8733724075283283 Score: 13
+Final Score: 13 
+Danger: 1354 Norm: 0.4513333333333333 Curve Score: 0.8733724075283283 Score: 13
+Final Score: 13 
+Danger: 1008 Norm: 0.336 Curve Score: 0.9041183940137555 Score: 10
+Final Score: 10 
+Danger: 1008 Norm: 0.336 Curve Score: 0.9041183940137555 Score: 10
+Final Score: 10 
+Danger: 1501 Norm: 0.5003333333333333 Curve Score: 0.8606283684918928 Score: 14
+Final Score: 14 
+Danger: 1501 Norm: 0.5003333333333333 Curve Score: 0.8606283684918928 Score: 14
+Final Score: 14 
+Danger: 1301 Norm: 0.43366666666666664 Curve Score: 0.8780133368452266 Score: 13
+Final Score: 13 
+Danger: 1301 Norm: 0.43366666666666664 Curve Score: 0.8780133368452266 Score: 13
+Final Score: 13 
+Danger: 955 Norm: 0.31833333333333336 Curve Score: 0.908922701459877 Score: 10
+Final Score: 10 
+Danger: 955 Norm: 0.31833333333333336 Curve Score: 0.908922701459877 Score: 10
+Final Score: 10 
+Danger: 1448 Norm: 0.4826666666666667 Curve Score: 0.8652015784901247 Score: 14
+Final Score: 14 
+Danger: 1448 Norm: 0.4826666666666667 Curve Score: 0.8652015784901247 Score: 14
+Final Score: 14 
+Danger: 1243 Norm: 0.41433333333333333 Curve Score: 0.8831203548886591 Score: 12
+Final Score: 12 
+Danger: 1243 Norm: 0.41433333333333333 Curve Score: 0.8831203548886591 Score: 12
+Final Score: 12 
+Danger: 897 Norm: 0.299 Curve Score: 0.9142095057049237 Score: 9
+Final Score: 9 
+Danger: 897 Norm: 0.299 Curve Score: 0.9142095057049237 Score: 9
+Final Score: 9 
+Danger: 1390 Norm: 0.4633333333333333 Curve Score: 0.8702340761608682 Score: 13
+Final Score: 13 
+Danger: 1390 Norm: 0.4633333333333333 Curve Score: 0.8702340761608682 Score: 13
+Final Score: 13 
+Danger: 1186 Norm: 0.3953333333333333 Curve Score: 0.8881682613874121 Score: 12
+Final Score: 12 
+Danger: 1186 Norm: 0.3953333333333333 Curve Score: 0.8881682613874121 Score: 12
+Final Score: 12 
+Danger: 840 Norm: 0.28 Curve Score: 0.9194351174570743 Score: 9
+Final Score: 9 
+Danger: 840 Norm: 0.28 Curve Score: 0.9194351174570743 Score: 9
+Final Score: 9 
+Danger: 1333 Norm: 0.44433333333333336 Curve Score: 0.8752083248283021 Score: 13
+Final Score: 13 
+Danger: 1333 Norm: 0.44433333333333336 Curve Score: 0.8752083248283021 Score: 13
+Final Score: 13 
+Danger: 2943 Norm: 0.981 Curve Score: 0.745063904833761 Score: 26
+Final Score: 21 
+Danger: 2943 Norm: 0.981 Curve Score: 0.745063904833761 Score: 26
+Final Score: 26 
+Danger: 2943 Norm: 0.981 Curve Score: 0.745063904833761 Score: 26
+Final Score: 26 
+Danger: 1125 Norm: 0.375 Curve Score: 0.8936023732726377 Score: 11
+Final Score: 11 
+Danger: 1125 Norm: 0.375 Curve Score: 0.8936023732726377 Score: 11
+Final Score: 11 
+Danger: 779 Norm: 0.25966666666666666 Curve Score: 0.9250605304747187 Score: 8
+Final Score: 8 
+Danger: 779 Norm: 0.25966666666666666 Curve Score: 0.9250605304747187 Score: 8
+Final Score: 8 
+Danger: 1272 Norm: 0.424 Curve Score: 0.8805631434665729 Score: 12
+Final Score: 12 
+Danger: 1272 Norm: 0.424 Curve Score: 0.8805631434665729 Score: 12
+Final Score: 12 
+Danger: 2882 Norm: 0.9606666666666667 Curve Score: 0.7496224561764819 Score: 26
+Final Score: 26 
+Danger: 2882 Norm: 0.9606666666666667 Curve Score: 0.7496224561764819 Score: 26
+Final Score: 21 
+Danger: 1066 Norm: 0.35533333333333333 Curve Score: 0.8988899459023884 Score: 11
+Final Score: 11 
+Danger: 1066 Norm: 0.35533333333333333 Curve Score: 0.8988899459023884 Score: 11
+Final Score: 11 
+Danger: 720 Norm: 0.24 Curve Score: 0.9305342455051379 Score: 7
+Final Score: 7 
+Danger: 720 Norm: 0.24 Curve Score: 0.9305342455051379 Score: 7
+Final Score: 7 
+Danger: 1213 Norm: 0.4043333333333333 Curve Score: 0.8857735611147595 Score: 12
+Final Score: 12 
+Danger: 1213 Norm: 0.4043333333333333 Curve Score: 0.8857735611147595 Score: 12
+Final Score: 12 
+Danger: 2823 Norm: 0.941 Curve Score: 0.7540580791117804 Score: 25
+Final Score: 25 
+Danger: 2823 Norm: 0.941 Curve Score: 0.7540580791117804 Score: 25
+Final Score: 25 
+Danger: 1009 Norm: 0.3363333333333333 Curve Score: 0.904027991214634 Score: 10
+Final Score: 10 
+Danger: 1009 Norm: 0.3363333333333333 Curve Score: 0.904027991214634 Score: 10
+Final Score: 10 
+Danger: 663 Norm: 0.221 Curve Score: 0.9358531692953044 Score: 7
+Final Score: 7 
+Danger: 663 Norm: 0.221 Curve Score: 0.9358531692953044 Score: 7
+Final Score: 7 
+Danger: 1156 Norm: 0.38533333333333336 Curve Score: 0.8908366333119102 Score: 11
+Final Score: 11 
+Danger: 1156 Norm: 0.38533333333333336 Curve Score: 0.8908366333119102 Score: 11
+Final Score: 11 
+Danger: 2766 Norm: 0.922 Curve Score: 0.7583682670232179 Score: 25
+Final Score: 25 
+Danger: 2766 Norm: 0.922 Curve Score: 0.7583682670232179 Score: 25
+Final Score: 25 
+Danger: 950 Norm: 0.31666666666666665 Curve Score: 0.9093772537119668 Score: 10
+Final Score: 10 
+Danger: 950 Norm: 0.31666666666666665 Curve Score: 0.9093772537119668 Score: 10
+Final Score: 10 
+Danger: 604 Norm: 0.20133333333333334 Curve Score: 0.941390745908165 Score: 6
+Final Score: 6 
+Danger: 604 Norm: 0.20133333333333334 Curve Score: 0.941390745908165 Score: 6
+Final Score: 6 
+Danger: 1097 Norm: 0.36566666666666664 Curve Score: 0.8961078406640444 Score: 11
+Final Score: 11 
+Danger: 1097 Norm: 0.36566666666666664 Curve Score: 0.8961078406640444 Score: 11
+Final Score: 11 
+Danger: 2707 Norm: 0.9023333333333333 Curve Score: 0.7628556401680517 Score: 24
+Final Score: 24 
+Danger: 2707 Norm: 0.9023333333333333 Curve Score: 0.7628556401680517 Score: 24
+Final Score: 24 
+Danger: 891 Norm: 0.297 Curve Score: 0.9147581685580581 Score: 9
+Final Score: 9 
+Danger: 891 Norm: 0.297 Curve Score: 0.9147581685580581 Score: 9
+Final Score: 9 
+Danger: 545 Norm: 0.18166666666666667 Curve Score: 0.9469610891512505 Score: 6
+Final Score: 6 
+Danger: 545 Norm: 0.18166666666666667 Curve Score: 0.9469610891512505 Score: 6
+Final Score: 6 
+Danger: 1038 Norm: 0.346 Curve Score: 0.9014102385015158 Score: 10
+Final Score: 10 
+Danger: 1038 Norm: 0.346 Curve Score: 0.9014102385015158 Score: 10
+Final Score: 10 
+Danger: 2648 Norm: 0.8826666666666667 Curve Score: 0.767369565739479 Score: 24
+Final Score: 24 
+Danger: 2648 Norm: 0.8826666666666667 Curve Score: 0.767369565739479 Score: 24
+Final Score: 24 
+Danger: 832 Norm: 0.2773333333333333 Curve Score: 0.9201709230443678 Score: 8
+Final Score: 8 
+Danger: 832 Norm: 0.2773333333333333 Curve Score: 0.9201709230443678 Score: 8
+Final Score: 8 
+Danger: 486 Norm: 0.162 Curve Score: 0.9525643929093834 Score: 5
+Final Score: 5 
+Danger: 486 Norm: 0.162 Curve Score: 0.9525643929093834 Score: 5
+Final Score: 5 
+Danger: 979 Norm: 0.3263333333333333 Curve Score: 0.9067440113828725 Score: 10
+Final Score: 10 
+Danger: 979 Norm: 0.3263333333333333 Curve Score: 0.9067440113828725 Score: 10
+Final Score: 10 
+Danger: 2589 Norm: 0.863 Curve Score: 0.7719102008519931 Score: 23
+Final Score: 23 
+Danger: 2589 Norm: 0.863 Curve Score: 0.7719102008519931 Score: 23
+Final Score: 23 
+Danger: 773 Norm: 0.25766666666666665 Curve Score: 0.9256157055705858 Score: 8
+Final Score: 8 
+Danger: 773 Norm: 0.25766666666666665 Curve Score: 0.9256157055705858 Score: 8
+Final Score: 8 
+Danger: 427 Norm: 0.14233333333333334 Curve Score: 0.9582008522146297 Score: 5
+Final Score: 5 
+Danger: 427 Norm: 0.14233333333333334 Curve Score: 0.9582008522146297 Score: 5
+Final Score: 5 
+Danger: 920 Norm: 0.30666666666666664 Curve Score: 0.9121093449587219 Score: 9
+Final Score: 9 
+Danger: 920 Norm: 0.30666666666666664 Curve Score: 0.9121093449587219 Score: 9
+Final Score: 9 
+Danger: 2530 Norm: 0.8433333333333334 Curve Score: 0.7764777035497563 Score: 23
+Final Score: 23 
+Danger: 2530 Norm: 0.8433333333333334 Curve Score: 0.7764777035497563 Score: 23
+Final Score: 23 
+Danger: 714 Norm: 0.238 Curve Score: 0.93109270565119 Score: 7
+Final Score: 7 
+Danger: 714 Norm: 0.238 Curve Score: 0.93109270565119 Score: 7
+Final Score: 7 
+Danger: 368 Norm: 0.12266666666666666 Curve Score: 0.9638706632530881 Score: 4
+Final Score: 4 
+Danger: 368 Norm: 0.12266666666666666 Curve Score: 0.9638706632530881 Score: 4
+Final Score: 4 
+Danger: 861 Norm: 0.287 Curve Score: 0.9175064259781923 Score: 9
+Final Score: 9 
+Danger: 861 Norm: 0.287 Curve Score: 0.9175064259781923 Score: 9
+Final Score: 9 
+Danger: 2471 Norm: 0.8236666666666667 Curve Score: 0.7810722328121005 Score: 22
+Final Score: 22 
+Danger: 2471 Norm: 0.8236666666666667 Curve Score: 0.7810722328121005 Score: 22
+Final Score: 22 
+Danger: 655 Norm: 0.21833333333333332 Curve Score: 0.9366021139220425 Score: 7
+Final Score: 7 
+Danger: 655 Norm: 0.21833333333333332 Curve Score: 0.9366021139220425 Score: 7
+Final Score: 7 
+Danger: 309 Norm: 0.103 Curve Score: 0.9695740233717185 Score: 4
+Final Score: 4 
+Danger: 309 Norm: 0.103 Curve Score: 0.9695740233717185 Score: 4
+Final Score: 4 
+Danger: 802 Norm: 0.2673333333333333 Curve Score: 0.9229354422954336 Score: 8
+Final Score: 8 
+Danger: 802 Norm: 0.2673333333333333 Curve Score: 0.9229354422954336 Score: 8
+Final Score: 8 
+Danger: 2412 Norm: 0.804 Curve Score: 0.7856939485590609 Score: 22
+Final Score: 22 
+Danger: 2412 Norm: 0.804 Curve Score: 0.7856939485590609 Score: 22
+Final Score: 22 
+Danger: 597 Norm: 0.199 Curve Score: 0.9420499171553094 Score: 6
+Final Score: 6 
+Danger: 597 Norm: 0.199 Curve Score: 0.9420499171553094 Score: 6
+Final Score: 6 
+Danger: 251 Norm: 0.08366666666666667 Curve Score: 0.9752136097242383 Score: 3
+Final Score: 3 
+Danger: 251 Norm: 0.08366666666666667 Curve Score: 0.9752136097242383 Score: 3
+Final Score: 3 
+Danger: 744 Norm: 0.248 Curve Score: 0.9283037525009048 Score: 8
+Final Score: 8 
+Danger: 744 Norm: 0.248 Curve Score: 0.9283037525009048 Score: 8
+Final Score: 8 
+Danger: 2354 Norm: 0.7846666666666666 Curve Score: 0.7902639852584171 Score: 21
+Final Score: 21 
+Danger: 2354 Norm: 0.7846666666666666 Curve Score: 0.7902639852584171 Score: 21
+Final Score: 21 
+Danger: 538 Norm: 0.17933333333333334 Curve Score: 0.9476241608086322 Score: 6
+Final Score: 6 
+Danger: 538 Norm: 0.17933333333333334 Curve Score: 0.9476241608086322 Score: 6
+Final Score: 6 
+Danger: 192 Norm: 0.064 Curve Score: 0.9809840876741273 Score: 2
+Final Score: 2 
+Danger: 192 Norm: 0.064 Curve Score: 0.9809840876741273 Score: 2
+Final Score: 2 
+Danger: 685 Norm: 0.22833333333333333 Curve Score: 0.9337966581383891 Score: 7
+Final Score: 7 
+Danger: 685 Norm: 0.22833333333333333 Curve Score: 0.9337966581383891 Score: 7
+Final Score: 7 
+Danger: 2295 Norm: 0.765 Curve Score: 0.7949400899149288 Score: 21
+Final Score: 21 
+Danger: 2295 Norm: 0.765 Curve Score: 0.7949400899149288 Score: 21
+Final Score: 21 
+Danger: 477 Norm: 0.159 Curve Score: 0.9534220438662109 Score: 5
+Final Score: 5 
+Danger: 477 Norm: 0.159 Curve Score: 0.9534220438662109 Score: 5
+Final Score: 5 
+Danger: 131 Norm: 0.043666666666666666 Curve Score: 0.9869860779746138 Score: 2
+Final Score: 2 
+Danger: 131 Norm: 0.043666666666666666 Curve Score: 0.9869860779746138 Score: 2
+Final Score: 2 
+Danger: 624 Norm: 0.208 Curve Score: 0.9395099398880061 Score: 7
+Final Score: 7 
+Danger: 624 Norm: 0.208 Curve Score: 0.9395099398880061 Score: 7
+Final Score: 7 
+Danger: 2234 Norm: 0.7446666666666667 Curve Score: 0.7998038005184817 Score: 21
+Final Score: 21 
+Danger: 2234 Norm: 0.7446666666666667 Curve Score: 0.7998038005184817 Score: 21
+Final Score: 21 
+Danger: 420 Norm: 0.14 Curve Score: 0.9588717940668994 Score: 5
+Final Score: 5 
+Danger: 420 Norm: 0.14 Curve Score: 0.9588717940668994 Score: 5
+Final Score: 5 
+Danger: 74 Norm: 0.024666666666666667 Curve Score: 0.9926276798351155 Score: 1
+Final Score: 1 
+Danger: 74 Norm: 0.024666666666666667 Curve Score: 0.9926276798351155 Score: 1
+Final Score: 1 
+Danger: 567 Norm: 0.189 Curve Score: 0.944880168651221 Score: 6
+Final Score: 6 
+Danger: 567 Norm: 0.189 Curve Score: 0.944880168651221 Score: 6
+Final Score: 6 
+Danger: 2177 Norm: 0.7256666666666667 Curve Score: 0.8043754704839798 Score: 20
+Final Score: 20 
+Danger: 2177 Norm: 0.7256666666666667 Curve Score: 0.8043754704839798 Score: 20
+Final Score: 20 
+Danger: 363 Norm: 0.121 Curve Score: 0.9643526949814202 Score: 4
+Final Score: 4 
+Danger: 363 Norm: 0.121 Curve Score: 0.9643526949814202 Score: 4
+Final Score: 4 
+Danger: 17 Norm: 0.005666666666666667 Curve Score: 0.9983015290314841 Score: 1
+Final Score: 1 
+Danger: 17 Norm: 0.005666666666666667 Curve Score: 0.9983015290314841 Score: 1
+Final Score: 1 
+Danger: 510 Norm: 0.17 Curve Score: 0.9502810935845827 Score: 5
+Final Score: 5 
+Danger: 510 Norm: 0.17 Curve Score: 0.9502810935845827 Score: 5
+Final Score: 5 
+Danger: 2120 Norm: 0.7066666666666667 Curve Score: 0.8089732720660818 Score: 20
+Final Score: 20 
+Danger: 2120 Norm: 0.7066666666666667 Curve Score: 0.8089732720660818 Score: 20
+Final Score: 20 
+Danger: 305 Norm: 0.10166666666666667 Curve Score: 0.969961911159387 Score: 4
+Final Score: 4 
+Danger: 305 Norm: 0.10166666666666667 Curve Score: 0.969961911159387 Score: 4
+Final Score: 4 
+Danger: 452 Norm: 0.15066666666666667 Curve Score: 0.9558084614360857 Score: 5
+Final Score: 5 
+Danger: 452 Norm: 0.15066666666666667 Curve Score: 0.9558084614360857 Score: 5
+Final Score: 5 
+Danger: 2062 Norm: 0.6873333333333334 Curve Score: 0.8136787143682918 Score: 19
+Final Score: 19 
+Danger: 2062 Norm: 0.6873333333333334 Curve Score: 0.8136787143682918 Score: 19
+Final Score: 19 
+Danger: 248 Norm: 0.08266666666666667 Curve Score: 0.9755062030645392 Score: 3
+Final Score: 3 
+Danger: 248 Norm: 0.08266666666666667 Curve Score: 0.9755062030645392 Score: 3
+Final Score: 3 
+Danger: 395 Norm: 0.13166666666666665 Curve Score: 0.9612718523740679 Score: 4
+Final Score: 4 
+Danger: 395 Norm: 0.13166666666666665 Curve Score: 0.9612718523740679 Score: 4
+Final Score: 4 
+Danger: 2005 Norm: 0.6683333333333333 Curve Score: 0.8183296931928875 Score: 19
+Final Score: 19 
+Danger: 2005 Norm: 0.6683333333333333 Curve Score: 0.8183296931928875 Score: 19
+Final Score: 19 
+Danger: 196 Norm: 0.06533333333333333 Curve Score: 0.9805917921178501 Score: 2
+Final Score: 2 
+Danger: 196 Norm: 0.06533333333333333 Curve Score: 0.9805917921178501 Score: 2
+Final Score: 2 
+Danger: 343 Norm: 0.11433333333333333 Curve Score: 0.9662832337413333 Score: 4
+Final Score: 4 
+Danger: 343 Norm: 0.11433333333333333 Curve Score: 0.9662832337413333 Score: 4
+Final Score: 4 
+Danger: 1953 Norm: 0.651 Curve Score: 0.8225958767564847 Score: 18
+Final Score: 18 
+Danger: 1953 Norm: 0.651 Curve Score: 0.8225958767564847 Score: 18
+Final Score: 18 
+Danger: 143 Norm: 0.04766666666666667 Curve Score: 0.9858024641710567 Score: 2
+Final Score: 2 
+Danger: 143 Norm: 0.04766666666666667 Curve Score: 0.9858024641710567 Score: 2
+Final Score: 2 
+Danger: 290 Norm: 0.09666666666666666 Curve Score: 0.9714178729275982 Score: 3
+Final Score: 3 
+Danger: 290 Norm: 0.09666666666666666 Curve Score: 0.9714178729275982 Score: 3
+Final Score: 3 
+Danger: 1900 Norm: 0.6333333333333333 Curve Score: 0.8269669895687188 Score: 18
+Final Score: 18 
+Danger: 1900 Norm: 0.6333333333333333 Curve Score: 0.8269669895687188 Score: 18
+Final Score: 18 
+Danger: 90 Norm: 0.03 Curve Score: 0.991040824711424 Score: 1
+Final Score: 1 
+Danger: 90 Norm: 0.03 Curve Score: 0.991040824711424 Score: 1
+Final Score: 1 
+Danger: 237 Norm: 0.079 Curve Score: 0.9765797965773128 Score: 3
+Final Score: 3 
+Danger: 237 Norm: 0.079 Curve Score: 0.9765797965773128 Score: 3
+Final Score: 3 
+Danger: 1847 Norm: 0.6156666666666667 Curve Score: 0.8313613296153182 Score: 17
+Final Score: 17 
+Danger: 1847 Norm: 0.6156666666666667 Curve Score: 0.8313613296153182 Score: 17
+Final Score: 17 
+Danger: 36 Norm: 0.012 Curve Score: 0.996406651572218 Score: 1
+Final Score: 1 
+Danger: 36 Norm: 0.012 Curve Score: 0.996406651572218 Score: 1
+Final Score: 1 
+Danger: 183 Norm: 0.061 Curve Score: 0.9818673265897208 Score: 2
+Final Score: 2 
+Danger: 183 Norm: 0.061 Curve Score: 0.9818673265897208 Score: 2
+Final Score: 2 
+Danger: 1793 Norm: 0.5976666666666667 Curve Score: 0.835862598223273 Score: 17
+Final Score: 17 
+Danger: 1793 Norm: 0.5976666666666667 Curve Score: 0.835862598223273 Score: 17
+Final Score: 17 
+Danger: 130 Norm: 0.043333333333333335 Curve Score: 0.9870847765824112 Score: 2
+Final Score: 2 
+Danger: 130 Norm: 0.043333333333333335 Curve Score: 0.9870847765824112 Score: 2
+Final Score: 2 
+Danger: 1740 Norm: 0.58 Curve Score: 0.840304207785878 Score: 16
+Final Score: 16 
+Danger: 1740 Norm: 0.58 Curve Score: 0.840304207785878 Score: 16
+Final Score: 16 
+Danger: 77 Norm: 0.025666666666666667 Curve Score: 0.9923299510789009 Score: 1
+Final Score: 1 
+Danger: 77 Norm: 0.025666666666666667 Curve Score: 0.9923299510789009 Score: 1
+Final Score: 1 
+Danger: 1687 Norm: 0.5623333333333334 Curve Score: 0.844769419188724 Score: 16
+Final Score: 16 
+Danger: 1687 Norm: 0.5623333333333334 Curve Score: 0.844769419188724 Score: 16
+Final Score: 16 
+Danger: 28 Norm: 0.009333333333333334 Curve Score: 0.997204055943144 Score: 1
+Final Score: 1 
+Danger: 28 Norm: 0.009333333333333334 Curve Score: 0.997204055943144 Score: 1
+Final Score: 1 
+Danger: 1638 Norm: 0.546 Curve Score: 0.8489187394130655 Score: 16
+Final Score: 16 
+Danger: 1638 Norm: 0.546 Curve Score: 0.8489187394130655 Score: 16
+Final Score: 16 
+Danger: 1590 Norm: 0.53 Curve Score: 0.8530031398650608 Score: 15
+Final Score: 15 
+Danger: 1590 Norm: 0.53 Curve Score: 0.8530031398650608 Score: 15
+Final Score: 15 
+Danger: 1539 Norm: 0.513 Curve Score: 0.8573643494535337 Score: 15
+Final Score: 15 
+Danger: 1539 Norm: 0.513 Curve Score: 0.8573643494535337 Score: 15
+Final Score: 15 
+Danger: 1496 Norm: 0.49866666666666665 Curve Score: 0.8610587687475825 Score: 14
+Final Score: 14 
+Danger: 1496 Norm: 0.49866666666666665 Curve Score: 0.8610587687475825 Score: 14
+Final Score: 14 
+Danger: 1451 Norm: 0.4836666666666667 Curve Score: 0.8649420699200217 Score: 14
+Final Score: 14 
+Danger: 1451 Norm: 0.4836666666666667 Curve Score: 0.8649420699200217 Score: 14
+Final Score: 14 
+Danger: 1407 Norm: 0.469 Curve Score: 0.8687560088466957 Score: 14
+Final Score: 14 
+Danger: 1407 Norm: 0.469 Curve Score: 0.8687560088466957 Score: 14
+Final Score: 14 
+Danger: 1364 Norm: 0.45466666666666666 Curve Score: 0.8724995152835445 Score: 13
+Final Score: 13 
+Danger: 1364 Norm: 0.45466666666666666 Curve Score: 0.8724995152835445 Score: 13
+Final Score: 13 
+Danger: 1319 Norm: 0.43966666666666665 Curve Score: 0.876434413241301 Score: 13
+Final Score: 13 
+Danger: 1319 Norm: 0.43966666666666665 Curve Score: 0.876434413241301 Score: 13
+Final Score: 13 
+Danger: 1274 Norm: 0.4246666666666667 Curve Score: 0.8803870572512521 Score: 12
+Final Score: 12 
+Danger: 1274 Norm: 0.4246666666666667 Curve Score: 0.8803870572512521 Score: 12
+Final Score: 12 
+Danger: 1230 Norm: 0.41 Curve Score: 0.884269100436527 Score: 12
+Final Score: 12 
+Danger: 1230 Norm: 0.41 Curve Score: 0.884269100436527 Score: 12
+Final Score: 12 
+Danger: 1186 Norm: 0.3953333333333333 Curve Score: 0.8881682613874121 Score: 12
+Final Score: 12 
+Danger: 1186 Norm: 0.3953333333333333 Curve Score: 0.8881682613874121 Score: 12
+Final Score: 12 
+Danger: 1141 Norm: 0.38033333333333336 Curve Score: 0.8921738240457956 Score: 11
+Final Score: 11 
+Danger: 1141 Norm: 0.38033333333333336 Curve Score: 0.8921738240457956 Score: 11
+Final Score: 11 
+Danger: 1097 Norm: 0.36566666666666664 Curve Score: 0.8961078406640444 Score: 11
+Final Score: 11 
+Danger: 1097 Norm: 0.36566666666666664 Curve Score: 0.8961078406640444 Score: 11
+Final Score: 11 
+Danger: 1052 Norm: 0.3506666666666667 Curve Score: 0.9001492101437886 Score: 10
+Final Score: 10 
+Danger: 1052 Norm: 0.3506666666666667 Curve Score: 0.9001492101437886 Score: 10
+Final Score: 10 
+Danger: 1008 Norm: 0.336 Curve Score: 0.9041183940137555 Score: 10
+Final Score: 10 
+Danger: 1008 Norm: 0.336 Curve Score: 0.9041183940137555 Score: 10
+Final Score: 10 
+Danger: 963 Norm: 0.321 Curve Score: 0.9081958904018407 Score: 10
+Final Score: 10 
+Danger: 963 Norm: 0.321 Curve Score: 0.9081958904018407 Score: 10
+Final Score: 10 
+Danger: 918 Norm: 0.306 Curve Score: 0.9122917759488072 Score: 9
+Final Score: 9 
+Danger: 918 Norm: 0.306 Curve Score: 0.9122917759488072 Score: 9
+Final Score: 9 
+Danger: 875 Norm: 0.2916666666666667 Curve Score: 0.9162228798499846 Score: 9
+Final Score: 9 
+Danger: 875 Norm: 0.2916666666666667 Curve Score: 0.9162228798499846 Score: 9
+Final Score: 9 
+Danger: 830 Norm: 0.27666666666666667 Curve Score: 0.9203549664306859 Score: 8
+Final Score: 8 
+Danger: 830 Norm: 0.27666666666666667 Curve Score: 0.9203549664306859 Score: 8
+Final Score: 8 
+Danger: 786 Norm: 0.262 Curve Score: 0.9244132470426492 Score: 8
+Final Score: 8 
+Danger: 786 Norm: 0.262 Curve Score: 0.9244132470426492 Score: 8
+Final Score: 8 
+Danger: 742 Norm: 0.24733333333333332 Curve Score: 0.9284894225344426 Score: 8
+Final Score: 8 
+Danger: 742 Norm: 0.24733333333333332 Curve Score: 0.9284894225344426 Score: 8
+Final Score: 8 
+Danger: 697 Norm: 0.23233333333333334 Curve Score: 0.9326768301702416 Score: 7
+Final Score: 7 
+Danger: 697 Norm: 0.23233333333333334 Curve Score: 0.9326768301702416 Score: 7
+Final Score: 7 
+Danger: 654 Norm: 0.218 Curve Score: 0.9366957741334347 Score: 7
+Final Score: 7 
+Danger: 654 Norm: 0.218 Curve Score: 0.9366957741334347 Score: 7
+Final Score: 7 
+Danger: 611 Norm: 0.20366666666666666 Curve Score: 0.9407320358963809 Score: 6
+Final Score: 6 
+Danger: 611 Norm: 0.20366666666666666 Curve Score: 0.9407320358963809 Score: 6
+Final Score: 6 
+Danger: 567 Norm: 0.189 Curve Score: 0.944880168651221 Score: 6
+Final Score: 6 
+Danger: 567 Norm: 0.189 Curve Score: 0.944880168651221 Score: 6
+Final Score: 6 
+Danger: 567 Norm: 0.189 Curve Score: 0.944880168651221 Score: 6
+Final Score: 6 
+Danger: 525 Norm: 0.175 Curve Score: 0.9488568116356174 Score: 6
+Final Score: 6 
+Danger: 525 Norm: 0.175 Curve Score: 0.9488568116356174 Score: 6
+Final Score: 6 
+Danger: 483 Norm: 0.161 Curve Score: 0.9528501908051407 Score: 5
+Final Score: 5 
+Danger: 483 Norm: 0.161 Curve Score: 0.9528501908051407 Score: 5
+Final Score: 5 
+Danger: 483 Norm: 0.161 Curve Score: 0.9528501908051407 Score: 5
+Final Score: 5 
+Danger: 439 Norm: 0.14633333333333334 Curve Score: 0.9570517582399823 Score: 5
+Final Score: 5 
+Danger: 439 Norm: 0.14633333333333334 Curve Score: 0.9570517582399823 Score: 5
+Final Score: 5 
+Danger: 395 Norm: 0.13166666666666665 Curve Score: 0.9612718523740679 Score: 4
+Final Score: 4 
+Danger: 395 Norm: 0.13166666666666665 Curve Score: 0.9612718523740679 Score: 4
+Final Score: 4 
+Danger: 395 Norm: 0.13166666666666665 Curve Score: 0.9612718523740679 Score: 4
+Final Score: 4 
+Danger: 353 Norm: 0.11766666666666667 Curve Score: 0.9653174817508571 Score: 4
+Final Score: 4 
+Danger: 353 Norm: 0.11766666666666667 Curve Score: 0.9653174817508571 Score: 4
+Final Score: 4 
+Danger: 310 Norm: 0.10333333333333333 Curve Score: 0.969477075664152 Score: 4
+Final Score: 4 
+Danger: 310 Norm: 0.10333333333333333 Curve Score: 0.969477075664152 Score: 4
+Final Score: 4 
+Danger: 310 Norm: 0.10333333333333333 Curve Score: 0.969477075664152 Score: 4
+Final Score: 4 
+Danger: 267 Norm: 0.089 Curve Score: 0.973654593443792 Score: 3
+Final Score: 3 
+Danger: 267 Norm: 0.089 Curve Score: 0.973654593443792 Score: 3
+Final Score: 3 
+Danger: 224 Norm: 0.07466666666666667 Curve Score: 0.9778501123244765 Score: 3
+Final Score: 3 
+Danger: 224 Norm: 0.07466666666666667 Curve Score: 0.9778501123244765 Score: 3
+Final Score: 3 
+Danger: 224 Norm: 0.07466666666666667 Curve Score: 0.9778501123244765 Score: 3
+Final Score: 3 
+Danger: 181 Norm: 0.060333333333333336 Curve Score: 0.9820637098737119 Score: 2
+Final Score: 2 
+Danger: 181 Norm: 0.060333333333333336 Curve Score: 0.9820637098737119 Score: 2
+Final Score: 2 
+Danger: 138 Norm: 0.046 Curve Score: 0.9862954639932472 Score: 2
+Final Score: 2 
+Danger: 138 Norm: 0.046 Curve Score: 0.9862954639932472 Score: 2
+Final Score: 2 
+Danger: 138 Norm: 0.046 Curve Score: 0.9862954639932472 Score: 2
+Final Score: 2 
+Danger: 94 Norm: 0.03133333333333333 Curve Score: 0.9906445074658045 Score: 1
+Final Score: 1 
+Danger: 94 Norm: 0.03133333333333333 Curve Score: 0.9906445074658045 Score: 1
+Final Score: 1 
+Danger: 51 Norm: 0.017 Curve Score: 0.9949132366055895 Score: 1
+Final Score: 1 
+Danger: 51 Norm: 0.017 Curve Score: 0.9949132366055895 Score: 1
+Final Score: 1 
+Danger: 51 Norm: 0.017 Curve Score: 0.9949132366055895 Score: 1
+Final Score: 1 
+Danger: 8 Norm: 0.0026666666666666666 Curve Score: 0.9992003598800329 Score: 1
+Final Score: 1 
+Danger: 8 Norm: 0.0026666666666666666 Curve Score: 0.9992003598800329 Score: 1
+Final Score: 1 
+Danger: 8000 Norm: 2.6666666666666665 Curve Score: 0.4493469364370259 Score: 56
+Final Score: 76 
+Danger: 8000 Norm: 2.6666666666666665 Curve Score: 0.4493469364370259 Score: 56
+Final Score: 76 
+Danger: 8000 Norm: 2.6666666666666665 Curve Score: 0.4493469364370259 Score: 56
+Final Score: 76 
+Danger: 8000 Norm: 2.6666666666666665 Curve Score: 0.4493469364370259 Score: 56
+Final Score: 76 
+Danger: 8000 Norm: 2.6666666666666665 Curve Score: 0.4493469364370259 Score: 56
+Final Score: 76 
+Danger: 8000 Norm: 2.6666666666666665 Curve Score: 0.4493469364370259 Score: 56
+Final Score: 76 
+Danger: 8000 Norm: 2.6666666666666665 Curve Score: 0.4493469364370259 Score: 56
+Final Score: 76 
+Danger: 8000 Norm: 2.6666666666666665 Curve Score: 0.4493469364370259 Score: 56
+Final Score: 76 
+Danger: 8000 Norm: 2.6666666666666665 Curve Score: 0.4493469364370259 Score: 56
+Final Score: 76 
+Danger: 8000 Norm: 2.6666666666666665 Curve Score: 0.4493469364370259 Score: 56
+Final Score: 76 
+Danger: 8000 Norm: 2.6666666666666665 Curve Score: 0.4493469364370259 Score: 56
+Final Score: 76 
+Danger: 8000 Norm: 2.6666666666666665 Curve Score: 0.4493469364370259 Score: 56
+Final Score: 76 
+Danger: 8000 Norm: 2.6666666666666665 Curve Score: 0.4493469364370259 Score: 56
+Final Score: 76 
+Danger: 8000 Norm: 2.6666666666666665 Curve Score: 0.4493469364370259 Score: 56
+Final Score: 76 
+Danger: 8000 Norm: 2.6666666666666665 Curve Score: 0.4493469364370259 Score: 56
+Final Score: 76 
+Danger: 8000 Norm: 2.6666666666666665 Curve Score: 0.4493469364370259 Score: 56
+Final Score: 76 
+Danger: 8000 Norm: 2.6666666666666665 Curve Score: 0.4493469364370259 Score: 56
+Final Score: 76 
+Danger: 2956 Norm: 0.9853333333333333 Curve Score: 0.7440959994267617 Score: 26
+Final Score: 21 
+Danger: 2956 Norm: 0.9853333333333333 Curve Score: 0.7440959994267617 Score: 26
+Final Score: 26 
+Danger: 2913 Norm: 0.971 Curve Score: 0.747302340603251 Score: 26
+Final Score: 26 
+Danger: 2913 Norm: 0.971 Curve Score: 0.747302340603251 Score: 26
+Final Score: 26 
+Danger: 2913 Norm: 0.971 Curve Score: 0.747302340603251 Score: 26
+Final Score: 21 
+Danger: 2862 Norm: 0.954 Curve Score: 0.7511231262264348 Score: 25
+Final Score: 25 
+Danger: 2862 Norm: 0.954 Curve Score: 0.7511231262264348 Score: 25
+Final Score: 25 
+Danger: 2862 Norm: 0.954 Curve Score: 0.7511231262264348 Score: 25
+Final Score: 20 
+Danger: 2815 Norm: 0.9383333333333334 Curve Score: 0.7546615367535645 Score: 25
+Final Score: 25 
+Danger: 2766 Norm: 0.922 Curve Score: 0.7583682670232179 Score: 25
+Final Score: 25 
+Danger: 2719 Norm: 0.9063333333333333 Curve Score: 0.7619408081496739 Score: 24
+Final Score: 24 
+Danger: 2676 Norm: 0.892 Curve Score: 0.7652240433627375 Score: 24
+Final Score: 24 
+Danger: 2957 Norm: 0.9856666666666667 Curve Score: 0.7440215972670351 Score: 26
+Final Score: 21 
+Danger: 2957 Norm: 0.9856666666666667 Curve Score: 0.7440215972670351 Score: 26
+Final Score: 26 
+Danger: 2627 Norm: 0.8756666666666667 Curve Score: 0.7689826543246812 Score: 24
+Final Score: 24 
+Danger: 2908 Norm: 0.9693333333333334 Curve Score: 0.7476760665112602 Score: 26
+Final Score: 26 
+Danger: 2908 Norm: 0.9693333333333334 Curve Score: 0.7476760665112602 Score: 26
+Final Score: 26 
+Danger: 2908 Norm: 0.9693333333333334 Curve Score: 0.7476760665112602 Score: 26
+Final Score: 21 
+Danger: 2951 Norm: 0.9836666666666667 Curve Score: 0.7444681218435165 Score: 26
+Final Score: 21 
+Danger: 2951 Norm: 0.9836666666666667 Curve Score: 0.7444681218435165 Score: 26
+Final Score: 26 
+Danger: 2951 Norm: 0.9836666666666667 Curve Score: 0.7444681218435165 Score: 26
+Final Score: 26 
+Danger: 2578 Norm: 0.8593333333333333 Curve Score: 0.7727597267509316 Score: 23
+Final Score: 23 
+Danger: 2859 Norm: 0.953 Curve Score: 0.7513484856987477 Score: 25
+Final Score: 25 
+Danger: 2859 Norm: 0.953 Curve Score: 0.7513484856987477 Score: 25
+Final Score: 25 
+Danger: 2859 Norm: 0.953 Curve Score: 0.7513484856987477 Score: 25
+Final Score: 20 
+Danger: 2903 Norm: 0.9676666666666667 Curve Score: 0.7480499793195996 Score: 26
+Final Score: 26 
+Danger: 2903 Norm: 0.9676666666666667 Curve Score: 0.7480499793195996 Score: 26
+Final Score: 21 
+Danger: 2530 Norm: 0.8433333333333334 Curve Score: 0.7764777035497563 Score: 23
+Final Score: 23 
+Danger: 2811 Norm: 0.937 Curve Score: 0.7549634466509769 Score: 25
+Final Score: 25 
+Danger: 2811 Norm: 0.937 Curve Score: 0.7549634466509769 Score: 25
+Final Score: 25 
+Danger: 2811 Norm: 0.937 Curve Score: 0.7549634466509769 Score: 25
+Final Score: 20 
+Danger: 2854 Norm: 0.9513333333333334 Curve Score: 0.7517242350839596 Score: 25
+Final Score: 25 
+Danger: 2854 Norm: 0.9513333333333334 Curve Score: 0.7517242350839596 Score: 25
+Final Score: 20 
+Danger: 2481 Norm: 0.827 Curve Score: 0.7802915899972361 Score: 22
+Final Score: 22 
+Danger: 2762 Norm: 0.9206666666666666 Curve Score: 0.7586716598351568 Score: 25
+Final Score: 25 
+Danger: 2762 Norm: 0.9206666666666666 Curve Score: 0.7586716598351568 Score: 25
+Final Score: 25 
+Danger: 2762 Norm: 0.9206666666666666 Curve Score: 0.7586716598351568 Score: 25
+Final Score: 20 
+Danger: 2804 Norm: 0.9346666666666666 Curve Score: 0.7554920796323829 Score: 25
+Final Score: 25 
+Danger: 2804 Norm: 0.9346666666666666 Curve Score: 0.7554920796323829 Score: 25
+Final Score: 20 
+Danger: 2431 Norm: 0.8103333333333333 Curve Score: 0.7842026218309023 Score: 22
+Final Score: 22 
+Danger: 2712 Norm: 0.904 Curve Score: 0.762474326749619 Score: 24
+Final Score: 24 
+Danger: 2712 Norm: 0.904 Curve Score: 0.762474326749619 Score: 24
+Final Score: 24 
+Danger: 2712 Norm: 0.904 Curve Score: 0.762474326749619 Score: 24
+Final Score: 19 
+Danger: 2754 Norm: 0.918 Curve Score: 0.7592788096335807 Score: 25
+Final Score: 25 
+Danger: 2754 Norm: 0.918 Curve Score: 0.7592788096335807 Score: 25
+Final Score: 20 
+Danger: 2381 Norm: 0.7936666666666666 Curve Score: 0.7881332568106231 Score: 22
+Final Score: 22 
+Danger: 2381 Norm: 0.7936666666666666 Curve Score: 0.7881332568106231 Score: 22
+Final Score: 22 
+Danger: 2662 Norm: 0.8873333333333333 Curve Score: 0.7662960536559432 Score: 24
+Final Score: 24 
+Danger: 2704 Norm: 0.9013333333333333 Curve Score: 0.7630845197465342 Score: 24
+Final Score: 24 
+Danger: 2704 Norm: 0.9013333333333333 Curve Score: 0.7630845197465342 Score: 24
+Final Score: 19 
+Danger: 2331 Norm: 0.777 Curve Score: 0.7920835931926521 Score: 21
+Final Score: 21 
+Danger: 2331 Norm: 0.777 Curve Score: 0.7920835931926521 Score: 21
+Final Score: 21 
+Danger: 2612 Norm: 0.8706666666666667 Curve Score: 0.7701369360879475 Score: 23
+Final Score: 23 
+Danger: 2651 Norm: 0.8836666666666667 Curve Score: 0.7671394009042585 Score: 24
+Final Score: 24 
+Danger: 2651 Norm: 0.8836666666666667 Curve Score: 0.7671394009042585 Score: 24
+Final Score: 19 
+Danger: 2278 Norm: 0.7593333333333333 Curve Score: 0.7962925697270552 Score: 21
+Final Score: 21 
+Danger: 2278 Norm: 0.7593333333333333 Curve Score: 0.7962925697270552 Score: 21
+Final Score: 21 
+Danger: 2559 Norm: 0.853 Curve Score: 0.7742292923999952 Score: 23
+Final Score: 23 
+Danger: 2600 Norm: 0.8666666666666667 Curve Score: 0.7710616088710993 Score: 23
+Final Score: 23 
+Danger: 2600 Norm: 0.8666666666666667 Curve Score: 0.7710616088710993 Score: 23
+Final Score: 18 
+Danger: 2227 Norm: 0.7423333333333333 Curve Score: 0.8003638311656387 Score: 20
+Final Score: 20 
+Danger: 2227 Norm: 0.7423333333333333 Curve Score: 0.8003638311656387 Score: 20
+Final Score: 20 
+Danger: 2508 Norm: 0.836 Curve Score: 0.7781877493574051 Score: 23
+Final Score: 23 
+Danger: 2551 Norm: 0.8503333333333334 Curve Score: 0.7748488926614794 Score: 23
+Final Score: 23 
+Danger: 2551 Norm: 0.8503333333333334 Curve Score: 0.7748488926614794 Score: 23
+Final Score: 18 
+Danger: 2178 Norm: 0.726 Curve Score: 0.8042950409798818 Score: 20
+Final Score: 20 
+Danger: 2178 Norm: 0.726 Curve Score: 0.8042950409798818 Score: 20
+Final Score: 20 
+Danger: 2459 Norm: 0.8196666666666667 Curve Score: 0.7820100351710233 Score: 22
+Final Score: 22 
+Danger: 2500 Norm: 0.8333333333333334 Curve Score: 0.7788105174930449 Score: 23
+Final Score: 23 
+Danger: 2500 Norm: 0.8333333333333334 Curve Score: 0.7788105174930449 Score: 23
+Final Score: 18 
+Danger: 2127 Norm: 0.709 Curve Score: 0.8084072172202148 Score: 20
+Final Score: 20 
+Danger: 2127 Norm: 0.709 Curve Score: 0.8084072172202148 Score: 20
+Final Score: 20 
+Danger: 2408 Norm: 0.8026666666666666 Curve Score: 0.7860082732832644 Score: 22
+Final Score: 22 
+Danger: 2451 Norm: 0.817 Curve Score: 0.7826358622057681 Score: 22
+Final Score: 22 
+Danger: 2451 Norm: 0.817 Curve Score: 0.7826358622057681 Score: 22
+Final Score: 17 
+Danger: 2078 Norm: 0.6926666666666667 Curve Score: 0.8123779343647073 Score: 19
+Final Score: 19 
+Danger: 2078 Norm: 0.6926666666666667 Curve Score: 0.8123779343647073 Score: 19
+Final Score: 19 
+Danger: 2359 Norm: 0.7863333333333333 Curve Score: 0.789868971777732 Score: 22
+Final Score: 22 
+Danger: 2400 Norm: 0.8 Curve Score: 0.7866373000282296 Score: 22
+Final Score: 22 
+Danger: 2400 Norm: 0.8 Curve Score: 0.7866373000282296 Score: 22
+Final Score: 17 
+Danger: 2027 Norm: 0.6756666666666666 Curve Score: 0.816531436586722 Score: 19
+Final Score: 19 
+Danger: 2027 Norm: 0.6756666666666666 Curve Score: 0.816531436586722 Score: 19
+Final Score: 19 
+Danger: 2308 Norm: 0.7693333333333333 Curve Score: 0.7939073908319679 Score: 21
+Final Score: 21 
+Danger: 2352 Norm: 0.784 Curve Score: 0.7904220459581087 Score: 21
+Final Score: 21 
+Danger: 2352 Norm: 0.784 Curve Score: 0.7904220459581087 Score: 21
+Final Score: 16 
+Danger: 1979 Norm: 0.6596666666666666 Curve Score: 0.8204600120955734 Score: 18
+Final Score: 18 
+Danger: 1979 Norm: 0.6596666666666666 Curve Score: 0.8204600120955734 Score: 18
+Final Score: 18 
+Danger: 2260 Norm: 0.7533333333333333 Curve Score: 0.7977271153302143 Score: 21
+Final Score: 21 
+Danger: 2302 Norm: 0.7673333333333333 Curve Score: 0.7943838543684552 Score: 21
+Final Score: 21 
+Danger: 2302 Norm: 0.7673333333333333 Curve Score: 0.7943838543684552 Score: 21
+Final Score: 16 
+Danger: 1929 Norm: 0.643 Curve Score: 0.824572378891129 Score: 18
+Final Score: 18 
+Danger: 1929 Norm: 0.643 Curve Score: 0.824572378891129 Score: 18
+Final Score: 18 
+Danger: 2210 Norm: 0.7366666666666667 Curve Score: 0.8017255387178689 Score: 20
+Final Score: 20 
+Danger: 2253 Norm: 0.751 Curve Score: 0.798285691861563 Score: 21
+Final Score: 21 
+Danger: 2253 Norm: 0.751 Curve Score: 0.798285691861563 Score: 21
+Final Score: 16 
+Danger: 1880 Norm: 0.6266666666666667 Curve Score: 0.82862249572828 Score: 18
+Final Score: 18 
+Danger: 1880 Norm: 0.6266666666666667 Curve Score: 0.82862249572828 Score: 18
+Final Score: 18 
+Danger: 2161 Norm: 0.7203333333333334 Curve Score: 0.8056634369379156 Score: 20
+Final Score: 20 
+Danger: 2202 Norm: 0.734 Curve Score: 0.8023671436768963 Score: 20
+Final Score: 20 
+Danger: 2202 Norm: 0.734 Curve Score: 0.8023671436768963 Score: 20
+Final Score: 15 
+Danger: 1829 Norm: 0.6096666666666667 Curve Score: 0.8328590526701056 Score: 17
+Final Score: 17 
+Danger: 1829 Norm: 0.6096666666666667 Curve Score: 0.8328590526701056 Score: 17
+Final Score: 17 
+Danger: 2110 Norm: 0.7033333333333334 Curve Score: 0.8097826094732142 Score: 20
+Final Score: 20 
+Danger: 2151 Norm: 0.717 Curve Score: 0.8064694630200968 Score: 20
+Final Score: 20 
+Danger: 2151 Norm: 0.717 Curve Score: 0.8064694630200968 Score: 20
+Final Score: 15 
+Danger: 1778 Norm: 0.5926666666666667 Curve Score: 0.8371172701567678 Score: 17
+Final Score: 17 
+Danger: 1778 Norm: 0.5926666666666667 Curve Score: 0.8371172701567678 Score: 17
+Final Score: 17 
+Danger: 2059 Norm: 0.6863333333333334 Curve Score: 0.8139228423937774 Score: 19
+Final Score: 19 
+Danger: 2101 Norm: 0.7003333333333334 Curve Score: 0.8105117054115116 Score: 19
+Final Score: 19 
+Danger: 2101 Norm: 0.7003333333333334 Curve Score: 0.8105117054115116 Score: 19
+Final Score: 14 
+Danger: 1728 Norm: 0.576 Curve Score: 0.8413131276209069 Score: 16
+Final Score: 16 
+Danger: 1728 Norm: 0.576 Curve Score: 0.8413131276209069 Score: 16
+Final Score: 16 
+Danger: 2009 Norm: 0.6696666666666666 Curve Score: 0.8180024431322159 Score: 19
+Final Score: 19 
+Danger: 2051 Norm: 0.6836666666666666 Curve Score: 0.8145742086116738 Score: 19
+Final Score: 19 
+Danger: 2051 Norm: 0.6836666666666666 Curve Score: 0.8145742086116738 Score: 19
+Final Score: 14 
+Danger: 1678 Norm: 0.5593333333333333 Curve Score: 0.845530015853956 Score: 16
+Final Score: 16 
+Danger: 1678 Norm: 0.5593333333333333 Curve Score: 0.845530015853956 Score: 16
+Final Score: 16 
+Danger: 1959 Norm: 0.653 Curve Score: 0.8221024919295099 Score: 18
+Final Score: 18 
+Danger: 2002 Norm: 0.6673333333333333 Curve Score: 0.8185752166515546 Score: 19
+Final Score: 19 
+Danger: 2002 Norm: 0.6673333333333333 Curve Score: 0.8185752166515546 Score: 19
+Final Score: 14 
+Danger: 1629 Norm: 0.543 Curve Score: 0.8496830719606036 Score: 16
+Final Score: 16 
+Danger: 1629 Norm: 0.543 Curve Score: 0.8496830719606036 Score: 16
+Final Score: 16 
+Danger: 1910 Norm: 0.6366666666666667 Curve Score: 0.8261404772291207 Score: 18
+Final Score: 18 
+Danger: 1951 Norm: 0.6503333333333333 Curve Score: 0.8227604041577948 Score: 18
+Final Score: 18 
+Danger: 1578 Norm: 0.526 Curve Score: 0.8540273068026744 Score: 15
+Final Score: 15 
+Danger: 1578 Norm: 0.526 Curve Score: 0.8540273068026744 Score: 15
+Final Score: 15 
+Danger: 1859 Norm: 0.6196666666666667 Curve Score: 0.8303643441791146 Score: 17
+Final Score: 17 
+Danger: 1903 Norm: 0.6343333333333333 Curve Score: 0.8267189490815992 Score: 18
+Final Score: 18 
+Danger: 1530 Norm: 0.51 Curve Score: 0.8581362860912372 Score: 15
+Final Score: 15 
+Danger: 1530 Norm: 0.51 Curve Score: 0.8581362860912372 Score: 15
+Final Score: 15 
+Danger: 1811 Norm: 0.6036666666666667 Curve Score: 0.8343594739191306 Score: 17
+Final Score: 17 
+Danger: 1849 Norm: 0.6163333333333333 Curve Score: 0.83119508228691 Score: 17
+Final Score: 17 
+Danger: 1476 Norm: 0.492 Curve Score: 0.8627825232787628 Score: 14
+Final Score: 14 
+Danger: 1476 Norm: 0.492 Curve Score: 0.8627825232787628 Score: 14
+Final Score: 14 
+Danger: 1757 Norm: 0.5856666666666667 Curve Score: 0.8388769754842319 Score: 17
+Final Score: 17 
+Danger: 1793 Norm: 0.5976666666666667 Curve Score: 0.835862598223273 Score: 17
+Final Score: 17 
+Danger: 1420 Norm: 0.47333333333333333 Curve Score: 0.8676274162080369 Score: 14
+Final Score: 14 
+Danger: 1420 Norm: 0.47333333333333333 Curve Score: 0.8676274162080369 Score: 14
+Final Score: 14 
+Danger: 1701 Norm: 0.567 Curve Score: 0.8435876285368797 Score: 16
+Final Score: 16 
+Danger: 1738 Norm: 0.5793333333333334 Curve Score: 0.8404722770304773 Score: 16
+Final Score: 16 
+Danger: 1365 Norm: 0.455 Curve Score: 0.8724122740561389 Score: 13
+Final Score: 13 
+Danger: 1365 Norm: 0.455 Curve Score: 0.8724122740561389 Score: 13
+Final Score: 13 
+Danger: 1646 Norm: 0.5486666666666666 Curve Score: 0.848239909930439 Score: 16
+Final Score: 16 
+Danger: 1685 Norm: 0.5616666666666666 Curve Score: 0.8449383815202559 Score: 16
+Final Score: 16 
+Danger: 1312 Norm: 0.43733333333333335 Curve Score: 0.8770481014124751 Score: 13
+Final Score: 13 
+Danger: 1312 Norm: 0.43733333333333335 Curve Score: 0.8770481014124751 Score: 13
+Final Score: 13 
+Danger: 1593 Norm: 0.531 Curve Score: 0.8527472900947609 Score: 15
+Final Score: 15 
+Danger: 1630 Norm: 0.5433333333333333 Curve Score: 0.8495981121493885 Score: 16
+Final Score: 16 
+Danger: 1257 Norm: 0.419 Curve Score: 0.8818849131738502 Score: 12
+Final Score: 12 
+Danger: 1257 Norm: 0.419 Curve Score: 0.8818849131738502 Score: 12
+Final Score: 12 
+Danger: 1538 Norm: 0.5126666666666667 Curve Score: 0.857450085888479 Score: 15
+Final Score: 15 
+Danger: 1579 Norm: 0.5263333333333333 Curve Score: 0.8539419126114132 Score: 15
+Final Score: 15 
+Danger: 1206 Norm: 0.402 Curve Score: 0.8863937886509928 Score: 12
+Final Score: 12 
+Danger: 1206 Norm: 0.402 Curve Score: 0.8863937886509928 Score: 12
+Final Score: 12 
+Danger: 1487 Norm: 0.49566666666666664 Curve Score: 0.8618340316929519 Score: 14
+Final Score: 14 
+Danger: 1524 Norm: 0.508 Curve Score: 0.8586512966004989 Score: 15
+Final Score: 15 
+Danger: 1151 Norm: 0.38366666666666666 Curve Score: 0.8912821407211384 Score: 11
+Final Score: 11 
+Danger: 1151 Norm: 0.38366666666666666 Curve Score: 0.8912821407211384 Score: 11
+Final Score: 11 
+Danger: 1432 Norm: 0.47733333333333333 Curve Score: 0.8665869397422737 Score: 14
+Final Score: 14 
+Danger: 1471 Norm: 0.49033333333333334 Curve Score: 0.8632140008272828 Score: 14
+Final Score: 14 
+Danger: 1098 Norm: 0.366 Curve Score: 0.8960182388401604 Score: 11
+Final Score: 11 
+Danger: 1098 Norm: 0.366 Curve Score: 0.8960182388401604 Score: 11
+Final Score: 11 
+Danger: 1379 Norm: 0.45966666666666667 Curve Score: 0.8711918124170046 Score: 13
+Final Score: 13 
+Danger: 1416 Norm: 0.472 Curve Score: 0.8679745192356357 Score: 14
+Final Score: 14 
+Danger: 1043 Norm: 0.3476666666666667 Curve Score: 0.9009596685622577 Score: 10
+Final Score: 10 
+Danger: 1043 Norm: 0.3476666666666667 Curve Score: 0.9009596685622577 Score: 10
+Final Score: 10 
+Danger: 1324 Norm: 0.44133333333333336 Curve Score: 0.8759963274691732 Score: 13
+Final Score: 13 
+Danger: 1363 Norm: 0.4543333333333333 Curve Score: 0.872586765235073 Score: 13
+Final Score: 13 
+Danger: 990 Norm: 0.33 Curve Score: 0.9057471911621606 Score: 10
+Final Score: 10 
+Danger: 990 Norm: 0.33 Curve Score: 0.9057471911621606 Score: 10
+Final Score: 10 
+Danger: 1271 Norm: 0.4236666666666667 Curve Score: 0.8806511997809197 Score: 12
+Final Score: 12 
+Danger: 1309 Norm: 0.43633333333333335 Curve Score: 0.8773112421552189 Score: 13
+Final Score: 13 
+Danger: 936 Norm: 0.312 Curve Score: 0.910651209731569 Score: 9
+Final Score: 9 
+Danger: 936 Norm: 0.312 Curve Score: 0.910651209731569 Score: 9
+Final Score: 9 
+Danger: 1217 Norm: 0.4056666666666667 Curve Score: 0.8854193402499572 Score: 12
+Final Score: 12 
+Danger: 1255 Norm: 0.41833333333333333 Curve Score: 0.882061298975334 Score: 12
+Final Score: 12 
+Danger: 882 Norm: 0.294 Curve Score: 0.9155817802995524 Score: 9
+Final Score: 9 
+Danger: 882 Norm: 0.294 Curve Score: 0.9155817802995524 Score: 9
+Final Score: 9 
+Danger: 1163 Norm: 0.38766666666666666 Curve Score: 0.8902132970280375 Score: 11
+Final Score: 11 
+Danger: 1203 Norm: 0.401 Curve Score: 0.8866597333802883 Score: 12
+Final Score: 12 
+Danger: 830 Norm: 0.27666666666666667 Curve Score: 0.9203549664306859 Score: 8
+Final Score: 8 
+Danger: 830 Norm: 0.27666666666666667 Curve Score: 0.9203549664306859 Score: 8
+Final Score: 8 
+Danger: 1111 Norm: 0.37033333333333335 Curve Score: 0.89485423009874 Score: 11
+Final Score: 11 
+Danger: 1148 Norm: 0.38266666666666665 Curve Score: 0.8915495521027103 Score: 11
+Final Score: 11 
+Danger: 775 Norm: 0.25833333333333336 Curve Score: 0.9254306101942408 Score: 8
+Final Score: 8 
+Danger: 775 Norm: 0.25833333333333336 Curve Score: 0.9254306101942408 Score: 8
+Final Score: 8 
+Danger: 1056 Norm: 0.352 Curve Score: 0.8997892404566522 Score: 11
+Final Score: 11 
+Danger: 1096 Norm: 0.36533333333333334 Curve Score: 0.8961974514481108 Score: 11
+Final Score: 11 
+Danger: 723 Norm: 0.241 Curve Score: 0.9302551410542371 Score: 7
+Final Score: 7 
+Danger: 723 Norm: 0.241 Curve Score: 0.9302551410542371 Score: 7
+Final Score: 7 
+Danger: 1004 Norm: 0.33466666666666667 Curve Score: 0.9044800956220812 Score: 10
+Final Score: 10 
+Danger: 1042 Norm: 0.3473333333333333 Curve Score: 0.9010497645291139 Score: 10
+Final Score: 10 
+Danger: 669 Norm: 0.223 Curve Score: 0.9352918538704966 Score: 7
+Final Score: 7 
+Danger: 669 Norm: 0.223 Curve Score: 0.9352918538704966 Score: 7
+Final Score: 7 
+Danger: 950 Norm: 0.31666666666666665 Curve Score: 0.9093772537119668 Score: 10
+Final Score: 10 
+Danger: 988 Norm: 0.3293333333333333 Curve Score: 0.9059283496578651 Score: 10
+Final Score: 10 
+Danger: 615 Norm: 0.205 Curve Score: 0.9403558371364146 Score: 6
+Final Score: 6 
+Danger: 615 Norm: 0.205 Curve Score: 0.9403558371364146 Score: 6
+Final Score: 6 
+Danger: 896 Norm: 0.2986666666666667 Curve Score: 0.9143009266554942 Score: 9
+Final Score: 9 
+Danger: 933 Norm: 0.311 Curve Score: 0.9109244324149355 Score: 9
+Final Score: 9 
+Danger: 560 Norm: 0.18666666666666668 Curve Score: 0.9455417832271866 Score: 6
+Final Score: 6 
+Danger: 560 Norm: 0.18666666666666668 Curve Score: 0.9455417832271866 Score: 6
+Final Score: 6 
+Danger: 841 Norm: 0.2803333333333333 Curve Score: 0.9193431831387604 Score: 9
+Final Score: 9 
+Danger: 879 Norm: 0.293 Curve Score: 0.9158564823020113 Score: 9
+Final Score: 9 
+Danger: 506 Norm: 0.16866666666666666 Curve Score: 0.9506612630426834 Score: 5
+Final Score: 5 
+Danger: 506 Norm: 0.16866666666666666 Curve Score: 0.9506612630426834 Score: 5
+Final Score: 5 
+Danger: 787 Norm: 0.2623333333333333 Curve Score: 0.924320814961153 Score: 8
+Final Score: 8 
+Danger: 827 Norm: 0.27566666666666667 Curve Score: 0.9206311005321846 Score: 8
+Final Score: 8 
+Danger: 454 Norm: 0.15133333333333332 Curve Score: 0.9556173284142295 Score: 5
+Final Score: 5 
+Danger: 454 Norm: 0.15133333333333332 Curve Score: 0.9556173284142295 Score: 5
+Final Score: 5 
+Danger: 735 Norm: 0.245 Curve Score: 0.9291395601454959 Score: 8
+Final Score: 8 
+Danger: 772 Norm: 0.25733333333333336 Curve Score: 0.9257082671411428 Score: 8
+Final Score: 8 
+Danger: 399 Norm: 0.133 Curve Score: 0.9608874397410814 Score: 4
+Final Score: 4 
+Danger: 399 Norm: 0.133 Curve Score: 0.9608874397410814 Score: 4
+Final Score: 4 
+Danger: 680 Norm: 0.22666666666666666 Curve Score: 0.9342636498564626 Score: 7
+Final Score: 7 
+Danger: 718 Norm: 0.23933333333333334 Curve Score: 0.9307203616595814 Score: 7
+Final Score: 7 
+Danger: 345 Norm: 0.115 Curve Score: 0.9660900060792174 Score: 4
+Final Score: 4 
+Danger: 345 Norm: 0.115 Curve Score: 0.9660900060792174 Score: 4
+Final Score: 4 
+Danger: 626 Norm: 0.20866666666666667 Curve Score: 0.9393220660815691 Score: 7
+Final Score: 7 
+Danger: 662 Norm: 0.22066666666666668 Curve Score: 0.935946754612234 Score: 7
+Final Score: 7 
+Danger: 289 Norm: 0.09633333333333334 Curve Score: 0.9715150147148909 Score: 3
+Final Score: 3 
+Danger: 289 Norm: 0.09633333333333334 Curve Score: 0.9715150147148909 Score: 3
+Final Score: 3 
+Danger: 570 Norm: 0.19 Curve Score: 0.9445967612839884 Score: 6
+Final Score: 6 
+Danger: 608 Norm: 0.20266666666666666 Curve Score: 0.9410142837300517 Score: 6
+Final Score: 6 
+Danger: 235 Norm: 0.07833333333333334 Curve Score: 0.9767751223024262 Score: 3
+Final Score: 3 
+Danger: 235 Norm: 0.07833333333333334 Curve Score: 0.9767751223024262 Score: 3
+Final Score: 3 
+Danger: 516 Norm: 0.172 Curve Score: 0.9497111244342578 Score: 6
+Final Score: 6 
+Danger: 552 Norm: 0.184 Curve Score: 0.9462984814584248 Score: 6
+Final Score: 6 
+Danger: 179 Norm: 0.059666666666666666 Curve Score: 0.9822601324363238 Score: 2
+Final Score: 2 
+Danger: 179 Norm: 0.059666666666666666 Curve Score: 0.9822601324363238 Score: 2
+Final Score: 2 
+Danger: 460 Norm: 0.15333333333333332 Curve Score: 0.9550441586433174 Score: 5
+Final Score: 5 
+Danger: 498 Norm: 0.166 Curve Score: 0.951422058291515 Score: 5
+Final Score: 5 
+Danger: 125 Norm: 0.041666666666666664 Curve Score: 0.9875784176890515 Score: 2
+Final Score: 2 
+Danger: 125 Norm: 0.041666666666666664 Curve Score: 0.9875784176890515 Score: 2
+Final Score: 2 
+Danger: 406 Norm: 0.13533333333333333 Curve Score: 0.9602150875010512 Score: 4
+Final Score: 4 
+Danger: 442 Norm: 0.14733333333333334 Curve Score: 0.9567647001260466 Score: 5
+Final Score: 5 
+Danger: 69 Norm: 0.023 Curve Score: 0.9931240929477279 Score: 1
+Final Score: 1 
+Danger: 69 Norm: 0.023 Curve Score: 0.9931240929477279 Score: 1
+Final Score: 1 
+Danger: 350 Norm: 0.11666666666666667 Curve Score: 0.9656071059558722 Score: 4
+Final Score: 4 
+Danger: 385 Norm: 0.12833333333333333 Curve Score: 0.9622335569141485 Score: 4
+Final Score: 4 
+Danger: 12 Norm: 0.004 Curve Score: 0.9988007796361362 Score: 1
+Final Score: 1 
+Danger: 12 Norm: 0.004 Curve Score: 0.9988007796361362 Score: 1
+Final Score: 1 
+Danger: 293 Norm: 0.09766666666666667 Curve Score: 0.9711265058410795 Score: 3
+Final Score: 3 
+Danger: 329 Norm: 0.10966666666666666 Curve Score: 0.9676369099381379 Score: 4
+Final Score: 4 
+Danger: 237 Norm: 0.079 Curve Score: 0.9765797965773128 Score: 3
+Final Score: 3 
+Danger: 274 Norm: 0.09133333333333334 Curve Score: 0.9729733077699009 Score: 3
+Final Score: 3 
+Danger: 182 Norm: 0.06066666666666667 Curve Score: 0.9819655133223797 Score: 2
+Final Score: 2 
+Danger: 225 Norm: 0.075 Curve Score: 0.9777523370907674 Score: 3
+Final Score: 3 
+Danger: 133 Norm: 0.044333333333333336 Curve Score: 0.9867887103646538 Score: 2
+Final Score: 2 
+Danger: 177 Norm: 0.059 Curve Score: 0.9824565942854125 Score: 2
+Final Score: 2 
+Danger: 85 Norm: 0.028333333333333332 Curve Score: 0.9915364442377731 Score: 1
+Final Score: 1 
+Danger: 127 Norm: 0.042333333333333334 Curve Score: 0.9873809316289164 Score: 2
+Final Score: 2 
+Danger: 35 Norm: 0.011666666666666667 Curve Score: 0.9965062922373752 Score: 1
+Final Score: 1 
+Danger: 79 Norm: 0.026333333333333334 Curve Score: 0.9921315148546148 Score: 1
+Final Score: 1 
+Danger: 2952 Norm: 0.984 Curve Score: 0.7443936824752689 Score: 26
+Final Score: 21 
+Danger: 2952 Norm: 0.984 Curve Score: 0.7443936824752689 Score: 26
+Final Score: 26 
+Danger: 2952 Norm: 0.984 Curve Score: 0.7443936824752689 Score: 26
+Final Score: 26 
+Danger: 2952 Norm: 0.984 Curve Score: 0.7443936824752689 Score: 26
+Final Score: 26 
+Danger: 28 Norm: 0.009333333333333334 Curve Score: 0.997204055943144 Score: 1
+Final Score: 1 
+Danger: 2960 Norm: 0.9866666666666667 Curve Score: 0.7437984354217116 Score: 26
+Final Score: 26 
+Danger: 2960 Norm: 0.9866666666666667 Curve Score: 0.7437984354217116 Score: 26
+Final Score: 26 
+Danger: 2960 Norm: 0.9866666666666667 Curve Score: 0.7437984354217116 Score: 26
+Final Score: 21 
+Danger: 2960 Norm: 0.9866666666666667 Curve Score: 0.7437984354217116 Score: 26
+Final Score: 21 
+Danger: 2960 Norm: 0.9866666666666667 Curve Score: 0.7437984354217116 Score: 26
+Final Score: 26 
+Danger: 2917 Norm: 0.9723333333333334 Curve Score: 0.7470034943823003 Score: 26
+Final Score: 26 
+Danger: 2917 Norm: 0.9723333333333334 Curve Score: 0.7470034943823003 Score: 26
+Final Score: 26 
+Danger: 2917 Norm: 0.9723333333333334 Curve Score: 0.7470034943823003 Score: 26
+Final Score: 21 
+Danger: 2917 Norm: 0.9723333333333334 Curve Score: 0.7470034943823003 Score: 26
+Final Score: 21 
+Danger: 2917 Norm: 0.9723333333333334 Curve Score: 0.7470034943823003 Score: 26
+Final Score: 26 
+Danger: 2957 Norm: 0.9856666666666667 Curve Score: 0.7440215972670351 Score: 26
+Final Score: 21 
+Danger: 2957 Norm: 0.9856666666666667 Curve Score: 0.7440215972670351 Score: 26
+Final Score: 26 
+Danger: 2957 Norm: 0.9856666666666667 Curve Score: 0.7440215972670351 Score: 26
+Final Score: 26 
+Danger: 2874 Norm: 0.958 Curve Score: 0.750222364077695 Score: 25
+Final Score: 20 
+Danger: 2957 Norm: 0.9856666666666667 Curve Score: 0.7440215972670351 Score: 26
+Final Score: 26 
+Danger: 2874 Norm: 0.958 Curve Score: 0.750222364077695 Score: 25
+Final Score: 20 
+Danger: 2957 Norm: 0.9856666666666667 Curve Score: 0.7440215972670351 Score: 26
+Final Score: 21 
+Danger: 2909 Norm: 0.9696666666666667 Curve Score: 0.747601306380622 Score: 26
+Final Score: 21 
+Danger: 2909 Norm: 0.9696666666666667 Curve Score: 0.747601306380622 Score: 26
+Final Score: 26 
+Danger: 2909 Norm: 0.9696666666666667 Curve Score: 0.747601306380622 Score: 26
+Final Score: 26 
+Danger: 2826 Norm: 0.942 Curve Score: 0.753831906923992 Score: 25
+Final Score: 20 
+Danger: 2909 Norm: 0.9696666666666667 Curve Score: 0.747601306380622 Score: 26
+Final Score: 26 
+Danger: 2826 Norm: 0.942 Curve Score: 0.753831906923992 Score: 25
+Final Score: 20 
+Danger: 2909 Norm: 0.9696666666666667 Curve Score: 0.747601306380622 Score: 26
+Final Score: 21 
+Danger: 2863 Norm: 0.9543333333333334 Curve Score: 0.7510480214242924 Score: 25
+Final Score: 20 
+Danger: 2863 Norm: 0.9543333333333334 Curve Score: 0.7510480214242924 Score: 25
+Final Score: 25 
+Danger: 2863 Norm: 0.9543333333333334 Curve Score: 0.7510480214242924 Score: 25
+Final Score: 25 
+Danger: 2780 Norm: 0.9266666666666666 Curve Score: 0.7573073473115598 Score: 25
+Final Score: 20 
+Danger: 2863 Norm: 0.9543333333333334 Curve Score: 0.7510480214242924 Score: 25
+Final Score: 25 
+Danger: 2780 Norm: 0.9266666666666666 Curve Score: 0.7573073473115598 Score: 25
+Final Score: 20 
+Danger: 2863 Norm: 0.9543333333333334 Curve Score: 0.7510480214242924 Score: 25
+Final Score: 20 
+Danger: 2780 Norm: 0.9266666666666666 Curve Score: 0.7573073473115598 Score: 25
+Final Score: 25 
+Danger: 2815 Norm: 0.9383333333333334 Curve Score: 0.7546615367535645 Score: 25
+Final Score: 20 
+Danger: 2815 Norm: 0.9383333333333334 Curve Score: 0.7546615367535645 Score: 25
+Final Score: 25 
+Danger: 2815 Norm: 0.9383333333333334 Curve Score: 0.7546615367535645 Score: 25
+Final Score: 25 
+Danger: 2732 Norm: 0.9106666666666666 Curve Score: 0.7609509781186701 Score: 24
+Final Score: 19 
+Danger: 2815 Norm: 0.9383333333333334 Curve Score: 0.7546615367535645 Score: 25
+Final Score: 25 
+Danger: 2732 Norm: 0.9106666666666666 Curve Score: 0.7609509781186701 Score: 24
+Final Score: 19 
+Danger: 2815 Norm: 0.9383333333333334 Curve Score: 0.7546615367535645 Score: 25
+Final Score: 20 
+Danger: 2732 Norm: 0.9106666666666666 Curve Score: 0.7609509781186701 Score: 24
+Final Score: 24 
+Danger: 2767 Norm: 0.9223333333333333 Curve Score: 0.7582924377794399 Score: 25
+Final Score: 20 
+Danger: 2767 Norm: 0.9223333333333333 Curve Score: 0.7582924377794399 Score: 25
+Final Score: 25 
+Danger: 2767 Norm: 0.9223333333333333 Curve Score: 0.7582924377794399 Score: 25
+Final Score: 25 
+Danger: 2684 Norm: 0.8946666666666667 Curve Score: 0.7646121395169012 Score: 24
+Final Score: 19 
+Danger: 2767 Norm: 0.9223333333333333 Curve Score: 0.7582924377794399 Score: 25
+Final Score: 25 
+Danger: 2684 Norm: 0.8946666666666667 Curve Score: 0.7646121395169012 Score: 24
+Final Score: 19 
+Danger: 2767 Norm: 0.9223333333333333 Curve Score: 0.7582924377794399 Score: 25
+Final Score: 20 
+Danger: 2684 Norm: 0.8946666666666667 Curve Score: 0.7646121395169012 Score: 24
+Final Score: 24 
+Danger: 2684 Norm: 0.8946666666666667 Curve Score: 0.7646121395169012 Score: 24
+Final Score: 44 
+Danger: 8000 Norm: 2.6666666666666665 Curve Score: 0.4493469364370259 Score: 56
+Final Score: 76 
+Danger: 2719 Norm: 0.9063333333333333 Curve Score: 0.7619408081496739 Score: 24
+Final Score: 24 
+Danger: 2719 Norm: 0.9063333333333333 Curve Score: 0.7619408081496739 Score: 24
+Final Score: 19 
+Danger: 2636 Norm: 0.8786666666666667 Curve Score: 0.7682909158511392 Score: 24
+Final Score: 44 
+Danger: 2719 Norm: 0.9063333333333333 Curve Score: 0.7619408081496739 Score: 24
+Final Score: 24 
+Danger: 2636 Norm: 0.8786666666666667 Curve Score: 0.7682909158511392 Score: 24
+Final Score: 19 
+Danger: 2719 Norm: 0.9063333333333333 Curve Score: 0.7619408081496739 Score: 24
+Final Score: 19 
+Danger: 2636 Norm: 0.8786666666666667 Curve Score: 0.7682909158511392 Score: 24
+Final Score: 24 
+Danger: 2636 Norm: 0.8786666666666667 Curve Score: 0.7682909158511392 Score: 24
+Final Score: 44 
+Danger: 8000 Norm: 2.6666666666666665 Curve Score: 0.4493469364370259 Score: 56
+Final Score: 76 
+Danger: 2669 Norm: 0.8896666666666667 Curve Score: 0.7657598609169262 Score: 24
+Final Score: 24 
+Danger: 2669 Norm: 0.8896666666666667 Curve Score: 0.7657598609169262 Score: 24
+Final Score: 19 
+Danger: 2586 Norm: 0.862 Curve Score: 0.7721417970703267 Score: 23
+Final Score: 43 
+Danger: 2669 Norm: 0.8896666666666667 Curve Score: 0.7657598609169262 Score: 24
+Final Score: 24 
+Danger: 2586 Norm: 0.862 Curve Score: 0.7721417970703267 Score: 23
+Final Score: 18 
+Danger: 2669 Norm: 0.8896666666666667 Curve Score: 0.7657598609169262 Score: 24
+Final Score: 19 
+Danger: 2586 Norm: 0.862 Curve Score: 0.7721417970703267 Score: 23
+Final Score: 23 
+Danger: 2586 Norm: 0.862 Curve Score: 0.7721417970703267 Score: 23
+Final Score: 43 
+Danger: 2618 Norm: 0.8726666666666667 Curve Score: 0.7696750156119333 Score: 24
+Final Score: 24 
+Danger: 2618 Norm: 0.8726666666666667 Curve Score: 0.7696750156119333 Score: 24
+Final Score: 19 
+Danger: 2535 Norm: 0.845 Curve Score: 0.7760895811424656 Score: 23
+Final Score: 43 
+Danger: 2618 Norm: 0.8726666666666667 Curve Score: 0.7696750156119333 Score: 24
+Final Score: 24 
+Danger: 2535 Norm: 0.845 Curve Score: 0.7760895811424656 Score: 23
+Final Score: 18 
+Danger: 2618 Norm: 0.8726666666666667 Curve Score: 0.7696750156119333 Score: 24
+Final Score: 19 
+Danger: 2535 Norm: 0.845 Curve Score: 0.7760895811424656 Score: 23
+Final Score: 23 
+Danger: 2535 Norm: 0.845 Curve Score: 0.7760895811424656 Score: 23
+Final Score: 43 
+Danger: 2567 Norm: 0.8556666666666667 Curve Score: 0.7736101875957383 Score: 23
+Final Score: 23 
+Danger: 2567 Norm: 0.8556666666666667 Curve Score: 0.7736101875957383 Score: 23
+Final Score: 18 
+Danger: 2484 Norm: 0.828 Curve Score: 0.7800575493299307 Score: 22
+Final Score: 22 
+Danger: 2567 Norm: 0.8556666666666667 Curve Score: 0.7736101875957383 Score: 23
+Final Score: 23 
+Danger: 2484 Norm: 0.828 Curve Score: 0.7800575493299307 Score: 22
+Final Score: 22 
+Danger: 2567 Norm: 0.8556666666666667 Curve Score: 0.7736101875957383 Score: 23
+Final Score: 23 
+Danger: 2484 Norm: 0.828 Curve Score: 0.7800575493299307 Score: 22
+Final Score: 17 
+Danger: 2513 Norm: 0.8376666666666667 Curve Score: 0.7777987721836576 Score: 23
+Final Score: 23 
+Danger: 2946 Norm: 0.982 Curve Score: 0.7448404303586955 Score: 26
+Final Score: 26 
+Danger: 2513 Norm: 0.8376666666666667 Curve Score: 0.7777987721836576 Score: 23
+Final Score: 18 
+Danger: 2946 Norm: 0.982 Curve Score: 0.7448404303586955 Score: 26
+Final Score: 21 
+Danger: 2513 Norm: 0.8376666666666667 Curve Score: 0.7777987721836576 Score: 23
+Final Score: 23 
+Danger: 2946 Norm: 0.982 Curve Score: 0.7448404303586955 Score: 26
+Final Score: 21 
+Danger: 2513 Norm: 0.8376666666666667 Curve Score: 0.7777987721836576 Score: 23
+Final Score: 23 
+Danger: 2430 Norm: 0.81 Curve Score: 0.7842810420930855 Score: 22
+Final Score: 17 
+Danger: 2946 Norm: 0.982 Curve Score: 0.7448404303586955 Score: 26
+Final Score: 26 
+Danger: 2454 Norm: 0.818 Curve Score: 0.7824011183974329 Score: 22
+Final Score: 22 
+Danger: 2887 Norm: 0.9623333333333334 Curve Score: 0.7492477573655305 Score: 26
+Final Score: 26 
+Danger: 2454 Norm: 0.818 Curve Score: 0.7824011183974329 Score: 22
+Final Score: 17 
+Danger: 2887 Norm: 0.9623333333333334 Curve Score: 0.7492477573655305 Score: 26
+Final Score: 21 
+Danger: 2454 Norm: 0.818 Curve Score: 0.7824011183974329 Score: 22
+Final Score: 22 
+Danger: 2887 Norm: 0.9623333333333334 Curve Score: 0.7492477573655305 Score: 26
+Final Score: 21 
+Danger: 2454 Norm: 0.818 Curve Score: 0.7824011183974329 Score: 22
+Final Score: 22 
+Danger: 2371 Norm: 0.7903333333333333 Curve Score: 0.788921744821992 Score: 22
+Final Score: 17 
+Danger: 2887 Norm: 0.9623333333333334 Curve Score: 0.7492477573655305 Score: 26
+Final Score: 26 
+Danger: 2392 Norm: 0.7973333333333333 Curve Score: 0.7872668301707535 Score: 22
+Final Score: 22 
+Danger: 2825 Norm: 0.9416666666666667 Curve Score: 0.7539072901146845 Score: 25
+Final Score: 25 
+Danger: 2392 Norm: 0.7973333333333333 Curve Score: 0.7872668301707535 Score: 22
+Final Score: 17 
+Danger: 2825 Norm: 0.9416666666666667 Curve Score: 0.7539072901146845 Score: 25
+Final Score: 20 
+Danger: 2392 Norm: 0.7973333333333333 Curve Score: 0.7872668301707535 Score: 22
+Final Score: 22 
+Danger: 2825 Norm: 0.9416666666666667 Curve Score: 0.7539072901146845 Score: 25
+Final Score: 20 
+Danger: 2392 Norm: 0.7973333333333333 Curve Score: 0.7872668301707535 Score: 22
+Final Score: 22 
+Danger: 2309 Norm: 0.7696666666666667 Curve Score: 0.7938280080311648 Score: 21
+Final Score: 16 
+Danger: 2825 Norm: 0.9416666666666667 Curve Score: 0.7539072901146845 Score: 25
+Final Score: 25 
+Danger: 2766 Norm: 0.922 Curve Score: 0.7583682670232179 Score: 25
+Final Score: 25 
+Danger: 2333 Norm: 0.7776666666666666 Curve Score: 0.7919252002333533 Score: 21
+Final Score: 21 
+Danger: 2333 Norm: 0.7776666666666666 Curve Score: 0.7919252002333533 Score: 21
+Final Score: 21 
+Danger: 2766 Norm: 0.922 Curve Score: 0.7583682670232179 Score: 25
+Final Score: 25 
+Danger: 2766 Norm: 0.922 Curve Score: 0.7583682670232179 Score: 25
+Final Score: 20 
+Danger: 2250 Norm: 0.75 Curve Score: 0.7985252015184906 Score: 21
+Final Score: 21 
+Danger: 2766 Norm: 0.922 Curve Score: 0.7583682670232179 Score: 25
+Final Score: 45 
+Danger: 2703 Norm: 0.901 Curve Score: 0.7631608281985088 Score: 24
+Final Score: 24 
+Danger: 2270 Norm: 0.7566666666666667 Curve Score: 0.7969298267893544 Score: 21
+Final Score: 21 
+Danger: 2270 Norm: 0.7566666666666667 Curve Score: 0.7969298267893544 Score: 21
+Final Score: 21 
+Danger: 2703 Norm: 0.901 Curve Score: 0.7631608281985088 Score: 24
+Final Score: 24 
+Danger: 2703 Norm: 0.901 Curve Score: 0.7631608281985088 Score: 24
+Final Score: 19 
+Danger: 2187 Norm: 0.729 Curve Score: 0.8035715372430994 Score: 20
+Final Score: 20 
+Danger: 2703 Norm: 0.901 Curve Score: 0.7631608281985088 Score: 24
+Final Score: 44 
+Danger: 2645 Norm: 0.8816666666666667 Curve Score: 0.7675997996310552 Score: 24
+Final Score: 24 
+Danger: 2212 Norm: 0.7373333333333333 Curve Score: 0.8015652176586849 Score: 20
+Final Score: 20 
+Danger: 2212 Norm: 0.7373333333333333 Curve Score: 0.8015652176586849 Score: 20
+Final Score: 20 
+Danger: 2645 Norm: 0.8816666666666667 Curve Score: 0.7675997996310552 Score: 24
+Final Score: 24 
+Danger: 2645 Norm: 0.8816666666666667 Curve Score: 0.7675997996310552 Score: 24
+Final Score: 19 
+Danger: 2129 Norm: 0.7096666666666667 Curve Score: 0.8082455600257541 Score: 20
+Final Score: 20 
+Danger: 2645 Norm: 0.8816666666666667 Curve Score: 0.7675997996310552 Score: 24
+Final Score: 44 
+Danger: 2584 Norm: 0.8613333333333333 Curve Score: 0.7722962331511588 Score: 23
+Final Score: 23 
+Danger: 2151 Norm: 0.717 Curve Score: 0.8064694630200968 Score: 20
+Final Score: 20 
+Danger: 2151 Norm: 0.717 Curve Score: 0.8064694630200968 Score: 20
+Final Score: 20 
+Danger: 2584 Norm: 0.8613333333333333 Curve Score: 0.7722962331511588 Score: 23
+Final Score: 23 
+Danger: 2584 Norm: 0.8613333333333333 Curve Score: 0.7722962331511588 Score: 23
+Final Score: 18 
+Danger: 2068 Norm: 0.6893333333333334 Curve Score: 0.813190677966645 Score: 19
+Final Score: 19 
+Danger: 2584 Norm: 0.8613333333333333 Curve Score: 0.7722962331511588 Score: 23
+Final Score: 43 
+Danger: 2525 Norm: 0.8416666666666667 Curve Score: 0.7768660200570667 Score: 23
+Final Score: 23 
+Danger: 2092 Norm: 0.6973333333333334 Curve Score: 0.8112414577986892 Score: 19
+Final Score: 19 
+Danger: 2092 Norm: 0.6973333333333334 Curve Score: 0.8112414577986892 Score: 19
+Final Score: 19 
+Danger: 2525 Norm: 0.8416666666666667 Curve Score: 0.7768660200570667 Score: 23
+Final Score: 23 
+Danger: 2525 Norm: 0.8416666666666667 Curve Score: 0.7768660200570667 Score: 23
+Final Score: 18 
+Danger: 2009 Norm: 0.6696666666666666 Curve Score: 0.8180024431322159 Score: 19
+Final Score: 19 
+Danger: 2525 Norm: 0.8416666666666667 Curve Score: 0.7768660200570667 Score: 23
+Final Score: 43 
+Danger: 2464 Norm: 0.8213333333333334 Curve Score: 0.7816191474275781 Score: 22
+Final Score: 22 
+Danger: 2031 Norm: 0.677 Curve Score: 0.8162049056489031 Score: 19
+Final Score: 19 
+Danger: 2031 Norm: 0.677 Curve Score: 0.8162049056489031 Score: 19
+Final Score: 19 
+Danger: 2464 Norm: 0.8213333333333334 Curve Score: 0.7816191474275781 Score: 22
+Final Score: 22 
+Danger: 2464 Norm: 0.8213333333333334 Curve Score: 0.7816191474275781 Score: 22
+Final Score: 17 
+Danger: 1948 Norm: 0.6493333333333333 Curve Score: 0.8230072569626771 Score: 18
+Final Score: 18 
+Danger: 2464 Norm: 0.8213333333333334 Curve Score: 0.7816191474275781 Score: 22
+Final Score: 42 
+Danger: 2405 Norm: 0.8016666666666666 Curve Score: 0.7862440993462837 Score: 22
+Final Score: 22 
+Danger: 2405 Norm: 0.8016666666666666 Curve Score: 0.7862440993462837 Score: 22
+Final Score: 22 
+Danger: 1889 Norm: 0.6296666666666667 Curve Score: 0.8278771082255657 Score: 18
+Final Score: 18 
+Danger: 2405 Norm: 0.8016666666666666 Curve Score: 0.7862440993462837 Score: 22
+Final Score: 22 
+Danger: 1972 Norm: 0.6573333333333333 Curve Score: 0.8210345064293619 Score: 18
+Final Score: 18 
+Danger: 1972 Norm: 0.6573333333333333 Curve Score: 0.8210345064293619 Score: 18
+Final Score: 18 
+Danger: 2345 Norm: 0.7816666666666666 Curve Score: 0.7909755074065766 Score: 21
+Final Score: 21 
+Danger: 2345 Norm: 0.7816666666666666 Curve Score: 0.7909755074065766 Score: 21
+Final Score: 16 
+Danger: 1829 Norm: 0.6096666666666667 Curve Score: 0.8328590526701056 Score: 17
+Final Score: 17 
+Danger: 2345 Norm: 0.7816666666666666 Curve Score: 0.7909755074065766 Score: 21
+Final Score: 21 
+Danger: 2345 Norm: 0.7816666666666666 Curve Score: 0.7909755074065766 Score: 21
+Final Score: 21 
+Danger: 1912 Norm: 0.6373333333333333 Curve Score: 0.8259752739145849 Score: 18
+Final Score: 18 
+Danger: 1912 Norm: 0.6373333333333333 Curve Score: 0.8259752739145849 Score: 18
+Final Score: 18 
+Danger: 2284 Norm: 0.7613333333333333 Curve Score: 0.7958149613620762 Score: 21
+Final Score: 21 
+Danger: 2284 Norm: 0.7613333333333333 Curve Score: 0.7958149613620762 Score: 21
+Final Score: 16 
+Danger: 1768 Norm: 0.5893333333333334 Curve Score: 0.837954764230168 Score: 17
+Final Score: 17 
+Danger: 2284 Norm: 0.7613333333333333 Curve Score: 0.7958149613620762 Score: 21
+Final Score: 21 
+Danger: 2284 Norm: 0.7613333333333333 Curve Score: 0.7958149613620762 Score: 21
+Final Score: 21 
+Danger: 1851 Norm: 0.617 Curve Score: 0.8310288682029806 Score: 17
+Final Score: 17 
+Danger: 1851 Norm: 0.617 Curve Score: 0.8310288682029806 Score: 17
+Final Score: 17 
+Danger: 2224 Norm: 0.7413333333333333 Curve Score: 0.8006039643267038 Score: 20
+Final Score: 20 
+Danger: 2224 Norm: 0.7413333333333333 Curve Score: 0.8006039643267038 Score: 20
+Final Score: 15 
+Danger: 1708 Norm: 0.5693333333333334 Curve Score: 0.8429973533305962 Score: 16
+Final Score: 16 
+Danger: 2224 Norm: 0.7413333333333333 Curve Score: 0.8006039643267038 Score: 20
+Final Score: 20 
+Danger: 2224 Norm: 0.7413333333333333 Curve Score: 0.8006039643267038 Score: 20
+Final Score: 20 
+Danger: 1791 Norm: 0.597 Curve Score: 0.8360297791015437 Score: 17
+Final Score: 17 
+Danger: 1791 Norm: 0.597 Curve Score: 0.8360297791015437 Score: 17
+Final Score: 17 
+Danger: 2164 Norm: 0.7213333333333334 Curve Score: 0.8054217862385851 Score: 20
+Final Score: 20 
+Danger: 2164 Norm: 0.7213333333333334 Curve Score: 0.8054217862385851 Score: 20
+Final Score: 15 
+Danger: 1648 Norm: 0.5493333333333333 Curve Score: 0.8480702873922575 Score: 16
+Final Score: 16 
+Danger: 2164 Norm: 0.7213333333333334 Curve Score: 0.8054217862385851 Score: 20
+Final Score: 20 
+Danger: 2164 Norm: 0.7213333333333334 Curve Score: 0.8054217862385851 Score: 20
+Final Score: 20 
+Danger: 1731 Norm: 0.577 Curve Score: 0.8410607841529963 Score: 16
+Final Score: 16 
+Danger: 1731 Norm: 0.577 Curve Score: 0.8410607841529963 Score: 16
+Final Score: 16 
+Danger: 2104 Norm: 0.7013333333333334 Curve Score: 0.8102686005224865 Score: 19
+Final Score: 19 
+Danger: 2104 Norm: 0.7013333333333334 Curve Score: 0.8102686005224865 Score: 19
+Final Score: 19 
+Danger: 1671 Norm: 0.557 Curve Score: 0.8461220644559538 Score: 16
+Final Score: 16 
+Danger: 1671 Norm: 0.557 Curve Score: 0.8461220644559538 Score: 16
+Final Score: 16 
+Danger: 2045 Norm: 0.6816666666666666 Curve Score: 0.8150630753392649 Score: 19
+Final Score: 19 
+Danger: 2045 Norm: 0.6816666666666666 Curve Score: 0.8150630753392649 Score: 19
+Final Score: 19 
+Danger: 1612 Norm: 0.5373333333333333 Curve Score: 0.8511286893299014 Score: 15
+Final Score: 15 
+Danger: 1612 Norm: 0.5373333333333333 Curve Score: 0.8511286893299014 Score: 15
+Final Score: 15 
+Danger: 8000 Norm: 2.6666666666666665 Curve Score: 0.4493469364370259 Score: 56
+Final Score: 76 
+Danger: 1985 Norm: 0.6616666666666666 Curve Score: 0.8199679083389831 Score: 19
+Final Score: 19 
+Danger: 1985 Norm: 0.6616666666666666 Curve Score: 0.8199679083389831 Score: 19
+Final Score: 19 
+Danger: 1552 Norm: 0.5173333333333333 Curve Score: 0.8562505556108571 Score: 15
+Final Score: 15 
+Danger: 1552 Norm: 0.5173333333333333 Curve Score: 0.8562505556108571 Score: 15
+Final Score: 15 
+Danger: 8000 Norm: 2.6666666666666665 Curve Score: 0.4493469364370259 Score: 56
+Final Score: 76 
+Danger: 1926 Norm: 0.642 Curve Score: 0.8248197753427923 Score: 18
+Final Score: 18 
+Danger: 1926 Norm: 0.642 Curve Score: 0.8248197753427923 Score: 18
+Final Score: 18 
+Danger: 1493 Norm: 0.49766666666666665 Curve Score: 0.8613171122108308 Score: 14
+Final Score: 14 
+Danger: 1493 Norm: 0.49766666666666665 Curve Score: 0.8613171122108308 Score: 14
+Final Score: 14 
+Danger: 8000 Norm: 2.6666666666666665 Curve Score: 0.4493469364370259 Score: 56
+Final Score: 76 
+Danger: 1866 Norm: 0.622 Curve Score: 0.8297833215704723 Score: 18
+Final Score: 18 
+Danger: 1866 Norm: 0.622 Curve Score: 0.8297833215704723 Score: 18
+Final Score: 18 
+Danger: 1433 Norm: 0.4776666666666667 Curve Score: 0.8665002897133024 Score: 14
+Final Score: 14 
+Danger: 1433 Norm: 0.4776666666666667 Curve Score: 0.8665002897133024 Score: 14
+Final Score: 14 
+Danger: 8000 Norm: 2.6666666666666665 Curve Score: 0.4493469364370259 Score: 56
+Final Score: 76 
+Danger: 1804 Norm: 0.6013333333333334 Curve Score: 0.834943700795569 Score: 17
+Final Score: 17 
+Danger: 1804 Norm: 0.6013333333333334 Curve Score: 0.834943700795569 Score: 17
+Final Score: 17 
+Danger: 1371 Norm: 0.457 Curve Score: 0.8718890098494386 Score: 13
+Final Score: 13 
+Danger: 1371 Norm: 0.457 Curve Score: 0.8718890098494386 Score: 13
+Final Score: 13 
+Danger: 8000 Norm: 2.6666666666666665 Curve Score: 0.4493469364370259 Score: 56
+Final Score: 76 
+Danger: 1743 Norm: 0.581 Curve Score: 0.8400521669333929 Score: 16
+Final Score: 16 
+Danger: 1310 Norm: 0.43666666666666665 Curve Score: 0.8772235198032386 Score: 13
+Final Score: 13 
+Danger: 1310 Norm: 0.43666666666666665 Curve Score: 0.8772235198032386 Score: 13
+Final Score: 13 
+Danger: 8000 Norm: 2.6666666666666665 Curve Score: 0.4493469364370259 Score: 56
+Final Score: 46 
+Danger: 1681 Norm: 0.5603333333333333 Curve Score: 0.8452764075725467 Score: 16
+Final Score: 16 
+Danger: 1248 Norm: 0.416 Curve Score: 0.8826789271483649 Score: 12
+Final Score: 12 
+Danger: 1248 Norm: 0.416 Curve Score: 0.8826789271483649 Score: 12
+Final Score: 12 
+Danger: 1621 Norm: 0.5403333333333333 Curve Score: 0.8503630563770205 Score: 15
+Final Score: 15 
+Danger: 1188 Norm: 0.396 Curve Score: 0.8879906543766302 Score: 12
+Final Score: 12 
+Danger: 1188 Norm: 0.396 Curve Score: 0.8879906543766302 Score: 12
+Final Score: 12 
+Danger: 1560 Norm: 0.52 Curve Score: 0.8555658633138465 Score: 15
+Final Score: 15 
+Danger: 1127 Norm: 0.37566666666666665 Curve Score: 0.8934236796024804 Score: 11
+Final Score: 11 
+Danger: 1127 Norm: 0.37566666666666665 Curve Score: 0.8934236796024804 Score: 11
+Final Score: 11 
+Danger: 1500 Norm: 0.5 Curve Score: 0.860714431328742 Score: 14
+Final Score: 14 
+Danger: 1067 Norm: 0.3556666666666667 Curve Score: 0.8988000658957987 Score: 11
+Final Score: 11 
+Danger: 1067 Norm: 0.3556666666666667 Curve Score: 0.8988000658957987 Score: 11
+Final Score: 11 
+Danger: 1434 Norm: 0.478 Curve Score: 0.8664136483484676 Score: 14
+Final Score: 14 
+Danger: 1001 Norm: 0.33366666666666667 Curve Score: 0.9047514667860752 Score: 10
+Final Score: 10 
+Danger: 1001 Norm: 0.33366666666666667 Curve Score: 0.9047514667860752 Score: 10
+Final Score: 10 
+Danger: 1365 Norm: 0.455 Curve Score: 0.8724122740561389 Score: 13
+Final Score: 13 
+Danger: 932 Norm: 0.31066666666666665 Curve Score: 0.9110155248581769 Score: 9
+Final Score: 9 
+Danger: 932 Norm: 0.31066666666666665 Curve Score: 0.9110155248581769 Score: 9
+Final Score: 9 
+Danger: 1300 Norm: 0.43333333333333335 Curve Score: 0.8781011381789112 Score: 13
+Final Score: 13 
+Danger: 867 Norm: 0.289 Curve Score: 0.916956114747586 Score: 9
+Final Score: 9 
+Danger: 867 Norm: 0.289 Curve Score: 0.916956114747586 Score: 9
+Final Score: 9 
+Danger: 1233 Norm: 0.411 Curve Score: 0.8840038727537006 Score: 12
+Final Score: 12 
+Danger: 800 Norm: 0.26666666666666666 Curve Score: 0.9231200386132471 Score: 8
+Final Score: 8 
+Danger: 800 Norm: 0.26666666666666666 Curve Score: 0.9231200386132471 Score: 8
+Final Score: 8 
+Danger: 1170 Norm: 0.39 Curve Score: 0.8895903969050818 Score: 12
+Final Score: 12 
+Danger: 737 Norm: 0.24566666666666667 Curve Score: 0.9289537601039375 Score: 8
+Final Score: 8 
+Danger: 737 Norm: 0.24566666666666667 Curve Score: 0.9289537601039375 Score: 8
+Final Score: 8 
+Danger: 1112 Norm: 0.37066666666666664 Curve Score: 0.8947647536233777 Score: 11
+Final Score: 11 
+Danger: 679 Norm: 0.22633333333333333 Curve Score: 0.9343570762214483 Score: 7
+Final Score: 7 
+Danger: 679 Norm: 0.22633333333333333 Curve Score: 0.9343570762214483 Score: 7
+Final Score: 7 
+Danger: 1056 Norm: 0.352 Curve Score: 0.8997892404566522 Score: 11
+Final Score: 11 
+Danger: 623 Norm: 0.20766666666666667 Curve Score: 0.9396038908819949 Score: 7
+Final Score: 7 
+Danger: 623 Norm: 0.20766666666666667 Curve Score: 0.9396038908819949 Score: 7
+Final Score: 7 
+Danger: 998 Norm: 0.33266666666666667 Curve Score: 0.9050229193695598 Score: 10
+Final Score: 10 
+Danger: 565 Norm: 0.18833333333333332 Curve Score: 0.945069154133753 Score: 6
+Final Score: 6 
+Danger: 565 Norm: 0.18833333333333332 Curve Score: 0.945069154133753 Score: 6
+Final Score: 6 
+Danger: 938 Norm: 0.31266666666666665 Curve Score: 0.9104691068055168 Score: 9
+Final Score: 9 
+Danger: 505 Norm: 0.16833333333333333 Curve Score: 0.9507563291689877 Score: 5
+Final Score: 5 
+Danger: 505 Norm: 0.16833333333333333 Curve Score: 0.9507563291689877 Score: 5
+Final Score: 5 
+Danger: 884 Norm: 0.2946666666666667 Curve Score: 0.915398691407284 Score: 9
+Final Score: 9 
+Danger: 451 Norm: 0.15033333333333335 Curve Score: 0.9559040422822294 Score: 5
+Final Score: 5 
+Danger: 451 Norm: 0.15033333333333335 Curve Score: 0.9559040422822294 Score: 5
+Final Score: 5 
+Danger: 830 Norm: 0.27666666666666667 Curve Score: 0.9203549664306859 Score: 8
+Final Score: 8 
+Danger: 397 Norm: 0.13233333333333333 Curve Score: 0.9610796268379039 Score: 4
+Final Score: 4 
+Danger: 397 Norm: 0.13233333333333333 Curve Score: 0.9610796268379039 Score: 4
+Final Score: 4 
+Danger: 776 Norm: 0.25866666666666666 Curve Score: 0.9253380763866021 Score: 8
+Final Score: 8 
+Danger: 343 Norm: 0.11433333333333333 Curve Score: 0.9662832337413333 Score: 4
+Final Score: 4 
+Danger: 343 Norm: 0.11433333333333333 Curve Score: 0.9662832337413333 Score: 4
+Final Score: 4 
+Danger: 720 Norm: 0.24 Curve Score: 0.9305342455051379 Score: 7
+Final Score: 7 
+Danger: 287 Norm: 0.09566666666666666 Curve Score: 0.9717093274329841 Score: 3
+Final Score: 3 
+Danger: 287 Norm: 0.09566666666666666 Curve Score: 0.9717093274329841 Score: 3
+Final Score: 3 
+Danger: 667 Norm: 0.22233333333333333 Curve Score: 0.9354789215941893 Score: 7
+Final Score: 7 
+Danger: 234 Norm: 0.078 Curve Score: 0.9768727998146565 Score: 3
+Final Score: 3 
+Danger: 234 Norm: 0.078 Curve Score: 0.9768727998146565 Score: 3
+Final Score: 3 
+Danger: 611 Norm: 0.20366666666666666 Curve Score: 0.9407320358963809 Score: 6
+Final Score: 6 
+Danger: 178 Norm: 0.059333333333333335 Curve Score: 0.9823583584495675 Score: 2
+Final Score: 2 
+Danger: 178 Norm: 0.059333333333333335 Curve Score: 0.9823583584495675 Score: 2
+Final Score: 2 
+Danger: 2946 Norm: 0.982 Curve Score: 0.7448404303586955 Score: 26
+Final Score: 26 
+Danger: 2946 Norm: 0.982 Curve Score: 0.7448404303586955 Score: 26
+Final Score: 26 
+Danger: 2946 Norm: 0.982 Curve Score: 0.7448404303586955 Score: 26
+Final Score: 26 
+Danger: 557 Norm: 0.18566666666666667 Curve Score: 0.9458254741293538 Score: 6
+Final Score: 6 
+Danger: 124 Norm: 0.04133333333333333 Curve Score: 0.9876771755308205 Score: 2
+Final Score: 2 
+Danger: 124 Norm: 0.04133333333333333 Curve Score: 0.9876771755308205 Score: 2
+Final Score: 2 
+Danger: 2888 Norm: 0.9626666666666667 Curve Score: 0.7491728400815224 Score: 26
+Final Score: 26 
+Danger: 2888 Norm: 0.9626666666666667 Curve Score: 0.7491728400815224 Score: 26
+Final Score: 26 
+Danger: 2828 Norm: 0.9426666666666667 Curve Score: 0.7536811631545495 Score: 25
+Final Score: 25 
+Danger: 2828 Norm: 0.9426666666666667 Curve Score: 0.7536811631545495 Score: 25
+Final Score: 25 
+Danger: 2788 Norm: 0.9293333333333333 Curve Score: 0.7567017739735036 Score: 25
+Final Score: 25 
+Danger: 2788 Norm: 0.9293333333333333 Curve Score: 0.7567017739735036 Score: 25
+Final Score: 25 
+Danger: 2747 Norm: 0.9156666666666666 Curve Score: 0.7598104642754517 Score: 25
+Final Score: 25 
+Danger: 2747 Norm: 0.9156666666666666 Curve Score: 0.7598104642754517 Score: 25
+Final Score: 25 
+Danger: 2705 Norm: 0.9016666666666666 Curve Score: 0.7630082189246418 Score: 24
+Final Score: 24 
+Danger: 2705 Norm: 0.9016666666666666 Curve Score: 0.7630082189246418 Score: 24
+Final Score: 24 
+Danger: 2664 Norm: 0.888 Curve Score: 0.7661428174310287 Score: 24
+Final Score: 24 
+Danger: 2664 Norm: 0.888 Curve Score: 0.7661428174310287 Score: 24
+Final Score: 24 
+Danger: 2624 Norm: 0.8746666666666667 Curve Score: 0.7692133721912272 Score: 24
+Final Score: 24 
+Danger: 2624 Norm: 0.8746666666666667 Curve Score: 0.7692133721912272 Score: 24
+Final Score: 24 
+Danger: 2580 Norm: 0.86 Curve Score: 0.7726051979852825 Score: 23
+Final Score: 23 
+Danger: 2580 Norm: 0.86 Curve Score: 0.7726051979852825 Score: 23
+Final Score: 23 
+Danger: 2542 Norm: 0.8473333333333334 Curve Score: 0.7755465356755733 Score: 23
+Final Score: 23 
+Danger: 2542 Norm: 0.8473333333333334 Curve Score: 0.7755465356755733 Score: 23
+Final Score: 23 
+Danger: 2503 Norm: 0.8343333333333334 Curve Score: 0.7785769210586411 Score: 23
+Final Score: 23 
+Danger: 2503 Norm: 0.8343333333333334 Curve Score: 0.7785769210586411 Score: 23
+Final Score: 23 
+Danger: 2464 Norm: 0.8213333333333334 Curve Score: 0.7816191474275781 Score: 22
+Final Score: 22 
+Danger: 2464 Norm: 0.8213333333333334 Curve Score: 0.7816191474275781 Score: 22
+Final Score: 22 
+Danger: 2959 Norm: 0.9863333333333333 Curve Score: 0.7438728152652538 Score: 26
+Final Score: 26 
+Danger: 2959 Norm: 0.9863333333333333 Curve Score: 0.7438728152652538 Score: 26
+Final Score: 26 
+Danger: 2423 Norm: 0.8076666666666666 Curve Score: 0.7848302035490221 Score: 22
+Final Score: 22 
+Danger: 2423 Norm: 0.8076666666666666 Curve Score: 0.7848302035490221 Score: 22
+Final Score: 22 
+Danger: 2959 Norm: 0.9863333333333333 Curve Score: 0.7438728152652538 Score: 26
+Final Score: 26 
+Danger: 2914 Norm: 0.9713333333333334 Curve Score: 0.7472276178414669 Score: 26
+Final Score: 26 
+Danger: 2914 Norm: 0.9713333333333334 Curve Score: 0.7472276178414669 Score: 26
+Final Score: 26 
+Danger: 2378 Norm: 0.7926666666666666 Curve Score: 0.7883697204324521 Score: 22
+Final Score: 22 
+Danger: 2378 Norm: 0.7926666666666666 Curve Score: 0.7883697204324521 Score: 22
+Final Score: 22 
+Danger: 2914 Norm: 0.9713333333333334 Curve Score: 0.7472276178414669 Score: 26
+Final Score: 26 
+Danger: 2869 Norm: 0.9563333333333334 Curve Score: 0.750597550289473 Score: 25
+Final Score: 25 
+Danger: 2869 Norm: 0.9563333333333334 Curve Score: 0.750597550289473 Score: 25
+Final Score: 25 
+Danger: 2333 Norm: 0.7776666666666666 Curve Score: 0.7919252002333533 Score: 21
+Final Score: 21 
+Danger: 2333 Norm: 0.7776666666666666 Curve Score: 0.7919252002333533 Score: 21
+Final Score: 21 
+Danger: 2869 Norm: 0.9563333333333334 Curve Score: 0.750597550289473 Score: 25
+Final Score: 25 
+Danger: 2824 Norm: 0.9413333333333334 Curve Score: 0.753982680843696 Score: 25
+Final Score: 25 
+Danger: 2824 Norm: 0.9413333333333334 Curve Score: 0.753982680843696 Score: 25
+Final Score: 25 
+Danger: 2288 Norm: 0.7626666666666667 Curve Score: 0.7954967149431139 Score: 21
+Final Score: 21 
+Danger: 2288 Norm: 0.7626666666666667 Curve Score: 0.7954967149431139 Score: 21
+Final Score: 21 
+Danger: 2824 Norm: 0.9413333333333334 Curve Score: 0.753982680843696 Score: 25
+Final Score: 25 
+Danger: 2778 Norm: 0.926 Curve Score: 0.7574588163540956 Score: 25
+Final Score: 25 
+Danger: 2778 Norm: 0.926 Curve Score: 0.7574588163540956 Score: 25
+Final Score: 25 
+Danger: 2242 Norm: 0.7473333333333333 Curve Score: 0.7991642453114849 Score: 21
+Final Score: 21 
+Danger: 2242 Norm: 0.7473333333333333 Curve Score: 0.7991642453114849 Score: 21
+Final Score: 21 
+Danger: 2778 Norm: 0.926 Curve Score: 0.7574588163540956 Score: 25
+Final Score: 25 
+Danger: 2734 Norm: 0.9113333333333333 Curve Score: 0.7607988107485323 Score: 24
+Final Score: 24 
+Danger: 2734 Norm: 0.9113333333333333 Curve Score: 0.7607988107485323 Score: 24
+Final Score: 24 
+Danger: 2198 Norm: 0.7326666666666667 Curve Score: 0.8026881386796053 Score: 20
+Final Score: 20 
+Danger: 2198 Norm: 0.7326666666666667 Curve Score: 0.8026881386796053 Score: 20
+Final Score: 20 
+Danger: 2734 Norm: 0.9113333333333333 Curve Score: 0.7607988107485323 Score: 24
+Final Score: 24 
+Danger: 2691 Norm: 0.897 Curve Score: 0.764077125046427 Score: 24
+Final Score: 24 
+Danger: 2691 Norm: 0.897 Curve Score: 0.764077125046427 Score: 24
+Final Score: 24 
+Danger: 2155 Norm: 0.7183333333333334 Curve Score: 0.8061469558657085 Score: 20
+Final Score: 20 
+Danger: 2155 Norm: 0.7183333333333334 Curve Score: 0.8061469558657085 Score: 20
+Final Score: 20 
+Danger: 2691 Norm: 0.897 Curve Score: 0.764077125046427 Score: 24
+Final Score: 24 
+Danger: 2647 Norm: 0.8823333333333333 Curve Score: 0.767446302696053 Score: 24
+Final Score: 24 
+Danger: 2647 Norm: 0.8823333333333333 Curve Score: 0.767446302696053 Score: 24
+Final Score: 24 
+Danger: 2111 Norm: 0.7036666666666667 Curve Score: 0.8097016393092833 Score: 20
+Final Score: 20 
+Danger: 2111 Norm: 0.7036666666666667 Curve Score: 0.8097016393092833 Score: 20
+Final Score: 20 
+Danger: 2647 Norm: 0.8823333333333333 Curve Score: 0.767446302696053 Score: 24
+Final Score: 24 
+Danger: 2601 Norm: 0.867 Curve Score: 0.7709845104200572 Score: 23
+Final Score: 23 
+Danger: 2601 Norm: 0.867 Curve Score: 0.7709845104200572 Score: 23
+Final Score: 23 
+Danger: 8000 Norm: 2.6666666666666665 Curve Score: 0.4493469364370259 Score: 56
+Final Score: 76 
+Danger: 2558 Norm: 0.8526666666666667 Curve Score: 0.7743067153292351 Score: 23
+Final Score: 23 
+Danger: 2558 Norm: 0.8526666666666667 Curve Score: 0.7743067153292351 Score: 23
+Final Score: 23 
+Danger: 2514 Norm: 0.838 Curve Score: 0.7777210000836492 Score: 23
+Final Score: 23 
+Danger: 2514 Norm: 0.838 Curve Score: 0.7777210000836492 Score: 23
+Final Score: 23 
+Danger: 2469 Norm: 0.823 Curve Score: 0.7812284550693852 Score: 22
+Final Score: 22 
+Danger: 2469 Norm: 0.823 Curve Score: 0.7812284550693852 Score: 22
+Final Score: 22 
+Danger: 2424 Norm: 0.808 Curve Score: 0.7847517283761845 Score: 22
+Final Score: 22 
+Danger: 2424 Norm: 0.808 Curve Score: 0.7847517283761845 Score: 22
+Final Score: 22 
+Danger: 2379 Norm: 0.793 Curve Score: 0.7882908913433179 Score: 22
+Final Score: 22 
+Danger: 2379 Norm: 0.793 Curve Score: 0.7882908913433179 Score: 22
+Final Score: 22 
+Danger: 2336 Norm: 0.7786666666666666 Curve Score: 0.7916876701808773 Score: 21
+Final Score: 21 
+Danger: 2336 Norm: 0.7786666666666666 Curve Score: 0.7916876701808773 Score: 21
+Final Score: 21 
+Danger: 2291 Norm: 0.7636666666666667 Curve Score: 0.79525811365048 Score: 21
+Final Score: 21 
+Danger: 2291 Norm: 0.7636666666666667 Curve Score: 0.79525811365048 Score: 21
+Final Score: 21 
+Danger: 2248 Norm: 0.7493333333333333 Curve Score: 0.7986849145440463 Score: 21
+Final Score: 21 
+Danger: 2248 Norm: 0.7493333333333333 Curve Score: 0.7986849145440463 Score: 21
+Final Score: 21 
+Danger: 2203 Norm: 0.7343333333333333 Curve Score: 0.8022869149853978 Score: 20
+Final Score: 20 
+Danger: 2203 Norm: 0.7343333333333333 Curve Score: 0.8022869149853978 Score: 20
+Final Score: 20 
+Danger: 2160 Norm: 0.72 Curve Score: 0.8057440032816094 Score: 20
+Final Score: 20 
+Danger: 2160 Norm: 0.72 Curve Score: 0.8057440032816094 Score: 20
+Final Score: 20 
+Danger: 2113 Norm: 0.7043333333333334 Curve Score: 0.8095397232692322 Score: 20
+Final Score: 20 
+Danger: 2113 Norm: 0.7043333333333334 Curve Score: 0.8095397232692322 Score: 20
+Final Score: 20 
+Danger: 2067 Norm: 0.689 Curve Score: 0.8132719970344416 Score: 19
+Final Score: 19 
+Danger: 2067 Norm: 0.689 Curve Score: 0.8132719970344416 Score: 19
+Final Score: 19 
+Danger: 2023 Norm: 0.6743333333333333 Curve Score: 0.8168580981565092 Score: 19
+Final Score: 19 
+Danger: 2023 Norm: 0.6743333333333333 Curve Score: 0.8168580981565092 Score: 19
+Final Score: 19 
+Danger: 1977 Norm: 0.659 Curve Score: 0.8206241123025927 Score: 18
+Final Score: 18 
+Danger: 1977 Norm: 0.659 Curve Score: 0.8206241123025927 Score: 18
+Final Score: 18 
+Danger: 1933 Norm: 0.6443333333333333 Curve Score: 0.8242426323803218 Score: 18
+Final Score: 18 
+Danger: 1933 Norm: 0.6443333333333333 Curve Score: 0.8242426323803218 Score: 18
+Final Score: 18 
+Danger: 1888 Norm: 0.6293333333333333 Curve Score: 0.8279598959363883 Score: 18
+Final Score: 18 
+Danger: 1888 Norm: 0.6293333333333333 Curve Score: 0.8279598959363883 Score: 18
+Final Score: 18 
+Danger: 1844 Norm: 0.6146666666666667 Curve Score: 0.831610762955874 Score: 17
+Final Score: 17 
+Danger: 1844 Norm: 0.6146666666666667 Curve Score: 0.831610762955874 Score: 17
+Final Score: 17 
+Danger: 1798 Norm: 0.5993333333333334 Curve Score: 0.8354447922743017 Score: 17
+Final Score: 17 
+Danger: 1798 Norm: 0.5993333333333334 Curve Score: 0.8354447922743017 Score: 17
+Final Score: 17 
+Danger: 1754 Norm: 0.5846666666666667 Curve Score: 0.8391286637440253 Score: 17
+Final Score: 17 
+Danger: 1754 Norm: 0.5846666666666667 Curve Score: 0.8391286637440253 Score: 17
+Final Score: 17 
+Danger: 1708 Norm: 0.5693333333333334 Curve Score: 0.8429973533305962 Score: 16
+Final Score: 16 
+Danger: 1708 Norm: 0.5693333333333334 Curve Score: 0.8429973533305962 Score: 16
+Final Score: 16 
+Danger: 1663 Norm: 0.5543333333333333 Curve Score: 0.8467991990690855 Score: 16
+Final Score: 16 
+Danger: 1663 Norm: 0.5543333333333333 Curve Score: 0.8467991990690855 Score: 16
+Final Score: 16 
+Danger: 1619 Norm: 0.5396666666666666 Curve Score: 0.8505331374919265 Score: 15
+Final Score: 15 
+Danger: 1619 Norm: 0.5396666666666666 Curve Score: 0.8505331374919265 Score: 15
+Final Score: 15 
+Danger: 1572 Norm: 0.524 Curve Score: 0.8545398513079339 Score: 15
+Final Score: 15 
+Danger: 1572 Norm: 0.524 Curve Score: 0.8545398513079339 Score: 15
+Final Score: 15 
+Danger: 1526 Norm: 0.5086666666666667 Curve Score: 0.8584795920972835 Score: 15
+Final Score: 15 

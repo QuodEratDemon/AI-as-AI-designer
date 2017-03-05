@@ -1,0 +1,1324 @@
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @(4.5, 4.5)found nothing
+Player 1 @(4.5, 6.5)found nothing
+Player 2 @(12.5, 4.5)found nothing
+Player 3 @(12.5, 6.5)found nothing
+Player 0 @[4.5, 4.377]found nothing
+Player 1 @[4.5, 6.623]found nothing
+Player 2 @[12.623, 4.5]found nothing
+Player 3 @[12.623, 6.5]found nothing
+Player 0 @[4.5, 4.26]found nothing
+Player 1 @[4.5, 6.74]found nothing
+Player 2 @[12.739999999999998, 4.5]found nothing
+Player 3 @[12.739999999999998, 6.5]found nothing
+Player 0 @[4.5, 4.131]found nothing
+Player 1 @[4.5, 6.869]found nothing
+Player 2 @[12.868999999999998, 4.5]found nothing
+Player 3 @[12.868999999999998, 6.5]found nothing
+Player 0 @[4.5, 3.9960000000000004]found nothing
+Player 1 @[4.5, 7.004]found nothing
+Player 2 @[13.003999999999998, 4.5]found nothing
+Player 3 @[12.868999999999998, 6.635]found nothing
+Player 0 @[4.5, 4.128]found nothing
+Player 1 @[4.368, 7.135999999999999]found nothing
+Player 2 @[13.003999999999998, 4.368]found nothing
+Player 3 @[12.868999999999998, 6.635]found nothing
+Player 0 @[4.5, 3.999]found nothing
+Player 1 @[4.239000000000001, 7.264999999999999]found nothing
+Player 2 @[12.874999999999998, 4.368]found nothing
+Player 3 @[12.868999999999998, 6.635]found nothing
+Player 0 @[4.5, 4.134]found nothing
+Player 1 @[4.104000000000001, 7.264999999999999]found nothing
+Player 2 @[12.874999999999998, 4.2330000000000005]found nothing
+Player 3 @[12.868999999999998, 6.635]found nothing
+Player 0 @[4.5, 4.002000000000001]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.006999999999998, 4.2330000000000005]found nothing
+Player 3 @[12.868999999999998, 6.7669999999999995]found nothing
+Player 0 @[4.371, 4.002000000000001]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[12.877999999999998, 4.2330000000000005]found nothing
+Player 3 @[12.868999999999998, 6.7669999999999995]found nothing
+Player 0 @[4.2330000000000005, 4.002000000000001]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.015999999999998, 4.2330000000000005]found nothing
+Player 3 @[12.868999999999998, 6.7669999999999995]found nothing
+Player 0 @[4.083, 4.002000000000001]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[12.865999999999998, 4.2330000000000005]found nothing
+Player 3 @[12.868999999999998, 6.7669999999999995]found nothing
+Player 0 @[3.93, 4.002000000000001]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.018999999999998, 4.2330000000000005]found nothing
+Player 3 @[12.868999999999998, 6.919999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[12.871999999999998, 4.2330000000000005]found nothing
+Player 3 @[13.015999999999998, 6.919999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[12.871999999999998, 4.077000000000001]found nothing
+Player 3 @[12.859999999999998, 6.919999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[12.871999999999998, 3.915000000000001]found nothing
+Player 3 @[12.859999999999998, 6.919999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.024999999999997, 6.919999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[12.865999999999996, 6.919999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.024999999999997, 6.919999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[12.859999999999998, 6.919999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[12.859999999999998, 6.919999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[12.859999999999998, 7.084999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[12.859999999999998, 6.925999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[12.859999999999998, 6.925999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[12.859999999999998, 7.093999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[12.859999999999998, 6.935]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[12.859999999999998, 6.935]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.024999999999997, 6.935]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[12.862999999999996, 6.935]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.024999999999997, 6.935]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[12.868999999999996, 6.935]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[12.868999999999996, 7.093999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[12.868999999999996, 6.9319999999999995]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[12.868999999999996, 7.090999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[12.868999999999996, 6.9319999999999995]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[12.868999999999996, 7.090999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[12.868999999999996, 6.928999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.027999999999997, 6.928999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[12.865999999999996, 6.928999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.027999999999997, 6.928999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[12.868999999999996, 6.928999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[12.868999999999996, 6.928999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[12.868999999999996, 6.928999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[12.868999999999996, 6.928999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[12.868999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found nothing
+Player 1 @[3.972000000000001, 7.264999999999999]found nothing
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found item @(6, 5)
+Player 1 @[3.972000000000001, 7.129999999999999]found item @(6, 5)
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found item @(6, 5)
+Player 1 @[3.972000000000001, 6.997999999999999]found item @(6, 5)
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found item @(6, 5)
+Player 1 @[3.972000000000001, 7.132999999999999]found item @(6, 5)
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found item @(6, 5)
+Player 1 @[3.972000000000001, 6.997999999999999]found item @(6, 5)
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found item @(6, 5)
+Player 1 @[3.972000000000001, 7.126999999999999]found item @(6, 5)
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found item @(6, 5)
+Player 1 @[3.972000000000001, 6.991999999999999]found item @(6, 5)
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.8550000000000004]found item @(6, 5)
+Player 1 @[3.972000000000001, 7.123999999999999]found item @(6, 5)
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.9870000000000005]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.991999999999999]found item @(4, 5)
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 4.122000000000001]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.126999999999999]found item @(4, 5)
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.9930000000000008]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.997999999999999]found item @(4, 5)
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 4.122000000000001]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.126999999999999]found item @(4, 5)
+Player 2 @[13.036999999999997, 3.915000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.9900000000000007]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.994999999999999]found item @(4, 5)
+Player 2 @[13.036999999999997, 4.047000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 4.1160000000000005]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.1209999999999996]found item @(4, 5)
+Player 2 @[13.036999999999997, 3.9210000000000007]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.9900000000000007]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.994999999999999]found item @(4, 5)
+Player 2 @[12.910999999999998, 3.9210000000000007]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 4.122000000000001]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.126999999999999]found item @(4, 5)
+Player 2 @[13.042999999999997, 3.9210000000000007]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.9900000000000007]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.994999999999999]found item @(4, 5)
+Player 2 @[13.042999999999997, 4.053000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 4.1160000000000005]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.1209999999999996]found item @(4, 5)
+Player 2 @[13.042999999999997, 3.927000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.9870000000000005]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.991999999999999]found item @(4, 5)
+Player 2 @[13.042999999999997, 4.056000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 4.1160000000000005]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.120999999999999]found item @(4, 5)
+Player 2 @[13.042999999999997, 3.927000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.9870000000000005]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.991999999999999]found item @(4, 5)
+Player 2 @[12.913999999999998, 3.927000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 4.1160000000000005]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.120999999999999]found item @(4, 5)
+Player 2 @[13.042999999999997, 3.927000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.9870000000000005]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.991999999999999]found item @(4, 5)
+Player 2 @[12.913999999999998, 3.927000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 4.119000000000001]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.123999999999999]found item @(4, 5)
+Player 2 @[13.045999999999998, 3.927000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.9900000000000007]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.994999999999999]found item @(4, 5)
+Player 2 @[12.916999999999998, 3.927000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 4.119000000000001]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.123999999999999]found item @(4, 5)
+Player 2 @[13.045999999999998, 3.927000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.9870000000000005]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.991999999999999]found item @(4, 5)
+Player 2 @[12.913999999999998, 3.927000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 4.113]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.117999999999999]found item @(4, 5)
+Player 2 @[13.039999999999997, 3.927000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.9960000000000004]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.0009999999999994]found item @(4, 5)
+Player 2 @[13.039999999999997, 4.0440000000000005]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 4.113]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.8839999999999995]found item @(4, 5)
+Player 2 @[13.039999999999997, 3.9270000000000005]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.9960000000000004]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.0009999999999994]found item @(4, 5)
+Player 2 @[12.922999999999998, 3.9270000000000005]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 4.107]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.89]found item @(4, 5)
+Player 2 @[13.033999999999999, 3.9270000000000005]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.987]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.01]found item @(4, 5)
+Player 2 @[13.033999999999999, 4.047000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 4.104]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.893]found item @(4, 5)
+Player 2 @[13.033999999999999, 3.9300000000000006]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.987]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.01]found item @(4, 5)
+Player 2 @[12.916999999999998, 3.9300000000000006]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 4.104]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.893]found item @(4, 5)
+Player 2 @[13.033999999999999, 3.9300000000000006]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.987]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.01]found item @(4, 5)
+Player 2 @[13.033999999999999, 4.047000000000001]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 4.107]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.89]found item @(4, 5)
+Player 2 @[13.033999999999999, 3.9270000000000005]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.99]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.007]found item @(4, 5)
+Player 2 @[13.033999999999999, 4.0440000000000005]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 4.107]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.89]found item @(4, 5)
+Player 2 @[13.033999999999999, 3.9270000000000005]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.9930000000000003]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.004]found item @(4, 5)
+Player 2 @[13.033999999999999, 4.041]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 4.11]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.887]found item @(4, 5)
+Player 2 @[13.033999999999999, 3.9240000000000004]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.99]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.007]found item @(4, 5)
+Player 2 @[12.914, 3.9240000000000004]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 4.104]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.893]found item @(4, 5)
+Player 2 @[13.028, 3.9240000000000004]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.987]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.01]found item @(4, 5)
+Player 2 @[13.028, 4.041]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 4.104]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.893]found item @(4, 5)
+Player 2 @[13.028, 3.9240000000000004]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.984]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.013]found item @(4, 5)
+Player 2 @[12.908000000000001, 3.9240000000000004]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 4.101]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.896]found item @(4, 5)
+Player 2 @[13.025000000000002, 3.9240000000000004]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.987]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.01]found item @(4, 5)
+Player 2 @[12.911000000000001, 3.9240000000000004]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 4.101]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.896]found item @(4, 5)
+Player 2 @[13.025000000000002, 3.9240000000000004]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.984]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.013]found item @(4, 5)
+Player 2 @[12.908000000000001, 3.9240000000000004]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 4.098]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.899]found item @(4, 5)
+Player 2 @[13.022000000000002, 3.9240000000000004]found nothing
+Player 3 @[13.045999999999996, 7.111999999999999]found nothing
+Player 0 @[3.93, 3.984]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.013]found item @(4, 5)
+Player 2 @[12.908000000000001, 3.9240000000000004]found nothing
+Player 3 @[12.931999999999995, 7.111999999999999]found nothing
+Player 0 @[3.93, 4.098]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.899]found item @(4, 5)
+Player 2 @[13.022000000000002, 3.9240000000000004]found nothing
+Player 3 @[12.931999999999995, 6.997999999999999]found nothing
+Player 0 @[3.93, 3.981]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.016]found item @(4, 5)
+Player 2 @[12.905000000000001, 3.9240000000000004]found nothing
+Player 3 @[12.814999999999994, 6.997999999999999]found nothing
+Player 0 @[3.93, 4.098]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.899]found item @(4, 5)
+Player 2 @[13.022000000000002, 3.9240000000000004]found nothing
+Player 3 @[12.697999999999993, 6.997999999999999]found nothing
+Player 0 @[3.93, 3.981]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.016]found item @(4, 5)
+Player 2 @[13.022000000000002, 4.041]found nothing
+Player 3 @[12.580999999999992, 6.997999999999999]found nothing
+Player 0 @[3.93, 4.095]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.902]found item @(4, 5)
+Player 2 @[12.908000000000001, 4.041]found nothing
+Player 3 @[12.466999999999992, 6.997999999999999]found nothing
+Player 0 @[3.93, 3.981]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.016]found item @(4, 5)
+Player 2 @[12.794, 4.041]found nothing
+Player 3 @[12.35299999999999, 6.997999999999999]found nothing
+Player 0 @[3.93, 4.098]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.899]found item @(4, 5)
+Player 2 @[12.677, 4.041]found nothing
+Player 3 @[12.23599999999999, 6.997999999999999]found nothing
+Player 0 @[3.93, 3.981]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.016]found item @(4, 5)
+Player 2 @[12.559999999999999, 4.041]found nothing
+Player 3 @[12.11899999999999, 6.997999999999999]found nothing
+Player 0 @[3.93, 4.095]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.902]found item @(4, 5)
+Player 2 @[12.445999999999998, 4.041]found nothing
+Player 3 @[12.004999999999988, 6.997999999999999]found nothing
+Player 0 @[3.93, 3.9779999999999998]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.019]found item @(4, 5)
+Player 2 @[12.328999999999997, 4.041]found nothing
+Player 3 @[11.887999999999987, 6.880999999999999]found nothing
+Player 0 @[3.93, 4.095]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.902]found item @(4, 5)
+Player 2 @[12.211999999999996, 4.041]found nothing
+Player 3 @[11.887999999999987, 6.880999999999999]found nothing
+Player 0 @[3.93, 3.9629999999999996]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.034]found item @(4, 5)
+Player 2 @[12.079999999999997, 4.041]found nothing
+Player 3 @[11.887999999999987, 6.880999999999999]found nothing
+Player 0 @[3.93, 4.095]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.902]found item @(4, 5)
+Player 2 @[11.947999999999997, 4.173]found nothing
+Player 3 @[11.887999999999987, 6.880999999999999]found nothing
+Player 0 @[3.93, 3.9659999999999997]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.031000000000001]found item @(4, 5)
+Player 2 @[12.076999999999996, 4.173]found nothing
+Player 3 @[12.016999999999987, 6.880999999999999]found nothing
+Player 0 @[3.93, 4.101]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.896000000000001]found item @(4, 5)
+Player 2 @[12.076999999999996, 4.038]found nothing
+Player 3 @[11.881999999999987, 6.7459999999999996]found nothing
+Player 0 @[3.93, 3.987]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.010000000000001]found item @(4, 5)
+Player 2 @[11.962999999999996, 4.152]found nothing
+Player 3 @[11.881999999999987, 6.7459999999999996]found nothing
+Player 0 @[3.93, 4.119]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.878000000000001]found item @(4, 5)
+Player 2 @[12.094999999999995, 4.152]found nothing
+Player 3 @[12.013999999999987, 6.7459999999999996]found nothing
+Player 0 @[3.93, 3.9869999999999997]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.010000000000001]found item @(4, 5)
+Player 2 @[11.962999999999996, 4.284]found nothing
+Player 3 @[11.881999999999987, 6.7459999999999996]found nothing
+Player 0 @[3.93, 4.116]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.881]found item @(4, 5)
+Player 2 @[12.091999999999995, 4.284]found nothing
+Player 3 @[11.881999999999987, 6.7459999999999996]found nothing
+Player 0 @[3.93, 3.9629999999999996]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.034]found item @(4, 5)
+Player 2 @[12.244999999999996, 4.131]found nothing
+Player 3 @[11.881999999999987, 6.7459999999999996]found nothing
+Player 0 @[3.93, 4.103999999999999]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.893]found item @(4, 5)
+Player 2 @[12.385999999999996, 3.99]found nothing
+Player 3 @[11.881999999999987, 6.7459999999999996]found nothing
+Player 0 @[3.93, 3.956999999999999]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.04]found item @(4, 5)
+Player 2 @[12.385999999999996, 3.99]found nothing
+Player 3 @[12.028999999999987, 6.7459999999999996]found nothing
+Player 0 @[3.93, 4.097999999999999]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.899]found item @(4, 5)
+Player 2 @[12.526999999999996, 3.99]found nothing
+Player 3 @[12.028999999999987, 6.6049999999999995]found nothing
+Player 0 @[3.93, 3.968999999999999]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.0280000000000005]found item @(4, 5)
+Player 2 @[12.526999999999996, 3.99]found nothing
+Player 3 @[11.899999999999988, 6.6049999999999995]found nothing
+Player 0 @[3.93, 4.115999999999999]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.881]found item @(4, 5)
+Player 2 @[12.673999999999996, 3.99]found nothing
+Player 3 @[12.046999999999988, 6.6049999999999995]found nothing
+Player 0 @[3.93, 3.9689999999999985]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.0280000000000005]found item @(4, 5)
+Player 2 @[12.820999999999996, 3.99]found nothing
+Player 3 @[12.193999999999988, 6.457999999999999]found nothing
+Player 0 @[3.93, 4.112999999999999]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.884]found item @(4, 5)
+Player 2 @[12.964999999999996, 3.99]found nothing
+Player 3 @[12.337999999999989, 6.313999999999999]found nothing
+Player 0 @[3.7830000000000004, 4.259999999999999]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.031000000000001]found item @(4, 5)
+Player 2 @[12.964999999999996, 3.99]found nothing
+Player 3 @[12.484999999999989, 6.166999999999999]found nothing
+Player 0 @[3.6330000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.881]found item @(4, 5)
+Player 2 @[12.964999999999996, 3.99]found nothing
+Player 3 @[12.484999999999989, 6.016999999999999]found nothing
+Player 0 @[3.7830000000000004, 4.259999999999999]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.031000000000001]found item @(4, 5)
+Player 2 @[12.964999999999996, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[3.6330000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.881]found item @(4, 5)
+Player 2 @[12.964999999999996, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[3.7920000000000003, 4.259999999999999]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.04]found item @(4, 5)
+Player 2 @[12.964999999999996, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[3.6390000000000002, 4.259999999999999]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.8870000000000005]found item @(4, 5)
+Player 2 @[13.117999999999997, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[3.7860000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.034000000000001]found item @(4, 5)
+Player 2 @[12.970999999999997, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[3.6330000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.881000000000001]found item @(4, 5)
+Player 2 @[13.123999999999997, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[3.7800000000000002, 4.259999999999999]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.028000000000001]found item @(4, 5)
+Player 2 @[12.976999999999997, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[3.6270000000000002, 4.259999999999999]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.875000000000002]found item @(4, 5)
+Player 2 @[13.129999999999997, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[3.7710000000000004, 4.259999999999999]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.019000000000002]found item @(4, 5)
+Player 2 @[12.985999999999997, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[3.6210000000000004, 4.259999999999999]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.8690000000000015]found item @(4, 5)
+Player 2 @[13.135999999999997, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[3.7680000000000007, 4.259999999999999]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.016000000000002]found item @(4, 5)
+Player 2 @[12.988999999999997, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[3.6150000000000007, 4.259999999999999]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.863000000000002]found item @(4, 5)
+Player 2 @[12.988999999999997, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[3.4620000000000006, 4.259999999999999]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.016000000000002]found item @(4, 5)
+Player 2 @[13.141999999999998, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[3.3120000000000007, 4.259999999999999]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.866000000000001]found item @(4, 5)
+Player 2 @[12.991999999999997, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[3.162000000000001, 4.259999999999999]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.016000000000002]found item @(4, 5)
+Player 2 @[13.141999999999998, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[3.0150000000000006, 4.259999999999999]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.8690000000000015]found item @(4, 5)
+Player 2 @[12.994999999999997, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[3.972000000000001, 7.022000000000001]found item @(4, 5)
+Player 2 @[13.147999999999998, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[3.972000000000001, 6.878000000000001]found item @(4, 5)
+Player 2 @[13.003999999999998, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[3.810000000000001, 6.878000000000001]found item @(4, 5)
+Player 2 @[12.841999999999997, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[3.642000000000001, 6.878000000000001]found item @(4, 5)
+Player 2 @[12.841999999999997, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[3.4770000000000008, 6.878000000000001]found item @(4, 5)
+Player 2 @[13.006999999999996, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[3.318000000000001, 6.878000000000001]found item @(4, 5)
+Player 2 @[12.847999999999995, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[3.153000000000001, 6.878000000000001]found item @(4, 5)
+Player 2 @[13.012999999999995, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[3.000000000000001, 6.878000000000001]found item @(4, 5)
+Player 2 @[12.859999999999994, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.835000000000001, 6.713000000000001]found item @(4, 5)
+Player 2 @[13.024999999999993, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.835000000000001, 6.713000000000001]found item @(4, 5)
+Player 2 @[12.865999999999993, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[3.000000000000001, 6.713000000000001]found item @(4, 5)
+Player 2 @[13.030999999999992, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.841000000000001, 6.713000000000001]found item @(4, 5)
+Player 2 @[12.871999999999991, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[3.003000000000001, 6.713000000000001]found item @(4, 5)
+Player 2 @[12.871999999999991, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.841000000000001, 6.713000000000001]found item @(4, 5)
+Player 2 @[13.033999999999992, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.841000000000001, 6.713000000000001]found item @(4, 5)
+Player 2 @[12.877999999999991, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[3.006000000000001, 6.713000000000001]found item @(4, 5)
+Player 2 @[13.04299999999999, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.850000000000001, 6.713000000000001]found item @(4, 5)
+Player 2 @[12.88699999999999, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.850000000000001, 6.713000000000001]found item @(4, 5)
+Player 2 @[13.04899999999999, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[3.012000000000001, 6.713000000000001]found item @(4, 5)
+Player 2 @[12.88699999999999, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.847000000000001, 6.713000000000001]found item @(4, 5)
+Player 2 @[12.88699999999999, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[3.009000000000001, 6.713000000000001]found item @(4, 5)
+Player 2 @[13.04899999999999, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.8530000000000006, 6.713000000000001]found item @(4, 5)
+Player 2 @[12.89299999999999, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.8530000000000006, 6.713000000000001]found item @(4, 5)
+Player 2 @[13.05799999999999, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[3.0150000000000006, 6.713000000000001]found item @(4, 5)
+Player 2 @[12.895999999999988, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.8470000000000004, 6.713000000000001]found item @(4, 5)
+Player 2 @[12.895999999999988, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.8470000000000004, 6.713000000000001]found item @(4, 5)
+Player 2 @[12.895999999999988, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.8470000000000004, 6.713000000000001]found item @(4, 5)
+Player 2 @[13.063999999999988, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.8470000000000004, 6.713000000000001]found item @(4, 5)
+Player 2 @[12.901999999999987, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.8470000000000004, 6.713000000000001]found item @(4, 5)
+Player 2 @[12.901999999999987, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.8470000000000004, 6.713000000000001]found item @(4, 5)
+Player 2 @[12.901999999999987, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[3.0150000000000006, 6.713000000000001]found item @(4, 5)
+Player 2 @[12.901999999999987, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.8500000000000005, 6.713000000000001]found item @(4, 5)
+Player 2 @[13.066999999999986, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.9970000000000008, 6.713000000000001]found item @(4, 5)
+Player 2 @[12.919999999999986, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.9970000000000008, 6.713000000000001]found item @(4, 5)
+Player 2 @[13.063999999999986, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[3.1470000000000007, 6.713000000000001]found item @(4, 5)
+Player 2 @[12.913999999999985, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[3.0030000000000006, 6.713000000000001]found item @(4, 5)
+Player 2 @[13.057999999999986, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.8500000000000005, 6.713000000000001]found item @(4, 5)
+Player 2 @[12.904999999999985, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.8500000000000005, 6.713000000000001]found item @(4, 5)
+Player 2 @[12.904999999999985, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.8500000000000005, 6.713000000000001]found item @(4, 5)
+Player 2 @[13.042999999999985, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.7420000000000004, 6.605000000000001]found item @(4, 5)
+Player 2 @[12.934999999999985, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.6280000000000006, 6.605000000000001]found item @(4, 5)
+Player 2 @[13.048999999999985, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.5140000000000007, 6.719000000000001]found item @(4, 5)
+Player 2 @[12.934999999999985, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.5140000000000007, 6.719000000000001]found item @(4, 5)
+Player 2 @[13.048999999999985, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.5140000000000007, 6.719000000000001]found item @(4, 5)
+Player 2 @[12.934999999999985, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.5140000000000007, 6.719000000000001]found item @(4, 5)
+Player 2 @[13.048999999999985, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.5140000000000007, 6.605000000000001]found item @(4, 5)
+Player 2 @[12.934999999999985, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.400000000000001, 6.605000000000001]found item @(4, 5)
+Player 2 @[12.934999999999985, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.520000000000001, 6.605000000000001]found item @(4, 5)
+Player 2 @[12.934999999999985, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.520000000000001, 6.488000000000001]found item @(4, 5)
+Player 2 @[13.051999999999985, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.406000000000001, 6.488000000000001]found item @(4, 5)
+Player 2 @[12.937999999999985, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.520000000000001, 6.488000000000001]found item @(4, 5)
+Player 2 @[12.937999999999985, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.520000000000001, 6.605000000000001]found item @(4, 5)
+Player 2 @[13.054999999999986, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.520000000000001, 6.605000000000001]found item @(4, 5)
+Player 2 @[12.943999999999985, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.520000000000001, 6.719000000000001]found item @(4, 5)
+Player 2 @[13.057999999999986, 3.99]found nothing
+Player 3 @[12.484999999999989, 5.866999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.406000000000001, 6.719000000000001]found item @(4, 5)
+Player 2 @[13.057999999999986, 4.104]found nothing
+Player 3 @[12.484999999999989, 5.752999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.406000000000001, 6.719000000000001]found item @(4, 5)
+Player 2 @[12.937999999999986, 4.104]found nothing
+Player 3 @[12.484999999999989, 5.632999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.406000000000001, 6.719000000000001]found item @(4, 5)
+Player 2 @[12.808999999999987, 4.104]found nothing
+Player 3 @[12.484999999999989, 5.503999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.406000000000001, 6.590000000000002]found item @(4, 5)
+Player 2 @[12.679999999999987, 4.104]found nothing
+Player 3 @[12.484999999999989, 5.374999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.406000000000001, 6.734000000000002]found item @(4, 5)
+Player 2 @[12.535999999999987, 4.104]found nothing
+Player 3 @[12.484999999999989, 5.230999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.544000000000001, 6.734000000000002]found item @(4, 5)
+Player 2 @[12.397999999999987, 4.104]found nothing
+Player 3 @[12.484999999999989, 5.092999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.400000000000001, 6.734000000000002]found item @(4, 5)
+Player 2 @[12.253999999999987, 4.104]found nothing
+Player 3 @[12.484999999999989, 5.236999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(4, 5)
+Player 1 @[2.400000000000001, 6.734000000000002]found item @(4, 5)
+Player 2 @[12.109999999999987, 4.104]found nothing
+Player 3 @[12.484999999999989, 5.3809999999999985]found nothing
+Player 0 @[2.8620000000000005, 4.259999999999999]found item @(3, 2)
+Player 1 @[2.544000000000001, 6.734000000000002]found item @(3, 2)
+Player 2 @[11.965999999999987, 4.104]found nothing
+Player 3 @[12.340999999999989, 5.3809999999999985]found nothing
+Player 0 @[2.8620000000000005, 4.1099999999999985]found item @(3, 2)
+Player 1 @[2.544000000000001, 6.734000000000002]found item @(3, 2)
+Player 2 @[11.815999999999987, 4.2540000000000004]found nothing
+Player 3 @[12.190999999999988, 5.3809999999999985]found nothing
+Player 0 @[2.8620000000000005, 3.9569999999999985]found item @(2, 3)
+[(2, 3)]Player 1 @[2.544000000000001, 6.734000000000002]found item @(2, 3)
+Player 2 @[11.662999999999986, 4.407]found nothing
+Player 3 @[12.037999999999988, 5.3809999999999985]found nothing
+Player 0 @[2.8620000000000005, 4.1099999999999985]found item @(2, 3)
+Player 1 @[2.544000000000001, 6.581000000000002]found item @(2, 3)
+Player 2 @[11.509999999999986, 4.56]found nothing
+Player 3 @[11.884999999999987, 5.3809999999999985]found nothing
+Player 0 @[2.8620000000000005, 3.9479999999999986]found item @(2, 3)
+[(2, 3)]Player 1 @[2.544000000000001, 6.743000000000002]found item @(2, 3)
+Player 2 @[11.509999999999986, 4.398]found nothing
+Player 3 @[11.722999999999987, 5.542999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.124999999999998]found item @(2, 3)
+Player 1 @[2.544000000000001, 6.743000000000002]found item @(2, 3)
+Player 2 @[11.509999999999986, 4.221]found nothing
+Player 3 @[11.722999999999987, 5.719999999999998]found nothing
+Player 0 @[2.8620000000000005, 3.9389999999999983]found item @(2, 3)
+[(2, 3)]Player 1 @[2.544000000000001, 6.743000000000002]found item @(2, 3)
+Player 2 @[11.509999999999986, 4.035]found nothing
+Player 3 @[11.722999999999987, 5.905999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.115999999999998]found item @(2, 3)
+Player 1 @[2.544000000000001, 6.743000000000002]found item @(2, 3)
+Player 2 @[11.509999999999986, 3.858]found nothing
+Player 3 @[11.722999999999987, 6.0829999999999975]found nothing
+Player 0 @[2.8620000000000005, 3.926999999999998]found item @(2, 3)
+[(2, 3)]Player 1 @[2.544000000000001, 6.743000000000002]found item @(2, 3)
+Player 2 @[11.509999999999986, 3.858]found nothing
+Player 3 @[11.722999999999987, 6.271999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.100999999999998]found item @(2, 3)
+Player 1 @[2.544000000000001, 6.743000000000002]found item @(2, 3)
+Player 2 @[11.509999999999986, 3.858]found nothing
+Player 3 @[11.722999999999987, 6.445999999999998]found nothing
+Player 0 @[2.8620000000000005, 3.9179999999999984]found item @(2, 3)
+[(2, 3)]Player 1 @[2.544000000000001, 6.743000000000002]found item @(2, 3)
+Player 2 @[11.509999999999986, 3.858]found nothing
+Player 3 @[11.722999999999987, 6.628999999999998]found nothing
+Player 0 @[2.8620000000000005, 4.094999999999998]found item @(2, 3)
+Player 1 @[2.544000000000001, 6.743000000000002]found item @(2, 3)
+Player 2 @[11.509999999999986, 3.858]found nothing
+Player 3 @[11.722999999999987, 6.805999999999997]found nothing
+Player 0 @[2.8620000000000005, 3.911999999999998]found item @(2, 3)
+[(2, 3)]Player 1 @[2.544000000000001, 6.560000000000002]found item @(2, 3)
+Player 2 @[11.509999999999986, 3.858]found nothing
+Player 3 @[11.722999999999987, 6.988999999999997]found nothing
+Player 0 @[2.8620000000000005, 4.088999999999998]found item @(2, 3)
+Player 1 @[11.722999999999987, 7.165999999999997]found nothing
+Player 2 @[11.509999999999986, 3.858]found nothing
+Player 3 @[2.544000000000001, 6.383000000000003]found item @(2, 3)
+Player 0 @[3.0420000000000007, 4.088999999999998]found item @(2, 3)
+Player 1 @[11.722999999999987, 6.985999999999997]found nothing
+Player 2 @[11.509999999999986, 3.858]found nothing
+Player 3 @[2.544000000000001, 6.383000000000003]found item @(2, 3)
+Player 0 @[3.2250000000000005, 4.088999999999998]found item @(2, 3)
+Player 1 @[11.539999999999987, 6.985999999999997]found nothing
+Player 2 @[11.509999999999986, 3.858]found nothing
+Player 3 @[2.544000000000001, 6.383000000000003]found item @(2, 3)
+Player 0 @[3.4050000000000007, 4.088999999999998]found item @(2, 3)
+Player 1 @[11.359999999999987, 6.985999999999997]found nothing
+Player 2 @[11.509999999999986, 3.858]found nothing
+Player 3 @[2.544000000000001, 6.383000000000003]found item @(2, 3)
+Player 0 @[3.585000000000001, 4.088999999999998]found item @(2, 3)
+Player 1 @[11.179999999999987, 6.985999999999997]found nothing
+Player 2 @[11.509999999999986, 3.858]found nothing
+Player 3 @[2.544000000000001, 6.383000000000003]found item @(2, 3)
+Player 0 @[3.765000000000001, 4.088999999999998]found item @(2, 3)
+Player 1 @[10.999999999999988, 6.805999999999997]found item @(6, 5)
+Player 2 @[11.509999999999986, 3.858]found nothing
+Player 3 @[2.544000000000001, 6.383000000000003]found item @(2, 3)
+Player 0 @[3.942000000000001, 4.088999999999998]found item @(2, 3)
+Player 1 @[10.822999999999988, 6.628999999999998]found item @(6, 5)
+Player 2 @[11.509999999999986, 3.858]found nothing
+Player 3 @[2.544000000000001, 6.560000000000002]found item @(2, 3)
+Player 0 @[4.122000000000001, 4.088999999999998]found item @(2, 3)
+Player 1 @[10.642999999999988, 6.628999999999998]found item @(6, 5)
+Player 2 @[11.509999999999986, 3.858]found nothing
+Player 3 @[2.544000000000001, 6.560000000000002]found item @(2, 3)
+Player 0 @[4.299, 4.088999999999998]found item @(2, 3)
+Player 1 @[10.465999999999989, 6.628999999999998]found item @(6, 5)
+Player 2 @[11.509999999999986, 3.858]found nothing
+Player 3 @[2.544000000000001, 6.560000000000002]found item @(2, 3)
+Player 0 @[4.479, 4.088999999999998]found item @(2, 3)
+Player 1 @[10.285999999999989, 6.628999999999998]found item @(6, 5)
+Player 2 @[11.509999999999986, 3.858]found nothing
+Player 3 @[2.544000000000001, 6.740000000000002]found item @(2, 3)
+Player 0 @[4.665, 4.088999999999998]found item @(2, 3)
+Player 1 @[10.099999999999989, 6.628999999999998]found item @(6, 5)
+Player 2 @[11.509999999999986, 3.858]found nothing
+Player 3 @[2.544000000000001, 6.740000000000002]found item @(2, 3)
+Player 0 @[4.848, 4.088999999999998]found item @(2, 3)
+Player 1 @[9.91699999999999, 6.628999999999998]found item @(6, 5)
+Player 2 @[11.509999999999986, 3.858]found nothing
+Player 3 @[2.544000000000001, 6.740000000000002]found item @(2, 3)
+Player 0 @[5.034, 4.088999999999998]found item @(3, 5)
+Player 1 @[9.73099999999999, 6.628999999999998]found item @(6, 5)
+Player 2 @[11.509999999999986, 3.858]found nothing
+Player 3 @[2.544000000000001, 6.740000000000002]found item @(2, 3)
+Player 0 @[5.034, 3.9089999999999976]found item @(2, 3)
+Player 1 @[9.55099999999999, 6.628999999999998]found item @(6, 5)
+Player 2 @[11.509999999999986, 3.858]found nothing
+Player 3 @[2.544000000000001, 6.740000000000002]found item @(2, 3)
+Player 0 @[5.034, 4.091999999999998]found item @(2, 3)
+Player 1 @[9.36799999999999, 6.628999999999998]found item @(6, 5)
+Player 2 @[11.509999999999986, 3.858]found nothing
+Player 3 @[2.544000000000001, 6.740000000000002]found item @(2, 3)
+Player 0 @[4.854, 4.091999999999998]found item @(2, 3)
+Player 1 @[9.18799999999999, 6.628999999999998]found item @(6, 5)
+Player 2 @[11.509999999999986, 3.858]found nothing
+Player 3 @[2.544000000000001, 6.740000000000002]found item @(2, 3)
+Player 0 @[5.0520000000000005, 4.091999999999998]found item @(2, 3)
+Player 1 @[8.98999999999999, 6.628999999999998]found item @(6, 5)
+Player 2 @[11.509999999999986, 3.858]found nothing
+Player 3 @[2.544000000000001, 6.740000000000002]found item @(2, 3)
+Player 0 @[5.0520000000000005, 3.884999999999998]found item @(2, 3)
+Player 1 @[8.98999999999999, 6.628999999999998]found item @(6, 5)
+Player 2 @[11.509999999999986, 3.858]found nothing
+Player 3 @[2.544000000000001, 6.740000000000002]found 

@@ -1,0 +1,7187 @@
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.95,0)
+force move(0.95,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9311665499950825,2)
+force move(0.9311665499950825,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9161160634717328,0)
+force move(0.9161160634717328,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.905041964329276,3)
+force move(0.905041964329276,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9370221463357493,0)
+force move(0.9370221463357493,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9369843821475959,2)
+force move(0.9369843821475959,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9291870837301514,1)
+force move(0.9291870837301514,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9220606739613453,0)
+force move(0.9220606739613453,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9437324711554982,1)
+force move(0.9437324711554982,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9445324172205207,3)
+force move(0.9445324172205207,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9455969827023223,3)
+force move(0.9455969827023223,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9460630734889586,1)
+force move(0.9460630734889586,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9461397825813291,3)
+force move(0.9461397825813291,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9424532172113129,1)
+force move(0.9424532172113129,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9390869129541386,1)
+force move(0.9390869129541386,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9469780587745037,0)
+force move(0.9469780587745037,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9443048919303578,1)
+force move(0.9443048919303578,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9473184139063806,1)
+force move(0.9473184139063806,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9480026737398913,2)
+force move(0.9480026737398913,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9481060696641057,2)
+force move(0.9481060696641057,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.948122719443957,1)
+force move(0.948122719443957,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(-999999.743724063,2)
+Somewhat random movement(0,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(-999999.7469288015,2)
+Somewhat random movement(0,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(100,0)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(4.7406458307930865,0)
+force move(4.7406458307930865,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(100,0)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(4.731795776303219,3)
+force move(4.731795776303219,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(100,0)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(4.723416684034452,1)
+force move(4.723416684034452,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(100,0)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9482824495037916,3)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(4.741412247518958,0)
+force move(4.741412247518958,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9466538961076623,1)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(4.733269480538311,3)
+force move(4.733269480538311,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(-999999.744244826,0)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9449639872009812,2)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(4.724819936004906,1)
+force move(4.724819936004906,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(-999999.7479751818,0)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9431856255289941,2)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+tile has bomb(100,0)
+Somewhat random movement(0,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9414315029992482,0)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.84470123959902,0)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9398003577950418,1)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(-999999.7444681218,0)
+Somewhat random movement(0,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #3
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.8392571959714954,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.938124673019755,3)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(-999999.7483492442,0)
+Somewhat random movement(0,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(4.7407816364848765,1)
+force move(4.7407816364848765,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.8337897541205397,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9364419671570335,1)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.8284064278596444,0)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9347853201731606,2)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.740573627853068,3)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.823387350538917,1)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9332409130168876,3)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.731784430305797,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.818525871796294,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9317451304901609,2)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.723270646676189,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.8136398571178245,0)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9302419232918819,1)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.714713351433323,2)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(4.741014415690578,3)
+force move(4.741014415690578,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.808992919849204,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9288123810511828,2)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.706574285430363,3)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.804405941422983,0)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9274013866864941,3)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.698539786715953,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.800118953656169,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9260827608196143,3)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.6910303577754835,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(4.74173026594675,0)
+force move(4.74173026594675,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.7958796109586292,0)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.92477887116582,3)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.683604029499044,2)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.791614304201957,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9234670741160599,3)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.676131871271234,2)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.78769510412151,0)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9222617889319438,2)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.669265742278772,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(4.742088004122547,1)
+force move(4.742088004122547,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.783814587768342,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9210684606787058,2)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.662467114481272,3)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.7799742030511343,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9198875304666919,3)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.655738542061089,3)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.7763090521699483,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9187605358371549,1)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.64931676126644,3)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.7727440787934583,1)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9176643902436588,3)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.643070297426918,2)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.769402074538596,0)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.916636841550829,0)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.637214337049245,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.766084041989337,1)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9156166992574304,3)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.631400216426922,3)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.7627915089990576,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9146044308507666,3)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.6256306222908865,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.759643123841032,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9136365100776203,3)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.620113482402713,3)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.756574032082015,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.912692994081876,2)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.614735167273788,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.7535813003592757,0)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.911772977899368,2)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.609490550480117,2)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.7506077482255025,1)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9108588810363684,1)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.604279435922986,2)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.7477608082229033,0)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9099837265662234,0)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.5992901096999335,2)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.7449304133793166,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9091136772218553,0)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.594329688055902,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.7421684021752224,1)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9082646661637557,2)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.589489028360964,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.739521685881821,0)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9074511108774428,2)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.584850358050015,3)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(4.743477918975019,2)
+force move(4.743477918975019,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.736936310359809,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9066564245334837,1)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.580319126686456,1)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(4.737105434416476,0)
+force move(4.737105434416476,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.734174854198975,0)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9058076292666137,3)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.575479218732848,1)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(4.730297289611251,3)
+force move(4.730297289611251,3)
+FINAL MOVE CHOICE:((-99, 3.141592653589793))
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.7315276068202285,0)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.904993951724264,2)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.570839415079338,1)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(-999999.7450639048,1)
+Somewhat random movement(0,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.72876502499014,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.904144836982899,1)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.565997400904438,2)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.7261597668876796,1)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9033440889622881,0)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.561431072362785,3)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.743169907917461,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.723702902539654,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9025889603742749,1)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.557124790103462,2)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.736727138541946,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.7212198217247825,1)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9018257826417252,3)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.552772511250192,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.730213980972606,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.718795631755511,1)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9010807128325311,2)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.548523412946098,3)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.7238537543098245,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.716428274537714,1)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9003531172878625,2)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.544373892988859,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.71764121428259,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.7141157862145686,0)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.8996423914267277,1)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.540320513843729,2)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.711571350073816,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.7118562918651383,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.898947958105142,1)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.536359993401153,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.705639371678619,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.7096480005547585,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.898269266084617,1)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.532489196345918,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.6998406980611955,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.707525387341758,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.897616910036031,2)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.5287685563168125,1)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.694265992866169,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.705413644565241,0)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.8969678982007085,0)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.525066949261053,3)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.688718886718148,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.70327899626695,1)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.896311849690812,3)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.521325171767312,1)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.683110681844085,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.7013276056185784,0)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.8957121246510795,1)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.517904606224748,1)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.6779831457259995,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.6994167036433607,0)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.8951248449013782,0)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.514554998834738,2)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.672961292271746,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.697512556343817,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.8945396425802941,1)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.511217219157406,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.667956518407639,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.6956796158386345,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.8939763254274431,2)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.508004247126792,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.663138289898539,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.6940396687303405,1)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.8934723216407343,3)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.50512956625132,1)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.658826889963616,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.69239891524934,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.8929680705562287,0)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.502253464987539,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.654512921901793,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.690788338991136,0)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.8924730941418759,0)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.4994302558296795,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.650277876248319,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.689177561350471,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.891978055996925,3)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.4966066884142,2)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.646041897948657,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(2.6876254366751704,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.8915010435810555,2)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.493885930743296,2)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.6419597956204015,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.8953670327333547,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.89103257050289,3)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.491213876663408,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.637950432343971,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.8949052949346155,1)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.8906068543060421,3)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.4887856961564525,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.6343067192879985,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.894460272366786,0)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.8901965489942576,2)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.486445415620226,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.6307946668575015,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.8939951513182913,0)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.8897677126689647,1)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.4839994398614555,2)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.62712375286524,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.8936090240949351,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.8894117073156423,3)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.481968875489968,3)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.624076103066178,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.89321071575107,1)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.88904447060537,1)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.479874252558554,2)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.620932139137171,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.8928268515720024,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.888690550750995,1)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.477855588317178,3)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.617902029108427,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.8924569419351884,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.8883494963230545,3)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.475910308205923,2)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.614981930264754,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.8920752479075027,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.8879975761269161,3)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.473903056613626,3)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.611968663547437,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.8916989817330887,0)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.8876506596998248,3)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.471924349492458,1)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.608998111744277,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.8913362153534836,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.887316189346248,0)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.470016635725271,1)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.6061340160598485,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.8909784246407602,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.8869863058267647,1)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.4681350888358695,1)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.60330909085365,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.8906175433384256,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.8866535719958065,3)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.466237290262569,1)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.600459654518428,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.8902695101901383,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.464407058645897,1)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.597711564229494,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.8899184048198602,0)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.462560672288478,3)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.594939120017448,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.889579736815202,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.460779692844685,1)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.592264798282352,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.8892380167976268,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.458982665245932,2)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.5895662931343,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.8889009000743116,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.4572098471683175,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.586904061437972,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.8885829824841942,1)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.455537994682031,1)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.584393378767643,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.888254603885493,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.453811132283364,2)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.581800016880747,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.452144708074907,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.579297356239958,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.4504996776782715,2)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.576826766782273,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.448838963832142,2)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.574332567040828,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.447272176911242,1)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.571979385453149,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.569655135330138,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.567306232449361,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.565091336846193,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.562902572016022,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.5606371100427925,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.55839931356147,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.556288583285225,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.554152796770648,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.5520420639572325,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.549955949573329,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.54789402830384,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.545855884509096,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.543794531651909,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.541803262869304,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.539834571098419,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.907568614157485,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9071926819034374,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.906847270449945,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9065053372386636,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9061668303145519,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9058488036640713,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9055083593134418,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9051797462219777,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9048543628046197,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.90453216195742,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9042130974827078,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9038890624336933,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9035762131701057,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9032663658038456,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9029673098842642,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9026632645506336,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9023544114760805,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9020637646151667,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9017682299135147,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9014754532217533,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9011779943849858,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9008906880209291,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9006132924207606,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9003383739637467,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9000587621222649,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(10,0)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(0.0007996401199671377,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(0.0007996401199671377,0)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(0.0007996401199671377,0)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #3
+tile has bomb(0.0007996401199671377,0)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(10,3)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(0.0007996401199671377,0)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(0.0007996401199671377,2)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(0.0007996401199671377,0)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(0.0007996401199671377,2)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(0.0007996401199671377,0)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(0.0007996401199671377,2)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(0.0007996401199671377,0)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(0.0007996401199671377,2)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(0.0007996401199671377,0)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(0.0007996401199671377,2)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(0.0007996401199671377,0)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(0.0007996401199671377,2)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9495187563183979,2)
+force move(0.9495187563183979,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(0.0007996401199671377,2)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9490416132313807,3)
+force move(0.9490416132313807,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(0.0007996401199671377,2)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9485081566009257,0)
+force move(0.9485081566009257,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(0.0007996401199671377,2)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #3
+tile has bomb(0.0007996401199671377,0)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(0.0007996401199671377,2)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9494575120002657,0)
+force move(0.9494575120002657,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(0.0007996401199671377,2)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(0.0007996401199671377,0)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(-999999.7440959994,1)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(3.7979065349155516,1)
+force move(3.7979065349155516,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(0.25269765939674904,2)
+Somewhat random movement(0,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(3.795879386948271,0)
+force move(3.795879386948271,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(0.24887687377356515,2)
+Somewhat random movement(0,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #3
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(3.793498766617185,2)
+force move(3.793498766617185,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,2)
+not move(-99,3.141592653589793)
+force move(4.747245807969128,2)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,2)
+not move(-99,3.141592653589793)
+force move(4.747273079988127,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(10,0)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(-999999.7440215973,1)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(0.2523239334887398,0)
+Somewhat random movement(0,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #0
+tile has bomb(-999999.7444681218,1)
+Somewhat random movement(0,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(0.24865151430125232,0)
+Somewhat random movement(0,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #0
+tile has bomb(100,0)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.747268313511276,2)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(0.24503655334902308,0)
+Somewhat random movement(0,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #0
+tile has bomb(100,0)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.744506955381568,2)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(0.24132834016484317,0)
+Somewhat random movement(0,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #0
+tile has bomb(100,0)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.741717199493938,3)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(0.237525673250381,0)
+Somewhat random movement(0,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #0
+tile has bomb(100,0)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.7389552697041175,2)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.747196751897469,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.73622075839825,3)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.74442131244326,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.741509257192834,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.7387357196951365,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.736097007337586,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.733377322835413,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.730789609925065,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.728122249079293,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.725635654021031,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.7230697112502815,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.7473834735204035,2)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.720578774353266,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.718010721006829,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.715467362008669,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.712997508682887,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.710550731920974,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.708174973768154,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(1.8989410302961813,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.7057251446402475,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(1.8979534207184443,0)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.703440472323958,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(1.8968527256961076,0)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.747222985234333,3)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.700894276185805,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(1.89572269299446,0)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.69828030196493,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(1.8946239996607592,0)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.695738905735278,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(1.8935755702831418,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.693313852091908,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(1.892498124064152,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.690821758639272,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(1.8915085017480662,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.688532866840733,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(1.8904513245833416,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9494506350430494,0)
+force move(0.9494506350430494,0)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.686087799209089,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(1.8894423329090733,1)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.683754244343686,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(1.8884052333821895,1)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.681355751342155,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(1.8874153177875859,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.747390363342807,2)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.679066444455248,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(1.886416151851134,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.676755807842612,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(1.8854263700886538,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9494732051897202,1)
+force move(0.9494732051897202,1)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.6744669343788425,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(1.8844819951117648,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.6722831208419215,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(1.8834923494334022,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.669994680056739,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(1.882565277256515,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9494996152555815,3)
+force move(0.9494996152555815,3)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.667850987146344,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(1.8816112685115245,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.665645061992782,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(1.8806660251310092,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.7474256302005555,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.66345945805906,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(1.8797121649529454,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.6612539835006315,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(1.8787842555325813,1)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.659108561947484,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(1.8778986665496606,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9495108697212491,1)
+force move(0.9495108697212491,1)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.657061035787984,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(1.8769703647948042,1)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.654914803495175,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(1.8760672107869227,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.747483222326735,3)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.652826759349724,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(1.875139144370002,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9494804125581656,3)
+force move(0.9494804125581656,3)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.744896914304082,1)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.650681166389097,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(1.8742523460719454,1)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9489839081234357,3)
+force move(0.9489839081234357,3)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.648631025382186,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(1.8733410137675923,0)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9484736459347026,1)
+force move(0.9484736459347026,1)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.646524210203492,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(1.8724701365170913,1)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9479860146352919,0)
+force move(0.9479860146352919,0)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.7475282781265555,3)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.644510960742153,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(1.8715750954617172,0)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.94748483287978,2)
+force move(0.94748483287978,2)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.74498785604709,3)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.642441892782405,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(1.8706724184338608,0)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.742425640012019,1)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(10,0)
+not move(-99,3.141592653589793)
+force move(4.640355215526132,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(1.8697936678505935,1)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,2)
+not move(-99,3.141592653589793)
+force move(4.638323888757156,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(1.8689383100752872,1)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(10,2)
+not move(-99,3.141592653589793)
+force move(4.636346675230039,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(1.8681826108015844,1)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9495611766769113,0)
+force move(0.9495611766769113,0)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,2)
+not move(-99,3.141592653589793)
+force move(4.634599859677998,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(1.8674480632567882,1)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(10,2)
+not move(-99,3.141592653589793)
+force move(4.6329019644505856,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(1.86668886951955,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(10,2)
+not move(-99,3.141592653589793)
+force move(4.631147128280498,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(1.8659656997400969,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(-999999.7443936825,1)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.629475586117229,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(1.8652033323969224,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+in trapped(9313.583606300866,2)
+Somewhat random movement(0,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.747751587721193,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.62771347004675,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(1.8645061705596628,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+in trapped(9162.684984313733,2)
+Somewhat random movement(0,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.626102092974652,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9319144062604057,1)
+FINAL MOVE CHOICE:(None)
+Player #1
+in trapped(9014.99697130505,0)
+Somewhat random movement(0,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.624536511553755,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9316510509865508,1)
+FINAL MOVE CHOICE:(None)
+Player #1
+in trapped(8899.415048080862,3)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.623319137623312,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9313746672720771,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+in trapped(8777.411906899777,2)
+Somewhat random movement(0,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.622041553117882,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.931099915123217,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+in trapped(8655.40876571869,2)
+Somewhat random movement(0,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.620771524725507,3)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9308267803000783,0)
+FINAL MOVE CHOICE:(None)
+Player #1
+in trapped(8533.405624537603,1)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.619508986262518,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9305552487260643,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+in trapped(8411.402483356518,2)
+Somewhat random movement(0,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.618253872308281,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9302853064855681,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+in trapped(8289.399342175431,0)
+Somewhat random movement(0,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.617006118194348,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9300169398217051,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+in trapped(8167.396200994345,3)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.748370311301289,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.61576565999379,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9297501351340841,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+in trapped(8045.393059813259,1)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.746750039842019,2)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.614532434510698,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.929470960769154,1)
+FINAL MOVE CHOICE:(None)
+Player #1
+in trapped(7916.968700675274,0)
+Somewhat random movement(0,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.6132420474945475,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9292004029794313,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+in trapped(7791.754950515738,3)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.611991500810791,1)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9289383237602147,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+in trapped(7669.751809334652,1)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.748389345411605,3)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.610780155255718,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9286777526175423,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+in trapped(7547.748668153565,2)
+Somewhat random movement(0,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.609575792003833,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.928411879001596,0)
+FINAL MOVE CHOICE:(None)
+Player #1
+in trapped(7422.5349179940295,1)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.608346932767391,0)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.928161083350886,0)
+FINAL MOVE CHOICE:(None)
+Player #1
+in trapped(7303.742385791393,2)
+Somewhat random movement(0,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(100,0)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #3
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(4.607187774525593,2)
+FINAL MOVE CHOICE:(None)
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9279049599787278,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+in trapped(7181.739244610306,3)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(10,2)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #3
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9276502941828331,1)
+FINAL MOVE CHOICE:(None)
+Player #1
+in trapped(7059.73610342922,2)
+Somewhat random movement(0,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(10,3)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9273837860984764,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+in trapped(6931.311744291234,3)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(0.25620156457828835,3)
+Somewhat random movement(0,3)
+force move(2.774760677201317,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(-999999.7437984354,0)
+Somewhat random movement(0,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9270990598383876,1)
+FINAL MOVE CHOICE:(None)
+Player #1
+in trapped(6793.2555582179,0)
+Somewhat random movement(0,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(0.2529965056176997,3)
+Somewhat random movement(0,3)
+force move(2.7287419485102054,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(-999999.7470034944,0)
+Somewhat random movement(0,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9268161505173805,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+in trapped(6655.199372144565,2)
+Somewhat random movement(0,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(-999999.7440215973,3)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(-999900,0)
+Somewhat random movement(0,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9265024698515303,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+in trapped(6501.090141178982,1)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #2
+tile has bomb(-999999.7476013064,3)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(-999900,0)
+Somewhat random movement(0,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9262039418744226,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+in trapped(6353.402128170299,3)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(-999999.7510480214,3)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(-999999.7573073473,2)
+Somewhat random movement(0,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(0.9258945851992983,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+in trapped(6199.292897204716,3)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(-999999.7546615368,3)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(-999999.7609509781,2)
+Somewhat random movement(0,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9255874024672044,1)
+force move(0.9255874024672044,1)
+FINAL MOVE CHOICE:(None)
+Player #1
+in trapped(6045.183666239133,1)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #2
+tile has bomb(-999999.7582924378,3)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #3
+tile has bomb(-999999.7646121396,2)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+in trapped(5891.074435273551,3)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(0.2380591918503261,3)
+Somewhat random movement(0,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #3
+tile has bomb(-999999.7682909159,2)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+in trapped(5730.543986351069,3)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(0.23424013908307384,3)
+Somewhat random movement(0,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #3
+tile has bomb(-999999.7721417971,2)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #0
+in a*(999999,2)
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+in trapped(5566.802928450137,0)
+Somewhat random movement(0,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(0.2303249843880667,3)
+Somewhat random movement(0,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #3
+tile has bomb(-999999.7760895812,2)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+in trapped(5403.061870549206,2)
+Somewhat random movement(0,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(0.2263898124042617,3)
+Somewhat random movement(0,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #3
+tile has bomb(0.21994245067006934,2)
+Somewhat random movement(0,2)
+force move(2.2653440526206405,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+in a*(999999,2)
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+in trapped(5229.688985712925,2)
+Somewhat random movement(0,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(0.22220122781634244,3)
+Somewhat random movement(0,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #3
+tile has bomb(-999999.7448404303,2)
+Somewhat random movement(0,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+in trapped(5040.2630559843965,3)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(0.21759888160256713,3)
+Somewhat random movement(0,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #3
+tile has bomb(-999999.7492477574,2)
+Somewhat random movement(0,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+in a*(999999,2)
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+in trapped(4841.205299320519,2)
+Somewhat random movement(0,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(0.2127331698292465,3)
+Somewhat random movement(0,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #3
+tile has bomb(-999999.7539072902,2)
+Somewhat random movement(0,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+in trapped(4651.77936959199,1)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(3.798131729485792,2)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(0.2416317329767821,3)
+Somewhat random movement(0,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+in a*(999999,2)
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+in trapped(4449.511003949663,3)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(3.796153850895153,1)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(0.23683917180149117,3)
+Somewhat random movement(0,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+in trapped(4263.295683199584,3)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(3.7943483265144433,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(0.23240020036894482,3)
+Somewhat random movement(0,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+in a*(999999,2)
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+in trapped(4067.448535514156,2)
+Somewhat random movement(0,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(3.7924651228444626,3)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(0.2277037668488412,3)
+Somewhat random movement(0,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+in trapped(3878.0226057856275,0)
+Somewhat random movement(0,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(3.7906588002808155,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(0.22313397994293327,3)
+Somewhat random movement(0,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+in a*(999999,2)
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+in trapped(3682.1754581001996,0)
+Somewhat random movement(0,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(3.788806704067101,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+tile has bomb(0.2183808525724219,3)
+Somewhat random movement(0,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #1
+tile has bomb(0.2137559006537163,0)
+Somewhat random movement(0,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(3.787030102214324,1)
+FINAL MOVE CHOICE:(None)
+Player #3
+in trapped(3492.7495283716707,1)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #1
+tile has bomb(0.20902449259342337,3)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(3.7852381029593944,3)
+FINAL MOVE CHOICE:(None)
+Player #3
+in trapped(3300.1129896646926,3)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #1
+tile has bomb(0.2041850386379238,3)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(3.783431264512844,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+in trapped(3104.2658419792647,1)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #1
+tile has bomb(0.19939603567329622,3)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(3.7816686486569546,2)
+FINAL MOVE CHOICE:(None)
+Player #3
+in trapped(2911.6293032722865,3)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #1
+tile has bomb(0.19457821376141493,3)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(3.7799203398642387,2)
+FINAL MOVE CHOICE:(None)
+Player #3
+in trapped(2718.9927645653083,1)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(3.7781861672844297,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+in trapped(2526.3562258583297,2)
+Somewhat random movement(0,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(3.776494519250157,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+in trapped(2336.9302961298013,3)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(3.774787888463279,3)
+FINAL MOVE CHOICE:(None)
+Player #3
+in trapped(2144.293757422823,1)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(3.773123005392814,3)
+FINAL MOVE CHOICE:(None)
+Player #3
+in trapped(1954.8678276942942,2)
+Somewhat random movement(0,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(3.771443275000288,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+in trapped(1762.231288987316,2)
+Somewhat random movement(0,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(3.769721551672682,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+in trapped(1563.1735323234384,3)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(3.768041318392794,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+in trapped(1367.3263846380105,1)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(10,3)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(3.766347318779117,2)
+FINAL MOVE CHOICE:(None)
+Player #3
+in trapped(1168.2686279741329,2)
+Somewhat random movement(0,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #0
+tile has bomb(10,3)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(3.764721034032234,1)
+FINAL MOVE CHOICE:(None)
+Player #3
+in trapped(975.6320892671545,1)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(10,3)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(3.763080668414502,3)
+FINAL MOVE CHOICE:(None)
+Player #3
+in trapped(779.7849415817265,3)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(3.7614798561530383,3)
+FINAL MOVE CHOICE:(None)
+Player #3
+in trapped(587.1484028747482,1)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(10,3)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9495222931389834,1)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(3.7597332938184067,1)
+FINAL MOVE CHOICE:(None)
+Player #3
+in trapped(375.2482102970721,3)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #0
+tile has bomb(10,3)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9490271918500977,1)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(3.7579231965145934,2)
+FINAL MOVE CHOICE:(None)
+Player #3
+in trapped(153.71619078404697,1)
+Somewhat random movement(0,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #0
+tile has bomb(10,3)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #1
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9485647803658734,2)
+force move(0.9485647803658734,2)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(3.756232669591083,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(3.7545048008701816,3)
+FINAL MOVE CHOICE:(None)
+Player #3
+Player #0
+tile has bomb(10,3)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(3.7528935116331557,1)
+FINAL MOVE CHOICE:(None)
+Player #3
+Player #0
+tile has bomb(10,3)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(3.751421469665151,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+Player #0
+tile has bomb(10,3)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #1
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9496042962951626,2)
+force move(0.9496042962951626,2)
+FINAL MOVE CHOICE:(None)
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(3.7500104140631585,3)
+FINAL MOVE CHOICE:(None)
+Player #3
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(3.74855944208291,2)
+FINAL MOVE CHOICE:(None)
+Player #3
+Player #0
+tile has bomb(10,3)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(3.7470695359853714,1)
+FINAL MOVE CHOICE:(None)
+Player #3
+Player #0
+tile has bomb(10,3)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(3.7457381689983205,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+Player #0
+tile has bomb(10,3)
+not move(-99,3.141592653589793)
+force move(0.9496237691922063,1)
+force move(0.9496237691922063,1)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(3.7444157545644603,2)
+FINAL MOVE CHOICE:(None)
+Player #3
+Player #0
+tile has bomb(10,3)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(3.7431022038329305,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+Player #0
+tile has bomb(10,0)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(3.7417492715253005,1)
+FINAL MOVE CHOICE:(None)
+Player #3
+Player #0
+tile has bomb(10,3)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(3.7404774236625364,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+Player #0
+tile has bomb(10,3)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(3.7391425864235304,3)
+FINAL MOVE CHOICE:(None)
+Player #3
+Player #0
+tile has bomb(-999999.7448404303,3)
+Somewhat random movement(0,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #2
+tile has bomb(100,0)
+not move(-99,3.141592653589793)
+force move(3.7378640957129274,0)
+FINAL MOVE CHOICE:(None)
+Player #3
+Player #0
+tile has bomb(0.2508271599184776,3)
+Somewhat random movement(0,3)
+force move(2.6977060617185256,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+Player #3
+Player #0
+tile has bomb(10,3)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+Player #3
+Player #0
+tile has bomb(10,3)
+not move(-99,3.141592653589793)
+force move(1.8994571118882968,3)
+force move(1.8994571118882968,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+Player #3
+Player #0
+tile has bomb(10,3)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #1
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9497224562533088,2)
+force move(0.9497224562533088,2)
+FINAL MOVE CHOICE:(None)
+Player #2
+Player #3
+Player #0
+tile has bomb(10,3)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+Player #3
+Player #0
+tile has bomb(10,3)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #1
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9497238354968891,0)
+force move(0.9497238354968891,0)
+FINAL MOVE CHOICE:(None)
+Player #2
+Player #3
+Player #0
+tile has bomb(10,3)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+Player #3
+Player #0
+tile has bomb(10,3)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+Player #3
+Player #0
+tile has bomb(10,3)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+Player #3
+Player #0
+tile has bomb(10,3)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9497398150030258,1)
+force move(0.9497398150030258,1)
+FINAL MOVE CHOICE:(None)
+Player #2
+Player #3
+Player #0
+tile has bomb(10,3)
+not move(-99,3.141592653589793)
+force move(1.8994808307175715,0)
+force move(1.8994808307175715,0)
+FINAL MOVE CHOICE:((-99, 3.141592653589793))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #2
+Player #3
+Player #0
+tile has bomb(-999999.7438728153,3)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #1
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9497277637051167,1)
+force move(0.9497277637051167,1)
+FINAL MOVE CHOICE:(None)
+Player #2
+Player #3
+Player #0
+tile has bomb(-999999.7472276179,3)
+Somewhat random movement(0,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9494304805853631,1)
+force move(0.9494304805853631,1)
+FINAL MOVE CHOICE:(None)
+Player #2
+Player #3
+Player #0
+tile has bomb(-999999.7505975503,3)
+not move(-99,3.141592653589793)
+force move(2.849108348604993,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #2
+Player #3
+Player #0
+tile has bomb(-999999.7539826808,3)
+Somewhat random movement(0,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+Player #3
+Player #0
+tile has bomb(-999999.7574588164,3)
+Somewhat random movement(0,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+Player #3
+Player #0
+tile has bomb(-999999.7607988107,3)
+Somewhat random movement(0,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+Player #3
+Player #0
+tile has bomb(-999999.764077125,3)
+not move(-99,3.141592653589793)
+force move(2.8491567893514995,0)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #2
+Player #3
+Player #0
+tile has bomb(-999999.7674463027,3)
+Somewhat random movement(0,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+Player #3
+Player #0
+tile has bomb(100,0)
+Somewhat random movement(0,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #1
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9497008843776281,2)
+force move(0.9497008843776281,2)
+FINAL MOVE CHOICE:(None)
+Player #2
+Player #3
+Player #0
+tile has bomb(10,2)
+not move(-99,3.141592653589793)
+force move(1.8994421702608126,1)
+force move(1.8994421702608126,1)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #2
+Player #3
+Player #0
+tile has bomb(10,2)
+not move(-99,3.141592653589793)
+force move(1.898874224078077,1)
+force move(1.898874224078077,1)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,2)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+Player #3
+Player #0
+tile has bomb(10,2)
+not move(-99,3.141592653589793)
+force move(1.898296336186226,1)
+force move(1.898296336186226,1)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+Player #3
+Player #0
+tile has bomb(10,2)
+not move(-99,3.141592653589793)
+force move(1.8977214251586343,2)
+force move(1.8977214251586343,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+Player #3
+Player #0
+tile has bomb(10,2)
+not move(-99,3.141592653589793)
+force move(1.897149468429514,3)
+force move(1.897149468429514,3)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+Player #3
+Player #0
+tile has bomb(10,2)
+not move(-99,3.141592653589793)
+force move(1.8966056716947406,1)
+force move(1.8966056716947406,1)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+Player #3
+Player #0
+tile has bomb(10,2)
+not move(-99,3.141592653589793)
+force move(1.8960394278975685,0)
+force move(1.8960394278975685,0)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+Player #3
+Player #0
+tile has bomb(10,2)
+not move(-99,3.141592653589793)
+force move(1.8955010499530696,2)
+force move(1.8955010499530696,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+Player #3
+Player #0
+tile has bomb(10,2)
+not move(-99,3.141592653589793)
+force move(1.8949404352868067,1)
+force move(1.8949404352868067,1)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9497139669219872,1)
+force move(0.9497139669219872,1)
+FINAL MOVE CHOICE:(None)
+Player #2
+Player #3
+Player #0
+tile has bomb(10,2)
+not move(-99,3.141592653589793)
+force move(1.8944073968268715,1)
+force move(1.8944073968268715,1)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+Player #3
+Player #0
+tile has bomb(10,2)
+not move(-99,3.141592653589793)
+force move(1.8938277246817545,2)
+force move(1.8938277246817545,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+Player #3
+Player #0
+tile has bomb(10,2)
+not move(-99,3.141592653589793)
+force move(1.893263348336986,0)
+force move(1.893263348336986,0)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+not move(-99,3.141592653589793)
+force move(0.9497098402344228,2)
+force move(0.9497098402344228,2)
+FINAL MOVE CHOICE:(None)
+Player #2
+Player #3
+Player #0
+tile has bomb(10,2)
+not move(-99,3.141592653589793)
+force move(1.892726231533167,2)
+force move(1.892726231533167,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+Player #3
+Player #0
+tile has bomb(10,2)
+not move(-99,3.141592653589793)
+force move(1.8921675241906983,1)
+force move(1.8921675241906983,1)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+Player #3
+Player #0
+tile has bomb(10,2)
+not move(-99,3.141592653589793)
+force move(1.8916357896968163,2)
+force move(1.8916357896968163,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,1)
+force move(4.957974782547071,1)
+FINAL MOVE CHOICE:((-98, 1))
+Player #2
+Player #3
+Player #0
+tile has bomb(10,2)
+not move(-99,3.141592653589793)
+force move(1.8910946619810693,1)
+force move(1.8910946619810693,1)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,3)
+force move(4.957974782547071,3)
+FINAL MOVE CHOICE:((-98, 3))
+Player #2
+Player #3
+Player #0
+tile has bomb(10,2)
+not move(-99,3.141592653589793)
+force move(1.890568172044996,2)
+force move(1.890568172044996,2)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+Player #3
+Player #0
+tile has bomb(10,2)
+not move(-99,3.141592653589793)
+force move(1.89002049259839,0)
+force move(1.89002049259839,0)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,0)
+Somewhat random movement(0,0)
+force move(4.957974782547071,0)
+FINAL MOVE CHOICE:((-98, 0))
+Player #2
+Player #3
+Player #0
+tile has bomb(10,2)
+not move(-99,3.141592653589793)
+force move(1.889499228833261,1)
+force move(1.889499228833261,1)
+FINAL MOVE CHOICE:(None)
+Player #1
+tile has bomb(10,1)
+Somewhat random movement(0,2)
+force move(4.957974782547071,2)
+FINAL MOVE CHOICE:((-98, 2))
+Player #2
+Player #3
